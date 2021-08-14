@@ -1,0 +1,38 @@
+on:
+  push:
+    branches:
+      - master
+jobs:
+  sync-eips:
+    runs-on: ubuntu-latest
+    # don't trigger on bot updates
+    if: "!contains(github.event.head_commit.message, '[grue-bot]')"
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: Scrape EIPs
+      run: |
+        chmod +x "${GITHUB_WORKSPACE}/scrape-eips.sh"
+        "${GITHUB_WORKSPACE}/scrape-eips.sh"
+    - name: Check for changes
+      run: |
+        if git diff --exit-code -- .cache/eip-index; then
+          echo "changes_exist=false" >> $GITHUB_ENV
+        else
+          echo "changes_exist=true" >> $GITHUB_ENV
+        fi
+    - name: Commit files
+      if: ${{ env.changes_exist == 'true' }}
+      run: |
+        git config --local user.email "grue-bot@users.noreply.github.com"
+        git config --local user.name "grue-bot"
+        git add .
+        git commit -am "[grue-bot] Generate .cache/eip-index"
+    - name: Push changes
+      if: ${{ env.changes_exist == 'true' }}
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.FZF_TOKEN}}
+        branch: ${{ github.ref }}
