@@ -1,4 +1,4 @@
-function eip() {
+function eip () {
   URL="https://github.com/ethereum/EIPs/blob/master/EIPS/eip"
   eip_number=$(
     fzf --no-sort \
@@ -11,6 +11,6 @@ function eip() {
   # do nothing if nothing selected
   [[ -z $eip_number ]] && return
   (
-    ${FZF_BROWSER} "${URL}-${eip_number}.md" > /dev/null 2>&1 &
+    "${FZF_BROWSER}" "${URL}-${eip_number}.md" > /dev/null 2>&1 &
   )
 }
