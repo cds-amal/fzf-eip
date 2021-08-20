@@ -19,12 +19,14 @@ demo](https://www.youtube.com/watch?v=2VOZV9tsmGs)
 
 1. Clone this repo
    ```sh
-   git clone git@github.com:cds-amal/fzf-eip ~/.fzf-eip
+   git clone https://github.com/cds-amal/fzf-eip.git ~/.fzf-eip
    ```
-1. Edit your shell startup script file
+1. Edit your .bashrc or .zshrc startup script file. If you don't know, enter
+   `ps -p $$` to know your currently running shell. Modify `~/.bashrc` for bash
+   and `~/.zshrc` for zsh.
 
    ```sh
-   # somewhere in your .(zsh/bash)rc file...
+   # somewhere in your .bashrc or .zshrc file...
 
    # FZF_EIP_HOME is the directory where you cloned to
    export FZF_EIP_HOME=$HOME/.fzf-eip
