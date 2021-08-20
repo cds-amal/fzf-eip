@@ -22,9 +22,13 @@ demo](https://www.youtube.com/watch?v=2VOZV9tsmGs)
    export FZF_EIP_HOME=$HOME/.fzf-eip
    source $FZF_EIP_HOME/init.sh
    ```
-## A note on Browser configuration
+## A note on browser configuration
 
-For non WSL linux and Mac OS X, this script relies on `xdg-open`. You can configure this to a different browser if `xdg-open` is not an alternative for you.
+For non WSL linux and Mac OS X, this script relies on `xdg-open`. You can
+[configure](./init.sh) this to a different browser if `xdg-open` is not viable for your
+setup.
 
-For WSL2, it relies on the fullpath to the browser executable. You can change the default to use the browser of your choice. ./init.sh for more details.
+For WSL2, it relies on the fullpath to the browser executable. You can change
+the default to use the browser of your choice in [init.sh](./init.sh) for more
+details.
 
