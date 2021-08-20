@@ -1,0 +1,378 @@
+ 1 EIP Purpose and Guidelines 
+ 2 Homestead Hard-fork Changes 
+ 3 Addition of CALLDEPTH opcode 
+ 4 EIP Classification 
+ 5 Gas Usage for `RETURN` and `CALL*` 
+ 6 Renaming SUICIDE opcode 
+ 7 DELEGATECALL 
+ 8 devp2p Forward Compatibility Requirements for Homestead 
+ 20 Token Standard 
+ 55 Mixed-case checksum address encoding 
+ 86 Abstraction of transaction origin and signature 
+ 100 Change difficulty adjustment to target mean block time including uncles 
+ 101 Serenity Currency and Crypto Abstraction 
+ 107 safe "eth_sendTransaction" authorization via html popup 
+ 137 Ethereum Domain Name Service - Specification 
+ 140 REVERT instruction 
+ 141 Designated invalid EVM instruction 
+ 145 Bitwise shifting instructions in EVM 
+ 150 Gas cost changes for IO-heavy operations 
+ 152 Add BLAKE2 compression function `F` precompile 
+ 155 Simple replay attack protection 
+ 158 State clearing 
+ 160 EXP cost increase 
+ 161 State trie clearing (invariant-preserving alternative) 
+ 162 Initial ENS Hash Registrar 
+ 165 Standard Interface Detection 
+ 170 Contract code size limit 
+ 173 Contract Ownership Standard 
+ 181 ENS support for reverse resolution of Ethereum addresses 
+ 190 Ethereum Smart Contract Packaging Standard 
+ 191 Signed Data Standard 
+ 196 Precompiled contracts for addition and scalar multiplication on the elliptic curve alt_bn128 
+ 197 Precompiled contracts for optimal ate pairing check on the elliptic curve alt_bn128 
+ 198 Big integer modular exponentiation 
+ 205 ENS support for contract ABIs 
+ 210 Blockhash refactoring 
+ 211 "New opcodes: RETURNDATASIZE and RETURNDATACOPY" 
+ 214 New opcode STATICCALL 
+ 225 Clique proof-of-authority consensus protocol 
+ 233 Formal process of hard forks 1679 "Hardfork Meta: Istanbul" 
+ 234 Add `blockHash` to JSON-RPC filter options. 
+ 600 Ethereum purpose allocation for Deterministic Wallets 
+ 601 Ethereum hierarchy for deterministic wallets 
+ 606 "Hardfork Meta: Homestead" 
+ 607 "Hardfork Meta: Spurious Dragon" 
+ 608 "Hardfork Meta: Tangerine Whistle" 
+ 609 "Hardfork Meta: Byzantium" 
+ 615 Subroutines and Static Jumps for the EVM 
+ 616 SIMD Operations for the EVM 
+ 627 Whisper Specification 
+ 634 Storage of text records in ENS 
+ 649 Metropolis Difficulty Bomb Delay and Block Reward Reduction 
+ 658 Embedding transaction status code in receipts 
+ 663 Unlimited SWAP and DUP instructions 
+ 665 Add precompiled contract for Ed25519 signature verification 
+ 681 URL Format for Transaction Requests 
+ 689 Address Collision of Contract Address Causes Exceptional Halt 
+ 695 Create `eth_chainId` method for JSON-RPC 
+ 698 OPCODE 0x46 BLOCKREWARD 
+ 706 DEVp2p snappy compression 
+ 712 Ethereum typed structured data hashing and signing 
+ 721 Non-Fungible Token Standard 
+ 725 Smart Contract Based Account 
+ 747 Add wallet_watchAsset to Provider 
+ 758 Subscriptions and filters for completed transactions 
+ 777 Token Standard 
+ 778 Ethereum Node Records (ENR) 
+ 779 "Hardfork Meta: DAO Fork" 
+ 801 Canary Standard 
+ 820 Pseudo-introspection Registry Contract 
+ 823 Token Exchange Standard 
+ 831 URI Format for Ethereum 
+ 858 Reduce block reward and delay difficulty bomb 
+ 867 Standardized Ethereum Recovery Proposals 
+ 868 Node Discovery v4 ENR Extension 
+ 875 Simpler NFT standard with batching and native atomic swaps 
+ 884 DGCL Token 
+ 897 DelegateProxy 
+ 900 Simple Staking Interface 
+ 902 Token Validation 
+ 908 Reward clients for a sustainable network 
+ 918 Mineable Token Standard 
+ 926 Address metadata registry 
+ 927 Generalised authorisations 
+ 969 Modifications to ethash to invalidate existing dedicated hardware implementations 
+ 998 ERC-998 Composable Non-Fungible Token Standard 
+ 999 Restore Contract Code at 0x863DF6BFa4469f3ead0bE8f9F2AAE51c91A907b4 
+ 1010 Uniformity Between 0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B and 0x15E55EF43efA8348dDaeAa455F16C43B64917e3c 
+ 1011 Hybrid Casper FFG 
+ 1013 "Hardfork Meta: Constantinople" 
+ 1014 Skinny CREATE2 
+ 1015 Configurable On Chain Issuance 
+ 1046 ERC20 Metadata Extension 
+ 1051 Overflow checking for the EVM 
+ 1052 EXTCODEHASH opcode 
+ 1056 Ethereum Lightweight Identity 
+ 1057 ProgPoW, a Programmatic Proof-of-Work 
+ 1062 Formalize IPFS hash into ENS(Ethereum Name Service) resolver 
+ 1066 Status Codes 
+ 1077 Gas relay for contract calls 
+ 1078 Universal login / signup using ENS subdomains 
+ 1080 Recoverable Token 
+ 1081 Standard Bounties 
+ 1087 Net gas metering for SSTORE operations 
+ 1102 Opt-in account exposure 
+ 1108 Reduce alt_bn128 precompile gas costs 
+ 1109 PRECOMPILEDCALL opcode (Remove CALL costs for precompiled contracts) 
+ 1123 Revised Ethereum Smart Contract Packaging Standard 
+ 1129 Standardised DAPP announcements 
+ 1132 Extending ERC20 with token locking capability 
+ 1153 Transient storage opcodes 
+ 1154 Oracle Interface 
+ 1155 Multi Token Standard 
+ 1167 Minimal Proxy Contract 
+ 1175 Wallet & shop standard for all tokens (erc20) 
+ 1178 Multi-class Token Standard 
+ 1185 Storage of DNS Records in ENS 
+ 1186 RPC-Method to get Merkle Proofs - eth_getProof 
+ 1191 Add chain id to mixed-case checksum address encoding 
+ 1193 Ethereum Provider JavaScript API 
+ 1202 Voting Standard 
+ 1203 ERC-1203 Multi-Class Token Standard (ERC-20 Extension) 
+ 1207 DAuth Access Delegation Standard 
+ 1227 Defuse Difficulty Bomb and Reset Block Reward 
+ 1234 Constantinople Difficulty Bomb Delay and Block Reward Adjustment 
+ 1240 Remove Difficulty Bomb 
+ 1261 Membership Verification Token (MVT) 
+ 1271 Standard Signature Validation Method for Contracts 
+ 1276 Eliminate Difficulty Bomb and Adjust Block Reward on Constantinople Shift 
+ 1283 Net gas metering for SSTORE without dirty maps 
+ 1285 Increase Gcallstipend gas in the CALL opcode 
+ 1295 Modify Ethereum PoW Incentive Structure and Delay Difficulty Bomb 
+ 1319 Smart Contract Package Registry Interface 
+ 1328 WalletConnect Standard URI Format 
+ 1337 Subscriptions on the blockchain 
+ 1344 ChainID opcode 
+ 1352 Specify restricted address range for precompiles/system contracts 
+ 1355 Ethash 1a 
+ 1363 Payable Token 
+ 1380 Reduced gas cost for call to self 
+ 1386 Attestation management contract 
+ 1387 Merkle Tree Attestations with Privacy enabled 
+ 1388 Attestation Issuers Management List 
+ 1417 Poll Standard 
+ 1418 Blockchain Storage Rent Payment 
+ 1438 dApp Components (avatar) & Universal Wallet 
+ 1444 Localized Messaging with Signal-to-Text 
+ 1450 ERC-1450 A compatible security token for issuing and trading SEC-compliant securities 
+ 1459 Node Discovery via DNS 
+ 1462 Base Security Token 
+ 1470 Smart Contract Weakness Classification (SWC) 
+ 1474 Remote procedure call specification 
+ 1482 Define a maximum block timestamp drift 
+ 1484 Digital Identity Aggregator 
+ 1485 TEthashV1 
+ 1491 Human Cost Accounting Standard (Like Gas but for humans) 
+ 1504 Upgradable Smart Contract 
+ 1523 Standard for Insurance Policies as ERC-721 Non Fungible Tokens 
+ 1538 Transparent Contract Standard 
+ 1559 Fee market change for ETH 1.0 chain 
+ 1571 EthereumStratum/2.0.0 
+ 1577 contenthash field for ENS 
+ 1581 Non-wallet usage of keys derived from BIP-32 trees 
+ 1588 "Hardfork Meta: Ethereum ProgPoW" 
+ 1592 Address and ERC20-compliant transfer rules 
+ 1613 Gas stations network 
+ 1616 Attribute Registry Standard 
+ 1620 Money Streaming 
+ 1633 Re-Fungible Token Standard (RFT) 
+ 1679 "Hardfork Meta: Istanbul" 
+ 1681 Temporal Replay Protection 
+ 1682 Storage Rent 
+ 1702 Generalized Account Versioning Scheme 
+ 1706 Disable SSTORE with gasleft lower than call stipend 
+ 1710 URL Format for Web3 Browsers 
+ 1716 "Hardfork Meta: Petersburg" 
+ 1753 Smart Contract Interface for Licences 
+ 1761 Scoped Approval Interface 
+ 1767 GraphQL interface to Ethereum node data 
+ 1775 App Keys, application specific wallet accounts 
+ 1803 Rename opcodes for clarity 
+ 1812 Ethereum Verifiable Claims 
+ 1820 Pseudo-introspection Registry Contract 
+ 1822 Universal Upgradeable Proxy Standard (UUPS) 
+ 1829 Precompile for Elliptic Curve Linear Combinations 
+ 1844 ENS Interface Discovery 
+ 1872 Ethereum Network Upgrade Windows 
+ 1884 Repricing for trie-size-dependent opcodes 
+ 1890 Commitment to Sustainable Ecosystem Funding 
+ 1895 Support for an Elliptic Curve Cycle 
+ 1898 Add `blockHash` to JSON-RPC methods which accept a default block parameter. 
+ 1900 dType - Decentralized Type System for EVM 
+ 1901 Add OpenRPC Service Discovery To JSON-RPC Services 
+ 1921 dType Functions Extension 
+ 1922 zk-SNARK Verifier Standard 
+ 1923 zk-SNARK Verifier Registry Standard 
+ 1930 CALLs with strict gas semantic. Revert if not enough gas available. 
+ 1948 Non-fungible Data Token 
+ 1959 New Opcode to check if a chainID is part of the history of chainIDs 
+ 1962 EC arithmetic and pairings with runtime definitions 
+ 1965 Method to check if a chainID is valid at a specific block Number 
+ 1967 Standard Proxy Storage Slots 
+ 1973 Scalable Rewards 
+ 1985 Sane limits for certain EVM parameters 
+ 1996 Holdable Token 
+ 2003 EVMC modules for implementations of precompiled contracts 
+ 2009 Compliance Service 
+ 2014 Extended State Oracle 
+ 2015 Wallet Update Ethereum Chain RPC Method (`wallet_updateEthereumChain`) 
+ 2018 Clearable Token 
+ 2019 Fundable Token 
+ 2020 E-Money Standard Token 
+ 2021 Payoutable Token 
+ 2025 Block Rewards Proposal for funding Eth1.x 
+ 2026 State Rent H - Fixed Prepayment for accounts 
+ 2027 State Rent C - Net contract size accounting 
+ 2028 Transaction data gas cost reduction 
+ 2029 State Rent A - State counters contract 
+ 2031 State Rent B - Net transaction counter 
+ 2035 Stateless Clients - Repricing SLOAD and SSTORE to pay for block proofs 
+ 2045 Particle gas costs for EVM opcodes 
+ 2046 Reduced gas cost for static calls made to precompiles 
+ 2069 Recommendation for using YAML ABI in ERCs/EIPs 
+ 2070 "Hardfork Meta: Berlin" 
+ 2098 Compact Signature Representation 
+ 2124 Fork identifier for chain compatibility checks 
+ 2135 Consumable Interface 
+ 2157 dType Storage Extension - Decentralized Type System for EVM 
+ 2159 Common Prometheus Metrics Names for Clients 
+ 2193 dType Alias Extension - Decentralized Type System 
+ 2200 Structured Definitions for Net Gas Metering 
+ 2228 Canonicalize the name of network ID 1 and chain ID 1 
+ 2242 Transaction Postdata 
+ 2255 Wallet Permissions System 
+ 2256 wallet_getOwnedAssets JSON-RPC Method 
+ 2266 Atomic Swap-based American Call Option Contract Standard 
+ 2304 Multichain address resolution for ENS 
+ 2309 ERC-721 Consecutive Transfer Extension 
+ 2315 Simple Subroutines for the EVM 
+ 2327 BEGINDATA opcode 
+ 2330 EXTSLOAD opcode 
+ 2333 BLS12-381 Key Generation 
+ 2334 BLS12-381 Deterministic Account Hierarchy 
+ 2335 BLS12-381 Keystore 
+ 2364 "eth/64: forkid-extended protocol handshake" 
+ 2378 EIPs Eligible for Inclusion 
+ 2384 Muir Glacier Difficulty Bomb Delay 
+ 2386 Ethereum 2 Hierarchical Deterministic Walletstore 
+ 2387 "Hardfork Meta: Muir Glacier" 
+ 2390 Geo-ENS 
+ 2400 URL Format for Transaction Receipts 
+ 2458 Updates and Updated-by Header 
+ 2464 "eth/65: transaction announcements and retrievals" 
+ 2470 Singleton Factory 
+ 2474 Coinbase calls 
+ 2477 Token Metadata Integrity 
+ 2481 "eth/66: request identifier" 
+ 2488 Deprecate the CALLCODE opcode 
+ 2494 Baby Jubjub Elliptic Curve 
+ 2515 Implement Difficulty Freeze 
+ 2520 Multiple contenthash records for ENS 
+ 2525 ENSLogin 
+ 2535 Diamonds, Multi-Facet Proxy 
+ 2537 Precompile for BLS12-381 curve operations 
+ 2539 BLS12-377 curve operations 
+ 2542 New opcodes TXGASLIMIT and CALLGASLIMIT 
+ 2544 ENS Wildcard Resolution 
+ 2565 ModExp Gas Cost 
+ 2566 Human Readable Parameters for Contract Function Execution 
+ 2569 Saving and Displaying Image Onchain for Universal Tokens 
+ 2583 Penalty for account trie misses 
+ 2584 Trie format transition with overlay trees 
+ 2593 Escalator fee market change for ETH 1.0 chain 
+ 2612 permit – 712-signed approvals 
+ 2615 Non-Fungible Token with mortgage and rental functions 
+ 2645 Hierarchical Deterministic Wallet for Layer-2 
+ 2657 Ephemeral Testnet Yolo 
+ 2666 Repricing of precompiles and Keccak256 function 
+ 2677 Limit size of `initcode` 
+ 2678 Revised Ethereum Smart Contract Packaging Standard (EthPM v3) 
+ 2680 Ethereum 2 wallet layout 
+ 2681 Limit account nonce to 2^64-1 
+ 2696 JavaScript `request` method RPC transport 
+ 2700 JavaScript Provider Event Emitter 
+ 2711 Sponsored, expiring and batch transactions. 
+ 2718 Typed Transaction Envelope 
+ 2733 Transaction Package 
+ 2746 Rules Engine Standard 
+ 2767 Contract Ownership Governance 
+ 2770 Meta-Transactions Forwarder Contract 
+ 2771 Secure Protocol for Native Meta Transactions 
+ 2780 Reduce intrinsic transaction gas 
+ 2786 Ethereum Provider Connect/Disconnect Events 
+ 2803 Rich Transactions 
+ 2831 Transaction Replacement Message Type 
+ 2844 Add DID related methods to the JSON-RPC 
+ 2848 My Own Messages (MOM) 
+ 2876 Deposit contract and address standard 
+ 2917 Staking Reward Calculation 
+ 2926 Chunk-Based Code Merkleization 
+ 2929 Gas cost increases for state access opcodes 
+ 2930 Optional access lists 
+ 2935 Save historical block hashes in state 
+ 2936 EXTCLEAR Opcode For SELFDESTRUCTed contracts 
+ 2937 SET_INDESTRUCTIBLE opcode 
+ 2938 Account Abstraction 
+ 2942 EthPM URI Specification 
+ 2970 IS_STATIC opcode 
+ 2972 Wrapped Legacy Transactions 
+ 2976 'Typed Transactions over Gossip' 
+ 2980 Swiss Compliant Asset Token 
+ 2981 NFT Royalty Standard 
+ 2982 Serenity Phase 0 
+ 2997 IMPERSONATECALL Opcode 
+ 3000 Optimistic enactment governance standard 
+ 3005 Batched meta transactions 
+ 3009 Transfer With Authorization 
+ 3014 eth_symbol JSON-RPC method 
+ 3026 BW6-761 curve operations 
+ 3030 BLS Remote Signer HTTP API 
+ 3041 Adds `baseFee` to `eth_getBlockByHash` 
+ 3044 Adds `baseFee` to `eth_getBlockByNumber` 
+ 3045 Adds `baseFee` to `eth_getUncleByBlockHashAndIndex` 
+ 3046 Adds `baseFee` to `eth_getUncleByBlockNumberAndIndex` 
+ 3068 Precompile for BN256 HashToCurve Algorithms 
+ 3074 AUTH and AUTHCALL opcodes 
+ 3076 Slashing Protection Interchange Format 
+ 3085 Wallet Add Ethereum Chain RPC Method (`wallet_addEthereumChain`) 
+ 3091 Block Explorer API Routes 
+ 3102 Binary trie structure 
+ 3135 Exclusive Claimable Token 
+ 3143 Increase block rewards to 5 ETH 
+ 3155 EVM trace specification 
+ 3156 Flash Loans 
+ 3198 BASEFEE opcode 
+ 3220 Crosschain Identifier Specification 
+ 3224 Described Data and Described Transactions 
+ 3234 Batch Flash Loans 
+ 3238 Difficulty Bomb Delay to Q2/2022 
+ 3267 Giving Ethereum fees to Future Salaries 
+ 3298 Removal of refunds 
+ 3300 Phase out refunds 
+ 3322 Account gas storage opcodes 
+ 3326 Wallet Switch Ethereum Chain RPC Method (`wallet_switchEthereumChain`) 
+ 3332 MEDGASPRICE Opcode 
+ 3336 Paged memory allocation for the EVM 
+ 3337 Frame pointer support for memory load and store operations 
+ 3338 Limit account nonce to 2^52 
+ 3368 Increase block rewards to 3 ETH, with 2 Year Decay to 1 ETH Scheduled 
+ 3372 5 FNV primes for ethash 
+ 3374 Predictable Proof-of-Work (POW) Sunsetting 
+ 3382 Hardcoded Block Gas Limit 
+ 3386 ERC-721 and ERC-1155 to ERC-20 Wrapper 
+ 3403 Partial removal of refunds 
+ 3416 Median Gas Premium 
+ 3436 Expanded Clique Block Choice Rule 
+ 3440 ERC-721 Editions Standard 
+ 3448 Meta Proxy Factory 
+ 3450 Standardized Shamir Secret Sharing Scheme for BIP-39 Mnemonics 
+ 3475 Multiple Callable Bonds 
+ 3508 Transaction Data Opcodes 
+ 3520 Transaction Destination Opcode 
+ 3521 Reduce access list cost 
+ 3529 Reduction in refunds 
+ 3534 Restricted Chain Context Type Transactions 
+ 3540 EVM Object Format (EOF) v1 
+ 3541 Reject new contract code starting with the 0xEF byte 
+ 3554 Difficulty Bomb Delay to December 2021 
+ 3561 Trust Minimized Upgradeability Proxy 
+ 3569 Sealed NFT Metadata Standard 
+ 3584 Block Access List 
+ 3589 Assemble assets into NFTs 
+ 3607 Reject transactions from senders with deployed code 
+ 3651 Warm COINBASE 
+ 3668 "Durin: Secure offchain data retrieval" 
+ 3670 EOF - Code Validation 
+ 3675 Upgrade consensus to Proof-of-Stake 
+ 3690 EOF - JUMPDEST Table 
