@@ -14,5 +14,3 @@ function eip() {
     ${FZF_BROWSER} "${URL}-${eip_number}.md" > /dev/null 2>&1 &
   )
 }
-
-#vi: ft=zsh
