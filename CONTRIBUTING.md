@@ -21,13 +21,10 @@ All code changes happen through pull requests. They are the best way to propose 
 We actively welcome your pull requests:
 
 1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-6. Issue that pull request!
-7. Review notes from team and update PR accordingly
-8. Once PR has been approved, the branch is deleted.
+2. Issue that pull request!
+3. Review notes from team and update PR accordingly
+4. Once PR has been approved, the branch is deleted.
+5. For more info see the [Github Flow](https://guides.github.com/introduction/flow/index.html).
 
 ## Contributions and License
 
@@ -49,25 +46,6 @@ Write bug reports with detail, background, and sample code.
 
 [This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report written by someone else. We also think it's not a bad model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), another app developer.
 
-## Bug Triage
-
-Here are some tags that we're using to better organize issues in this repo:
-
-- `good first issue` - Good candidates for someone new to the project to contribute.
-- `help wanted` - Issues that should be addressed and which we would welcome a
-  PR for but may need significant investigation or work
-- `support` - Request for help with a concept or piece of code but this isn't an
-  issue with the project.
-- `needs more info` - Missing repro steps or context for both project issues \&
-  support questions.
-- `discussion` - Issues where folks are discussing various approaches \& ideas.
-- `question` - Something that is a question specifically for the maintainers such
-  as [this issue about the license](https://github.com/facebook/draft-js/issues/1819).
-- `documentation` - Relating to improving documentation for the project.
-
-* Browser \& OS-specific tags for anything that is specific to a particular
-  environment (e.g. `macos`, `unbuntu`, `windows`, etc).
-
 ### Summary of Great Bug Reports
 
 Great Bug Reports tend to have:
@@ -86,7 +64,7 @@ People _love_ thorough bug reports. I'm not even kidding.
 
 We are borrowing these from [Facebook's Guidelines](https://github.com/facebook/draft-js/blob/master/CONTRIBUTING.md)
 
-- 2 spaces for indentation rather than tabs
+- Tools to enforce consistent style to be determined.
 
 ## References
 
