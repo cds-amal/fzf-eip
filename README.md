@@ -42,3 +42,14 @@ setup.
 For WSL2, it relies on the fullpath to the browser executable. You can change
 the default to use the browser of your choice in [init.sh](./init.sh) for more
 details.
+
+## Supported Operating Systems
+
+| Operating System   | Support Status |
+| ------------------ | -------------- |
+| Ubuntu             | 🟢             |
+| Debian             | 🟢             |
+| MacOS              | 🟢             |
+| WSL 2 (Windows 10) | 🟢             |
+| WSL 2 (Windows 11) | 🔴             |
+| FreeBSD            | 🤷‍♂️             |
