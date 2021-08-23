@@ -1,7 +1,12 @@
-on:
+---
+name: CI
+'on':
   push:
     branches:
       - master
+  schedule:
+    # https://crontab.guru/every-day
+    - cron: '0 0 * * *'
 jobs:
   sync-eips:
     runs-on: ubuntu-latest
