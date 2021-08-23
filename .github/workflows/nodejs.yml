@@ -1,7 +1,4 @@
 on:
-  schedule:
-    # https://crontab.guru/every-day
-    - cron '0 0 * * *'
   push:
     branches:
       - master
