@@ -46,8 +46,6 @@ Write bug reports with detail, background, and sample code.
 
 [This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report written by someone else. We also think it's not a bad model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), another app developer.
 
-### Summary of Great Bug Reports
-
 Great Bug Reports tend to have:
 
 - A quick summary and/or background
