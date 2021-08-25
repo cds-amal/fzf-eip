@@ -40,13 +40,12 @@ Report bugs using Github [issues](https://github.com/cds-amal/fzf-eip/issues).
 
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/cds-amal/fzf-eip/issues). It's super easy!
 
-
 Great Bug Reports tend to have:
 
 - A quick summary and/or background
 - Steps to reproduce
   - Be specific!
-  - Give sample command/code if you can. 
+  - Give sample command/code if you can.
 - What you expected would happen
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
@@ -56,8 +55,6 @@ We _love_ thorough bug reports. I'm not even kidding.
 ## Use a Consistent Coding Style
 
 We are borrowing these from [Facebook's Guidelines](https://github.com/facebook/draft-js/blob/master/CONTRIBUTING.md)
-
-- Tools to enforce consistent style to be determined.
 
 ## References
 
