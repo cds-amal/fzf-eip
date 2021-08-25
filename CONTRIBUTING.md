@@ -40,11 +40,6 @@ Report bugs using Github [issues](https://github.com/cds-amal/fzf-eip/issues).
 
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/cds-amal/fzf-eip/issues). It's super easy!
 
-### Bug reports format
-
-Write bug reports with detail, background, and sample code.
-
-[This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report written by someone else. We also think it's not a bad model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), another app developer.
 
 Great Bug Reports tend to have:
 
