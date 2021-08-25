@@ -51,5 +51,5 @@ details.
 | Debian             | 🟢             |
 | MacOS              | 🟢             |
 | WSL 2 (Windows 10) | 🟢             |
-| WSL 2 (Windows 11) | 🔴             |
+| WSL 2 (Windows 11) | 🟢             |
 | FreeBSD            | 🤷‍♂️             |
