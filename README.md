@@ -17,6 +17,9 @@ demo](https://www.youtube.com/watch?v=2VOZV9tsmGs)
 1. Install [fzf](https://github.com/junegunn/fzf), a general-purpose
    command-line fuzzy finder.
 
+> If you are using bash, please make sure that it is at least version 5.0.11 othwise it will not work. 
+You can update it by using homebrew ```brew upgrade bash``` in the terminal.
+
 1. Clone this repo
    ```sh
    git clone https://github.com/cds-amal/fzf-eip.git ~/.fzf-eip
