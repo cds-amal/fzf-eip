@@ -52,10 +52,6 @@ Great Bug Reports tend to have:
 
 We _love_ thorough bug reports. I'm not even kidding.
 
-## Use a Consistent Coding Style
-
-We are borrowing these from [Facebook's Guidelines](https://github.com/facebook/draft-js/blob/master/CONTRIBUTING.md)
-
 ## References
 
 This document was adapted from the open-source contribution guidelines from [
