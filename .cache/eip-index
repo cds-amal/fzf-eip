@@ -379,3 +379,4 @@
  3690 EOF - JUMPDEST Table 
  3756 Gas Limit Cap 
  3779 Safer Control Flow for the EVM 
+ 3788 Strict enforcement of chainId 
