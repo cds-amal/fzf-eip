@@ -60,7 +60,7 @@
  706 DEVp2p snappy compression 
  712 Ethereum typed structured data hashing and signing 
  721 Non-Fungible Token Standard 
- 725 Smart Contract Based Account 
+ 725 ERC-725 Smart Contract Based Account 
  747 Add wallet_watchAsset to Provider 
  758 Subscriptions and filters for completed transactions 
  777 Token Standard 
@@ -380,3 +380,4 @@
  3756 Gas Limit Cap 
  3779 Safer Control Flow for the EVM 
  3788 Strict enforcement of chainId 
+ 3855 PUSH0 instruction 
