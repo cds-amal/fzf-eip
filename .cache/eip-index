@@ -381,3 +381,4 @@
  3779 Safer Control Flow for the EVM 
  3788 Strict enforcement of chainId 
  3855 PUSH0 instruction 
+ 3860 Limit and meter initcode 
