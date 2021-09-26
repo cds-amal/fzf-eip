@@ -377,6 +377,9 @@
  3670 EOF - Code Validation 
  3675 Upgrade consensus to Proof-of-Stake 
  3690 EOF - JUMPDEST Table 
+ 3709 Remove Support for Type 1 Transactions 
+ 3722 Poster 
+ 3754 A Vanilla Non-Fungible Token Standard 
  3756 Gas Limit Cap 
  3779 Safer Control Flow for the EVM 
  3788 Strict enforcement of chainId 
