@@ -391,4 +391,5 @@
  4200 Static relative jumps 
  4337 Account Abstraction via Entry Point Contract specification 
  4345 Difficulty Bomb Delay to June 2022 
+ 4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with RANDOM 
