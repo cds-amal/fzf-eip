@@ -334,7 +334,7 @@
  3156 Flash Loans 
  3198 BASEFEE opcode 
  3220 Crosschain Identifier Specification 
- 3224 Described Data and Described Transactions 
+ 3224 Described Data 
  3234 Batch Flash Loans 
  3238 Difficulty Bomb Delay to Q2/2022 
  3267 Giving Ethereum fees to Future Salaries 
@@ -393,3 +393,4 @@
  4345 Difficulty Bomb Delay to June 2022 
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with RANDOM 
+ 4444 Bound Historical Data in Execution Clients 
