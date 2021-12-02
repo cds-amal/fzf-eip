@@ -361,7 +361,7 @@
  3508 Transaction Data Opcodes 
  3520 Transaction Destination Opcode 
  3521 Reduce access list cost 
- 3525 Fractionalized NFT Standard 
+ 3525 Semi-Fungible Token Standard 
  3529 Reduction in refunds 
  3534 Restricted Chain Context Type Transactions 
  3540 EVM Object Format (EOF) v1 
