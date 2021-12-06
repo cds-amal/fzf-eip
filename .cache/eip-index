@@ -395,3 +395,4 @@
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with RANDOM 
  4444 Bound Historical Data in Execution Clients 
+ 4488 Transaction calldata gas cost reduction with total calldata limit 
