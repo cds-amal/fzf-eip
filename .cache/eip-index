@@ -355,7 +355,7 @@
  3416 Median Gas Premium 
  3436 Expanded Clique Block Choice Rule 
  3440 ERC-721 Editions Standard 
- 3448 Meta Proxy Factory 
+ 3448 MetaProxy Standard 
  3450 Standardized Shamir Secret Sharing Scheme for BIP-39 Mnemonics 
  3475 Multiple Callable Bonds 
  3508 Transaction Data Opcodes 
@@ -394,5 +394,7 @@
  4345 Difficulty Bomb Delay to June 2022 
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with RANDOM 
+ 4400 ERC-721 Consumable Extension 
  4444 Bound Historical Data in Execution Clients 
  4488 Transaction calldata gas cost reduction with total calldata limit 
+ 4520 Mult-byte opcodes prefixed by EB and EC. 
