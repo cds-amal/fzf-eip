@@ -397,4 +397,5 @@
  4400 ERC-721 Consumable Extension 
  4444 Bound Historical Data in Execution Clients 
  4488 Transaction calldata gas cost reduction with total calldata limit 
+ 4494 Permit for ERC-721 NFTs 
  4520 Mult-byte opcodes prefixed by EB and EC. 
