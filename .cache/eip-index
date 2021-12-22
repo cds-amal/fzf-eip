@@ -1,3 +1,4 @@
+ 4393 Micropayments Standard for NFTs and Multi Tokens 
  1 EIP Purpose and Guidelines 
  2 Homestead Hard-fork Changes 
  3 Addition of CALLDEPTH opcode 
@@ -400,4 +401,5 @@
  4488 Transaction calldata gas cost reduction with total calldata limit 
  4494 Permit for ERC-721 NFTs 
  4520 Mult-byte opcodes prefixed by EB and EC. 
+ 4524 Safer ERC-20 
  4573 Entry Points and Procedures for EVM Code Sections 
