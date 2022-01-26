@@ -1,4 +1,3 @@
- 4393 Micropayments Standard for NFTs and Multi Tokens 
  1 EIP Purpose and Guidelines 
  2 Homestead Hard-fork Changes 
  3 Addition of CALLDEPTH opcode 
@@ -392,8 +391,10 @@
  3978 Gas refunds on reverts 
  4200 Static relative jumps 
  4337 Account Abstraction via Entry Point Contract specification 
+ 4341 Ordered NFT Batch Standard 
  4345 Difficulty Bomb Delay to June 2022 
  4361 Sign-In with Ethereum. 
+ 4393 Micropayments Standard for NFTs and Multi Tokens 
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with RANDOM 
  4400 ERC-721 Consumable Extension 
@@ -401,5 +402,8 @@
  4488 Transaction calldata gas cost reduction with total calldata limit 
  4494 Permit for ERC-721 NFTs 
  4520 Mult-byte opcodes prefixed by EB and EC. 
+ 4521 721/20-compatible transfer 
  4524 Safer ERC-20 
+ 4546 Wrapped Deposits 
  4573 Entry Points and Procedures for EVM Code Sections 
+ 4626 Tokenized Vault Standard 
