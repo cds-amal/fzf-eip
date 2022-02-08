@@ -404,6 +404,8 @@
  4520 Mult-byte opcodes prefixed by EB and EC. 
  4521 721/20-compatible transfer 
  4524 Safer ERC-20 
+ 4527 QR Code data transmission protocol for the offline wallets 
  4546 Wrapped Deposits 
  4573 Named Procedures for the EVM 
  4626 Tokenized Vault Standard 
+ 4750 EOF - Functions 
