@@ -410,4 +410,5 @@
  4626 Tokenized Vault Standard 
  4747 Simplify EIP-161 
  4750 EOF - Functions 
+ 4788 Beacon state root in the EVM 
  4803 Limit transaction gas to a maximum of 2^63-1 
