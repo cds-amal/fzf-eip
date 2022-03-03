@@ -412,3 +412,4 @@
  4750 EOF - Functions 
  4788 Beacon state root in the EVM 
  4803 Limit transaction gas to a maximum of 2^63-1 
+ 4844 Shard Blob Transactions 
