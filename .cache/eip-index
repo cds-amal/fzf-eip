@@ -414,3 +414,4 @@
  4803 Limit transaction gas to a maximum of 2^63-1 
  4844 Shard Blob Transactions 
  4863 Beacon chain push withdrawals 
+ 4881 Deposit Contract Snapshot Interface 
