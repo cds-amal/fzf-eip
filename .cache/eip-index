@@ -408,6 +408,7 @@
  4546 Wrapped Deposits 
  4573 Procedures for the EVM 
  4626 Tokenized Vault Standard 
+ 4671 Non-Tradable Tokens Standard 
  4736 Consensus Layer Withdrawal Protection 
  4747 Simplify EIP-161 
  4750 EOF - Functions 
@@ -416,4 +417,5 @@
  4844 Shard Blob Transactions 
  4863 Beacon chain push withdrawals 
  4881 Deposit Contract Snapshot Interface 
+ 4885 Subscription Token Standard for NFTs and Multi Tokens 
  4895 Beacon chain push withdrawals as operations 
