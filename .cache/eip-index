@@ -412,6 +412,7 @@
  4736 Consensus Layer Withdrawal Protection 
  4747 Simplify EIP-161 
  4750 EOF - Functions 
+ 4758 Deactivate SELFDESTRUCT 
  4760 SELFDESTRUCT bomb 
  4762 Statelessness gas cost changes 
  4788 Beacon state root in the EVM 
