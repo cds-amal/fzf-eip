@@ -398,6 +398,7 @@
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with PREVRANDAO 
  4400 ERC-721 Consumable Extension 
+ 4430 Described Transactions 
  4444 Bound Historical Data in Execution Clients 
  4488 Transaction calldata gas cost reduction with total calldata limit 
  4494 Permit for ERC-721 NFTs 
@@ -417,6 +418,7 @@
  4762 Statelessness gas cost changes 
  4788 Beacon state root in the EVM 
  4803 Limit transaction gas to a maximum of 2^63-1 
+ 4834 Hierarchical Domain Standard 
  4844 Shard Blob Transactions 
  4863 Beacon chain push withdrawals 
  4881 Deposit Contract Snapshot Interface 
