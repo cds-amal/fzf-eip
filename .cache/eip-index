@@ -436,3 +436,5 @@
  5006 ERC-1155 Usage Rights Extension 
  5008 ERC-721 Nonce Extension 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
+ 5065 Instruction for transferring ether 
+ 5081 Expirable Trainsaction 
