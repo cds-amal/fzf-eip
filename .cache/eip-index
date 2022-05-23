@@ -419,6 +419,7 @@
  4788 Beacon state root in the EVM 
  4799 Non-Fungible Token Ownership Designation Standard 
  4803 Limit transaction gas to a maximum of 2^63-1 
+ 4804 Web3 URL to EVM Call Message Translation 
  4834 Hierarchical Domain Standard 
  4844 Shard Blob Transactions 
  4863 Beacon chain push withdrawals 
@@ -438,5 +439,6 @@
  5006 ERC-1155 Usage Rights Extension 
  5008 ERC-721 Nonce Extension 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
+ 5027 Remove the limit on contract code size 
  5065 Instruction for transferring ether 
  5081 Expirable Trainsaction 
