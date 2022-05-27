@@ -402,6 +402,7 @@
  4444 Bound Historical Data in Execution Clients 
  4488 Transaction calldata gas cost reduction with total calldata limit 
  4494 Permit for ERC-721 NFTs 
+ 4519 Non-Fungible Tokens Tied to Physical Assets (SmartNFT) 
  4520 Mult-byte opcodes prefixed by EB and EC. 
  4521 721/20-compatible transfer 
  4524 Safer ERC-20 
