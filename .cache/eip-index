@@ -437,7 +437,9 @@
  4973 Account-bound Tokens 
  4974 Experience (EXP) Token Standard 
  4987 Held token standard 
+ 5005 Zodiac 
  5006 ERC-1155 Usage Rights Extension 
+ 5007 TimeNFT, ERC-721 Time Extension 
  5008 ERC-721 Nonce Extension 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5027 Remove the limit on contract code size 
