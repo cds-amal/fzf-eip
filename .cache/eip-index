@@ -441,6 +441,7 @@
  5006 ERC-1155 Usage Rights Extension 
  5007 TimeNFT, ERC-721 Time Extension 
  5008 ERC-721 Nonce Extension 
+ 5018 Filesystem-like Interface for Smart Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5027 Remove the limit on contract code size 
  5065 Instruction for transferring ether 
