@@ -411,6 +411,7 @@
  4573 Procedures for the EVM 
  4626 Tokenized Vault Standard 
  4671 Non-Tradable Tokens Standard 
+ 4675 Multi-Fractional Non-Fungible Tokens 
  4736 Consensus Layer Withdrawal Protection 
  4747 Simplify EIP-161 
  4750 EOF - Functions 
@@ -447,4 +448,5 @@
  5065 Instruction for transferring ether 
  5081 Expirable Trainsaction 
  5094 URL Format for Ethereum Network Switching 
+ 5114 Soulbound Token 
  5133 Delaying Difficulty Bomb to Mid August 2022 
