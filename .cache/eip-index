@@ -440,13 +440,14 @@
  4974 Experience (EXP) Token Standard 
  4987 Held token standard 
  5005 Zodiac 
- 5006 ERC-1155 Usage Rights Extension 
+ 5006 Rental NFT, NFT User Extension 
  5007 TimeNFT, ERC-721 Time Extension 
  5008 ERC-721 Nonce Extension 
  5018 Filesystem-like Interface for Smart Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5027 Remove the limit on contract code size 
  5065 Instruction for transferring ether 
+ 5069 EIP Editor Handbook 
  5081 Expirable Trainsaction 
  5094 URL Format for Ethereum Network Switching 
  5095 Principal Token 
@@ -454,3 +455,4 @@
  5115 Super Composable Yield Token 
  5133 Delaying Difficulty Bomb to mid-September 2022 
  5139 Remote Procedure Call Provider Lists 
+ 5143 Slippage Protection for Tokenized Vault 
