@@ -428,6 +428,7 @@
  4863 Beacon chain push withdrawals 
  4881 Deposit Contract Snapshot Interface 
  4885 Subscription Token Standard for NFTs and Multi Tokens 
+ 4886 Proxy Ownership Register 
  4895 Beacon chain push withdrawals as operations 
  4906 ERC-721 Metadata Update Extension 
  4907 Rental NFT, ERC-721 User And Expires Extension 
