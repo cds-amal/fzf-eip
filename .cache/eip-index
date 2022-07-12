@@ -357,7 +357,7 @@
  3440 ERC-721 Editions Standard 
  3448 MetaProxy Standard 
  3450 Standardized Shamir Secret Sharing Scheme for BIP-39 Mnemonics 
- 3475 Multiple Callable Bonds Standard 
+ 3475 Abstract Storage Bonds 
  3508 Transaction Data Opcodes 
  3520 Transaction Destination Opcode 
  3521 Reduce access list cost 
