@@ -440,6 +440,7 @@
  4973 Account-bound Tokens 
  4974 Experience (EXP) Token Standard 
  4987 Held token standard 
+ 5000 MULDIV instruction 
  5005 Zodiac Avatar Accounts 
  5006 Rental NFT, NFT User Extension 
  5007 TimeNFT, ERC-721 Time Extension 
@@ -459,3 +460,4 @@
  5139 Remote Procedure Call Provider Lists 
  5143 Slippage Protection for Tokenized Vault 
  5185 NFT Updatable Metadata Extension 
+ 5189 Account Abstraction via Endorsed Operations 
