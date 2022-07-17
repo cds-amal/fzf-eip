@@ -152,7 +152,7 @@
  1474 Remote procedure call specification 
  1482 Define a maximum block timestamp drift 
  1484 Digital Identity Aggregator 
- 1485 TEthashV1 
+ 1485 TEthashV1 
  1491 Human Cost Accounting Standard (Like Gas but for humans) 
  1504 Upgradable Smart Contract 
  1523 Standard for Insurance Policies as ERC-721 Non Fungible Tokens 
@@ -391,7 +391,7 @@
  3978 Gas refunds on reverts 
  4200 Static relative jumps 
  4337 Account Abstraction via Entry Point Contract specification 
- 4341 Ordered NFT Batch Standard 
+ 4341 Ordered NFT Batch Standard 
  4345 Difficulty Bomb Delay to June 2022 
  4353 Interface for Staked Tokens in NFTs 
  4361 Sign-In with Ethereum. 
@@ -462,4 +462,5 @@
  5185 NFT Updatable Metadata Extension 
  5189 Account Abstraction via Endorsed Operations 
  5202 Factory contract format 
+ 5247 Smart Proposal 
  5267 Retrieval of EIP-712 domain 
