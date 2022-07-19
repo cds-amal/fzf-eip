@@ -131,7 +131,7 @@
  1285 Increase Gcallstipend gas in the CALL opcode 
  1295 Modify Ethereum PoW Incentive Structure and Delay Difficulty Bomb 
  1319 Smart Contract Package Registry Interface 
- 1328 WalletConnect Standard URI Format 
+ 1328 WalletConnect URI Format 
  1337 Subscriptions on the blockchain 
  1344 ChainID opcode 
  1352 Specify restricted address range for precompiles/system contracts 
@@ -394,7 +394,7 @@
  4341 Ordered NFT Batch Standard 
  4345 Difficulty Bomb Delay to June 2022 
  4353 Interface for Staked Tokens in NFTs 
- 4361 Sign-In with Ethereum. 
+ 4361 Sign-In with Ethereum 
  4393 Micropayments Standard for NFTs and Multi Tokens 
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with PREVRANDAO 
@@ -403,7 +403,7 @@
  4444 Bound Historical Data in Execution Clients 
  4488 Transaction calldata gas cost reduction with total calldata limit 
  4494 Permit for ERC-721 NFTs 
- 4519 Non-Fungible Tokens Tied to Physical Assets (SmartNFT) 
+ 4519 Non-Fungible Tokens Tied to Physical Assets 
  4520 Mult-byte opcodes prefixed by EB and EC. 
  4521 721/20-compatible transfer 
  4524 Safer ERC-20 
