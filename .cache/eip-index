@@ -398,7 +398,7 @@
  4393 Micropayments Standard for NFTs and Multi Tokens 
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with PREVRANDAO 
- 4400 ERC-721 Consumable Extension 
+ 4400 EIP-721 Consumable Extension 
  4430 Described Transactions 
  4444 Bound Historical Data in Execution Clients 
  4488 Transaction calldata gas cost reduction with total calldata limit 
@@ -461,7 +461,7 @@
  5143 Slippage Protection for Tokenized Vault 
  5185 NFT Updatable Metadata Extension 
  5189 Account Abstraction via Endorsed Operations 
- 5202 Factory contract format 
+ 5202 Blueprint contract format 
  5218 NFT Rights Management 
  5247 Smart Proposal 
  5267 Retrieval of EIP-712 domain 
