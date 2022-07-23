@@ -248,7 +248,7 @@
  2386 Ethereum 2 Hierarchical Deterministic Walletstore 
  2387 "Hardfork Meta: Muir Glacier" 
  2390 Geo-ENS 
- 2400 URL Format for Transaction Receipts 
+ 2400 Transaction Receipt URI 
  2458 Updates and Updated-by Header 
  2464 "eth/65: transaction announcements and retrievals" 
  2470 Singleton Factory 
@@ -423,7 +423,7 @@
  4799 Non-Fungible Token Ownership Designation Standard 
  4803 Limit transaction gas to a maximum of 2^63-1 
  4804 Web3 URL to EVM Call Message Translation 
- 4834 Hierarchical Domain Standard 
+ 4834 Hierarchical Domains 
  4844 Shard Blob Transactions 
  4863 Beacon chain push withdrawals 
  4881 Deposit Contract Snapshot Interface 
@@ -465,3 +465,4 @@
  5218 NFT Rights Management 
  5247 Smart Proposal 
  5267 Retrieval of EIP-712 domain 
+ 5313 Light Contract Ownership 
