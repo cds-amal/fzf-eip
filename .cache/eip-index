@@ -58,7 +58,7 @@
  695 Create `eth_chainId` method for JSON-RPC 
  698 OPCODE 0x46 BLOCKREWARD 
  706 DEVp2p snappy compression 
- 712 Ethereum typed structured data hashing and signing 
+ 712 Typed structured data hashing and signing 
  721 Non-Fungible Token Standard 
  725 General key-value store and execution standard 
  747 Add wallet_watchAsset to Provider 
