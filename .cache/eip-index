@@ -8,6 +8,7 @@
  8 devp2p Forward Compatibility Requirements for Homestead 
  20 Token Standard 
  55 Mixed-case checksum address encoding 
+ 67 URI Scheme with Metadata, Value and Bytecode 
  86 Abstraction of transaction origin and signature 
  100 Change difficulty adjustment to target mean block time including uncles 
  101 Serenity Currency and Crypto Abstraction 
@@ -435,6 +436,7 @@
  4931 Generic Token Upgrade Standard 
  4938 "eth/67: Removal of GetNodeData" 
  4944 Contract with Exactly One Non-fungible Token 
+ 4950 Entangled Tokens 
  4955 Vendor Specific Metadata Extension for Non-Fungible Tokens 
  4972 Name-Owned Account 
  4973 Account-bound Tokens 
@@ -443,7 +445,7 @@
  5000 MULDIV instruction 
  5005 Zodiac Avatar Accounts 
  5006 Rental NFT, NFT User Extension 
- 5007 TimeNFT, ERC-721 Time Extension 
+ 5007 TimeNFT, EIP-721 Time Extension 
  5008 ERC-721 Nonce Extension 
  5018 Filesystem-like Interface for Smart Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
