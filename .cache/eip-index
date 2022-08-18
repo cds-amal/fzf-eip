@@ -471,6 +471,7 @@
  5219 Contract Resource Requests 
  5247 Smart Proposal 
  5267 Retrieval of EIP-712 domain 
+ 5269 ERC-identifying Interface 
  5289 Ethereum Notary Interface 
  5313 Light Contract Ownership 
  5375 NFT Author Information and Consent 
