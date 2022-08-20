@@ -451,6 +451,7 @@
  5018 Filesystem-like Interface for Smart Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5027 Remove the limit on contract code size 
+ 5050 Interactive NFTs with Modular Environments 
  5065 Instruction for transferring ether 
  5069 EIP Editor Handbook 
  5081 Expirable Trainsaction 
@@ -474,6 +475,8 @@
  5269 ERC-identifying Interface 
  5289 Ethereum Notary Interface 
  5313 Light Contract Ownership 
+ 5345 Silent Signing Extension for JSON-RPC 
  5375 NFT Author Information and Consent 
  5409 EIP-1155 Non-Fungible Token extension 
+ 5450 EOF - Stack Validation 
  5485 Legitimacy, Jurisdiction and Sovereignty 
