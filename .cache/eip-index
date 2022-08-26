@@ -452,6 +452,7 @@
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5027 Remove the limit on contract code size 
  5050 Interactive NFTs with Modular Environments 
+ 5058 Lockable Non-Fungible Tokens 
  5065 Instruction for transferring ether 
  5069 EIP Editor Handbook 
  5081 Expirable Trainsaction 
@@ -481,4 +482,8 @@
  5450 EOF - Stack Validation 
  5484 Consensual Soulbound Tokens 
  5485 Legitimacy, Jurisdiction and Sovereignty 
+ 5489 NFT Hyperlink Extension 
  5501 Rental & Delegation NFT - EIP-721 Extension 
+ 5505 EIP-1155 asset backed NFT extension 
+ 5516 Soulbound Multi-Owned Tokens 
+ 5521 Referable NFT 
