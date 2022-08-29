@@ -429,11 +429,11 @@
  4863 Beacon chain push withdrawals 
  4881 Deposit Contract Snapshot Interface 
  4883 Composable SVG NFT 
- 4885 Subscription Token Standard for NFTs and Multi Tokens 
+ 4885 Subscription NFTs and Multi Tokens 
  4886 Proxy Ownership Register 
  4895 Beacon chain push withdrawals as operations 
  4906 EIP-721 Metadata Update Extension 
- 4907 Rental NFT, ERC-721 User And Expires Extension 
+ 4907 Rental NFT, an Extension of EIP-721 
  4931 Generic Token Upgrade Standard 
  4938 "eth/67: Removal of GetNodeData" 
  4944 Contract with Exactly One Non-fungible Token 
@@ -447,7 +447,7 @@
  5005 Zodiac Avatar Accounts 
  5006 Rental NFT, NFT User Extension 
  5007 Time NFT, EIP-721 Time Extension 
- 5008 ERC-721 Nonce Extension 
+ 5008 EIP-721 Nonce Extension 
  5018 Filesystem-like Interface for Smart Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5027 Remove the limit on contract code size 
@@ -475,12 +475,16 @@
  5247 Smart Proposal 
  5267 Retrieval of EIP-712 domain 
  5269 ERC-identifying Interface 
+ 5283 Semaphore for Reentrancy Protection 
  5289 Ethereum Notary Interface 
  5313 Light Contract Ownership 
+ 5334 EIP-721 User And Expires And Level Extension 
  5345 Silent Signing Extension for JSON-RPC 
  5375 NFT Author Information and Consent 
  5409 EIP-1155 Non-Fungible Token extension 
+ 5437 Security Contact Interface 
  5450 EOF - Stack Validation 
+ 5453 Smart Contract Crypto Endorsement 
  5484 Consensual Soulbound Tokens 
  5485 Legitimacy, Jurisdiction and Sovereignty 
  5489 NFT Hyperlink Extension 
