@@ -467,6 +467,7 @@
  5169 Client Script URI for Token Contracts 
  5173 NFT Future Rewards (nFR) 
  5185 NFT Updatable Metadata Extension 
+ 5187 Extend EIP-1155 with rentable usage rights 
  5189 Account Abstraction via Endorsed Operations 
  5192 Minimal Soulbound NFTs 
  5202 Blueprint contract format 
