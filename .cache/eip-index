@@ -444,6 +444,7 @@
  4974 Experience (EXP) Token Standard 
  4987 Held token interface 
  5000 MULDIV instruction 
+ 5003 Insert Code into EOAs with AUTHUSURP 
  5005 Zodiac Avatar Accounts 
  5006 Rental NFT, NFT User Extension 
  5007 Time NFT, EIP-721 Time Extension 
@@ -471,6 +472,7 @@
  5189 Account Abstraction via Endorsed Operations 
  5192 Minimal Soulbound NFTs 
  5202 Blueprint contract format 
+ 5216 EIP-1155 Approval By Amount Extension 
  5218 NFT Rights Management 
  5219 Contract Resource Requests 
  5247 Smart Proposal 
@@ -494,4 +496,7 @@
  5505 EIP-1155 asset backed NFT extension 
  5516 Soulbound Multi-owner Tokens 
  5521 Referable NFT 
+ 5528 Refundable Fungible Token 
+ 5553 Representing IP and its Royalty Structure 
  5559 "Cross Chain Write Deferral Protocol" 
+ 5560 Redeemable NFTs 
