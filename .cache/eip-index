@@ -424,6 +424,7 @@
  4799 Non-Fungible Token Ownership Designation Standard 
  4803 Limit transaction gas to a maximum of 2^63-1 
  4804 Web3 URL to EVM Call Message Translation 
+ 4824 Common Interfaces for DAOs 
  4834 Hierarchical Domains 
  4844 Shard Blob Transactions 
  4863 Beacon chain push withdrawals 
