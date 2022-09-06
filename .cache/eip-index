@@ -446,7 +446,7 @@
  4987 Held token interface 
  5000 MULDIV instruction 
  5003 Insert Code into EOAs with AUTHUSURP 
- 5005 Zodiac Avatar Accounts 
+ 5005 Zodiac Modular Accounts 
  5006 Rental NFT, NFT User Extension 
  5007 Time NFT, EIP-721 Time Extension 
  5008 EIP-721 Nonce Extension 
@@ -477,6 +477,7 @@
  5218 NFT Rights Management 
  5219 Contract Resource Requests 
  5247 Smart Proposal 
+ 5252 Account-bound Finance 
  5267 Retrieval of EIP-712 domain 
  5269 ERC-identifying Interface 
  5283 Semaphore for Reentrancy Protection 
@@ -490,6 +491,7 @@
  5437 Security Contact Interface 
  5450 EOF - Stack Validation 
  5453 Smart Contract Crypto Endorsement 
+ 5478 CREATE2COPY Opcode 
  5484 Consensual Soulbound Tokens 
  5485 Legitimacy, Jurisdiction and Sovereignty 
  5489 NFT Hyperlink Extension 
@@ -503,3 +505,4 @@
  5553 Representing IP and its Royalty Structure 
  5559 "Cross Chain Write Deferral Protocol" 
  5560 Redeemable NFTs 
+ 5564 Stealth Address Wallets 
