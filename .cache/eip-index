@@ -200,7 +200,7 @@
  1959 New Opcode to check if a chainID is part of the history of chainIDs 
  1962 EC arithmetic and pairings with runtime definitions 
  1965 Method to check if a chainID is valid at a specific block Number 
- 1967 Standard Proxy Storage Slots 
+ 1967 Proxy Storage Slots 
  1973 Scalable Rewards 
  1985 Sane limits for certain EVM parameters 
  1996 Holdable Token 
@@ -435,6 +435,7 @@
  4895 Beacon chain push withdrawals as operations 
  4906 EIP-721 Metadata Update Extension 
  4907 Rental NFT, an Extension of EIP-721 
+ 4910 Royalty Bearing NFTs 
  4931 Generic Token Upgrade Standard 
  4938 "eth/67: Removal of GetNodeData" 
  4944 Contract with Exactly One Non-fungible Token 
