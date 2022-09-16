@@ -503,10 +503,13 @@
  5516 Soulbound Multi-owner Tokens 
  5521 Referable NFT 
  5528 Refundable Fungible Token 
+ 5539 Revocation List Registry 
  5553 Representing IP and its Royalty Structure 
  5559 "Cross Chain Write Deferral Protocol" 
  5560 Redeemable NFTs 
  5564 Stealth Address Wallets 
  5604 NFT Lien 
+ 5633 Composable Soulbound NFT, EIP-1155 Extension 
  5635 NFT Licensing Agreements 
  5643 Subscription NFTs 
+ 5646 Token State Fingerprint 
