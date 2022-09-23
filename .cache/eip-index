@@ -225,7 +225,7 @@
  2070 "Hardfork Meta: Berlin" 
  2098 Compact Signature Representation 
  2124 Fork identifier for chain compatibility checks 
- 2135 Consumable Interface 
+ 2135 Consumable NFT for Ticketing 
  2157 dType Storage Extension - Decentralized Type System for EVM 
  2159 Common Prometheus Metrics Names for Clients 
  2193 dType Alias Extension - Decentralized Type System 
@@ -272,7 +272,7 @@
  2583 Penalty for account trie misses 
  2584 Trie format transition with overlay trees 
  2593 Escalator fee market change for ETH 1.0 chain 
- 2612 permit – 712-signed approvals 
+ 2612 "EIP-20 Permit Extension: Signed Approvals" 
  2615 Non-Fungible Token with mortgage and rental functions 
  2645 Hierarchical Deterministic Wallet for Layer-2 
  2657 Ephemeral Testnet Yolo 
@@ -396,7 +396,7 @@
  4345 Difficulty Bomb Delay to June 2022 
  4353 Interface for Staked Tokens in NFTs 
  4361 Sign-In with Ethereum 
- 4393 Micropayments Standard for NFTs and Multi Tokens 
+ 4393 Micropayments for NFTs and Multi Tokens 
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with PREVRANDAO 
  4400 EIP-721 Consumable Extension 
@@ -467,6 +467,7 @@
  5133 Delaying Difficulty Bomb to mid-September 2022 
  5139 Remote Procedure Call Provider Lists 
  5143 Slippage Protection for Tokenized Vault 
+ 5164 Cross-Chain Execution 
  5169 Client Script URI for Token Contracts 
  5173 NFT Future Rewards (nFR) 
  5185 NFT Updatable Metadata Extension 
