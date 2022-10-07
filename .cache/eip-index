@@ -225,7 +225,7 @@
  2070 "Hardfork Meta: Berlin" 
  2098 Compact Signature Representation 
  2124 Fork identifier for chain compatibility checks 
- 2135 Consumable NFT for Ticketing 
+ 2135 Consumable Interface (Tickets, etc) 
  2157 dType Storage Extension - Decentralized Type System for EVM 
  2159 Common Prometheus Metrics Names for Clients 
  2193 dType Alias Extension - Decentralized Type System 
@@ -235,6 +235,7 @@
  2255 Wallet Permissions System 
  2256 wallet_getOwnedAssets JSON-RPC Method 
  2266 Atomic Swap-based American Call Option Contract Standard 
+ 2294 Explicit bound to Chain ID size 
  2304 Multichain address resolution for ENS 
  2309 ERC-721 Consecutive Transfer Extension 
  2315 Simple Subroutines for the EVM 
@@ -522,3 +523,4 @@
  5643 Subscription NFTs 
  5646 Token State Fingerprint 
  5679 Token Minting and Burning 
+ 5732 Simple Commit Interface 
