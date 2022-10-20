@@ -512,6 +512,7 @@
  5560 Redeemable NFTs 
  5564 Stealth Address Wallets 
  5570 Digital Receipt Non-Fungible Tokens 
+ 5585 EIP-721 NFT Authorization 
  5604 NFT Lien 
  5606 Multiverse NFTs 
  5615 EIP-1155 Supply Extension 
@@ -523,6 +524,7 @@
  5643 Subscription NFTs 
  5646 Token State Fingerprint 
  5679 Token Minting and Burning 
+ 5727 Semi-Fungible Soulbound Token 
  5732 Simple Commit Interface 
  5749 The 'window.evmproviders' object 
  5750 Extra Data Parameter in Methods 
