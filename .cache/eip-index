@@ -119,7 +119,7 @@
  1186 RPC-Method to get Merkle Proofs - eth_getProof 
  1191 Add chain id to mixed-case checksum address encoding 
  1193 Ethereum Provider JavaScript API 
- 1202 Voting Standard 
+ 1202 Voting Interface 
  1203 ERC-1203 Multi-Class Token Standard (ERC-20 Extension) 
  1207 DAuth Access Delegation Standard 
  1227 Defuse Difficulty Bomb and Reset Block Reward 
@@ -528,6 +528,7 @@
  5727 Semi-Fungible Soulbound Token 
  5732 Commit Interface 
  5749 The 'window.evmproviders' object 
- 5750 Extra Data Parameter in Methods 
+ 5750 General Extensibility for Method Behaviors 
  5791 Physical Backed Tokens 
+ 5792 Wallet Function Call API 
  5806 Delegate transaction 
