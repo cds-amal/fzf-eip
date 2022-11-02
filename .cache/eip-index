@@ -273,7 +273,7 @@
  2583 Penalty for account trie misses 
  2584 Trie format transition with overlay trees 
  2593 Escalator fee market change for ETH 1.0 chain 
- 2612 "EIP-20 Permit Extension: Signed Approvals" 
+ 2612 Permit Extension for EIP-20 Signed Approvals 
  2615 Non-Fungible Token with mortgage and rental functions 
  2645 Hierarchical Deterministic Wallet for Layer-2 
  2657 Ephemeral Testnet Yolo 
