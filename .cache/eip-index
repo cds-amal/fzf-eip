@@ -534,4 +534,5 @@
  5757 Process for Approving External Resources 
  5791 Physical Backed Tokens 
  5792 Wallet Function Call API 
+ 5793 eth/68 - Add tx type to tx announcement 
  5806 Delegate transaction 
