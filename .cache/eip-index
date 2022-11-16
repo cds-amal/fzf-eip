@@ -486,6 +486,7 @@
  5269 ERC-identifying Interface 
  5283 Semaphore for Reentrancy Protection 
  5289 Ethereum Notary Interface 
+ 5298 ENS Trust to hold NFTs under ENS name 
  5313 Light Contract Ownership 
  5334 EIP-721 User And Expires And Level Extension 
  5345 Silent Signing Extension for JSON-RPC 
