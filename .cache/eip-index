@@ -539,3 +539,4 @@
  5792 Wallet Function Call API 
  5793 eth/68 - Add tx type to tx announcement 
  5806 Delegate transaction 
+ 5827 Auto-renewable allowance extension 
