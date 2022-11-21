@@ -189,7 +189,7 @@
  1884 Repricing for trie-size-dependent opcodes 
  1890 Commitment to Sustainable Ecosystem Funding 
  1895 Support for an Elliptic Curve Cycle 
- 1898 Add `blockHash` to JSON-RPC methods which accept a default block parameter. 
+ 1898 Add `blockHash` to defaultBlock methods 
  1900 dType - Decentralized Type System for EVM 
  1901 Add OpenRPC Service Discovery To JSON-RPC Services 
  1921 dType Functions Extension 
