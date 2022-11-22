@@ -366,7 +366,7 @@
  3525 Semi-Fungible Token 
  3529 Reduction in refunds 
  3534 Restricted Chain Context Type Transactions 
- 3540 EVM Object Format (EOF) v1 
+ 3540 EOF - EVM Object Format v1 
  3541 Reject new contract code starting with the 0xEF byte 
  3554 Difficulty Bomb Delay to December 2021 
  3561 Trust Minimized Upgradeability Proxy 
@@ -391,7 +391,7 @@
  3855 PUSH0 instruction 
  3860 Limit and meter initcode 
  3978 Gas refunds on reverts 
- 4200 Static relative jumps 
+ 4200 EOF - Static relative jumps 
  4337 Account Abstraction using alt mempool 
  4341 Ordered NFT Batch Standard 
  4345 Difficulty Bomb Delay to June 2022 
