@@ -540,3 +540,5 @@
  5793 eth/68 - Add tx type to tx announcement 
  5806 Delegate transaction 
  5827 Auto-renewable allowance extension 
+ 5920 PAY opcode 
+ 5988 Add Poseidon hash function precompile 
