@@ -530,11 +530,15 @@
  5646 Token State Fingerprint 
  5656 Memory copying instruction 
  5679 Token Minting and Burning 
+ 5719 Signature replacement interface 
+ 5725 Transferable Vesting NFT 
  5727 Semi-Fungible Soulbound Token 
  5732 Commit Interface 
  5749 The 'window.evmproviders' object 
  5750 General Extensibility for Method Behaviors 
+ 5753 Lockable Extension for EIP-721 
  5757 Process for Approving External Resources 
+ 5773 Context-Dependent Multi-Asset Tokens 
  5791 Physical Backed Tokens 
  5792 Wallet Function Call API 
  5793 eth/68 - Add tx type to tx announcement 
