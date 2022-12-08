@@ -546,4 +546,5 @@
  5827 Auto-renewable allowance extension 
  5920 PAY opcode 
  5988 Add Poseidon hash function precompile 
+ 6046 Replace SELFDESTRUCT with DEACTIVATE 
  6049 Deprecate SELFDESTRUCT 
