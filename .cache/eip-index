@@ -444,7 +444,7 @@
  4955 Vendor Metadata Extension for NFTs 
  4972 Name-Owned Account 
  4973 Account-bound Tokens 
- 4974 Experience (EXP) Token Standard 
+ 4974 Ratings 
  4987 Held token interface 
  5000 MULDIV instruction 
  5003 Insert Code into EOAs with AUTHUSURP 
@@ -544,6 +544,7 @@
  5793 eth/68 - Add tx type to tx announcement 
  5806 Delegate transaction 
  5827 Auto-renewable allowance extension 
+ 5850 Complex Numbers stored in `bytes32` types 
  5920 PAY opcode 
  5988 Add Poseidon hash function precompile 
  6046 Replace SELFDESTRUCT with DEACTIVATE 
