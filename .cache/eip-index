@@ -495,7 +495,7 @@
  5409 EIP-1155 Non-Fungible Token extension 
  5437 Security Contact Interface 
  5450 EOF - Stack Validation 
- 5453 Smart Contract Crypto Endorsement 
+ 5453 Endorsement - Permit for Any Functions 
  5478 CREATE2COPY Opcode 
  5484 Consensual Soulbound Tokens 
  5485 Legitimacy, Jurisdiction and Sovereignty 
@@ -549,4 +549,5 @@
  5988 Add Poseidon hash function precompile 
  6046 Replace SELFDESTRUCT with DEACTIVATE 
  6049 Deprecate SELFDESTRUCT 
+ 6059 Parent-Governed Nestable Non-Fungible Tokens 
  6093 Custom errors for commonly-used tokens 
