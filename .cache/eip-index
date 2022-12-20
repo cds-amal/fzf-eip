@@ -256,7 +256,7 @@
  2470 Singleton Factory 
  2474 Coinbase calls 
  2477 Token Metadata Integrity 
- 2481 "eth/66: request identifier" 
+ 2481 eth/66 request identifier 
  2488 Deprecate the CALLCODE opcode 
  2494 Baby Jubjub Elliptic Curve 
  2515 Implement Difficulty Freeze 
