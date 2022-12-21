@@ -552,3 +552,4 @@
  6049 Deprecate SELFDESTRUCT 
  6059 Parent-Governed Nestable Non-Fungible Tokens 
  6093 Custom errors for commonly-used tokens 
+ 6110 Supply validator deposits on chain 
