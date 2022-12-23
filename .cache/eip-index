@@ -464,7 +464,7 @@
  5094 URL Format for Ethereum Network Switching 
  5095 Principal Token 
  5114 Soulbound Badge 
- 5115 Super Composable Yield Token 
+ 5115 SY Token 
  5131 SAFE Authentication For ENS 
  5133 Delaying Difficulty Bomb to mid-September 2022 
  5139 Remote Procedure Call Provider Lists 
@@ -553,3 +553,4 @@
  6059 Parent-Governed Nestable Non-Fungible Tokens 
  6093 Custom errors for commonly-used tokens 
  6110 Supply validator deposits on chain 
+ 6206 EOF - JUMPF instruction 
