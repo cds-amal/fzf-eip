@@ -546,6 +546,7 @@
  5806 Delegate transaction 
  5827 Auto-renewable allowance extension 
  5850 Complex Numbers stored in `bytes32` types 
+ 5902 Smart Contract Event Hooks 
  5920 PAY opcode 
  5988 Add Poseidon hash function precompile 
  6046 Replace SELFDESTRUCT with DEACTIVATE 
@@ -554,5 +555,6 @@
  6093 Custom errors for commonly-used tokens 
  6110 Supply validator deposits on chain 
  6123 Smart Derivative Contract 
+ 6150 Hierarchical NFTs 
  6170 Cross-Chain Messaging Interface 
  6206 EOF - JUMPF instruction 
