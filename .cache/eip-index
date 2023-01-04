@@ -61,7 +61,7 @@
  706 DEVp2p snappy compression 
  712 Typed structured data hashing and signing 
  721 Non-Fungible Token Standard 
- 725 General key-value store and execution standard 
+ 725 General data key/value store and execution 
  747 Add wallet_watchAsset to Provider 
  758 Subscriptions and filters for completed transactions 
  777 Token Standard 
