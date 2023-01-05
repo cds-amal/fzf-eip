@@ -548,6 +548,7 @@
  5850 Complex Numbers stored in `bytes32` types 
  5902 Smart Contract Event Hooks 
  5920 PAY opcode 
+ 5982 Role-based Access Control 
  5988 Add Poseidon hash function precompile 
  6046 Replace SELFDESTRUCT with DEACTIVATE 
  6049 Deprecate SELFDESTRUCT 
