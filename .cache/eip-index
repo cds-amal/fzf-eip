@@ -543,6 +543,7 @@
  5791 Physical Backed Tokens 
  5792 Wallet Function Call API 
  5793 eth/68 - Add tx type to tx announcement 
+ 5805 Voting with delegation 
  5806 Delegate transaction 
  5827 Auto-renewable allowance extension 
  5850 Complex Numbers stored in `bytes32` types 
@@ -560,4 +561,5 @@
  6123 Smart Derivative Contract 
  6150 Hierarchical NFTs 
  6170 Cross-Chain Messaging Interface 
+ 6188 Nonce Cap 
  6206 EOF - JUMPF instruction 
