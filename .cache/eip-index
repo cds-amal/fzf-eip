@@ -483,7 +483,7 @@
  5247 Smart Contract Executable Proposal Interface 
  5252 Account-bound Finance 
  5267 Retrieval of EIP-712 domain 
- 5269 ERC-identifying Interface 
+ 5269 EIP/ERC Detection and Discovery 
  5283 Semaphore for Reentrancy Protection 
  5289 Ethereum Notary Interface 
  5298 ENS Trust to hold NFTs under ENS name 
@@ -559,7 +559,10 @@
  6110 Supply validator deposits on chain 
  6120 Universal Token Router 
  6123 Smart Derivative Contract 
+ 6147 Guard of NFT/SBT, an Extension of EIP-721 
  6150 Hierarchical NFTs 
  6170 Cross-Chain Messaging Interface 
  6188 Nonce Cap 
+ 6189 Alias Contracts 
+ 6190 Functional SELFDESTRUCT 
  6206 EOF - JUMPF instruction 
