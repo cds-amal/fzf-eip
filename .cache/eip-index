@@ -564,5 +564,5 @@
  6170 Cross-Chain Messaging Interface 
  6188 Nonce Cap 
  6189 Alias Contracts 
- 6190 Functional SELFDESTRUCT 
+ 6190 Verkle-compatible SELFDESTRUCT 
  6206 EOF - JUMPF instruction 
