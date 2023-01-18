@@ -530,6 +530,7 @@
  5646 Token State Fingerprint 
  5656 Memory copying instruction 
  5679 Token Minting and Burning 
+ 5700 Bindable Token Interface 
  5719 Signature replacement interface 
  5725 Transferable Vesting NFT 
  5727 Semi-Fungible Soulbound Token 
