@@ -557,9 +557,11 @@
  6049 Deprecate SELFDESTRUCT 
  6051 Private Key Encapsulation 
  6059 Parent-Governed Nestable Non-Fungible Tokens 
+ 6066 Signature Validation Method for NFTs 
  6093 Custom errors for commonly-used tokens 
  6110 Supply validator deposits on chain 
  6120 Universal Token Router 
+ 6122 Forkid checks based on timestamps 
  6123 Smart Derivative Contract 
  6147 Guard of NFT/SBT, an Extension of EIP-721 
  6150 Hierarchical NFTs 
@@ -571,3 +573,4 @@
  6220 Composable NFTs utilizing Equippable Parts 
  6224 Contracts Dependencies Registry 
  6372 Contract clock 
+ 6384 Human-readable offline signatures 
