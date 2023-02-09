@@ -452,7 +452,7 @@
  5006 Rental NFT, NFT User Extension 
  5007 Time NFT, EIP-721 Time Extension 
  5008 EIP-721 Nonce Extension 
- 5018 Filesystem-like Interface for Smart Contracts 
+ 5018 Filesystem-like Interface for Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5023 Shareable Non-Fungible Token 
  5027 Remove the limit on contract code size 
@@ -577,4 +577,6 @@
  6372 Contract clock 
  6381 Emotable Extension for Non-Fungible Tokens 
  6384 Human-readable offline signatures 
+ 6404 SSZ transactions root 
  6454 Minimalistic Soulbound interface for NFTs 
+ 6465 SSZ withdrawals root 
