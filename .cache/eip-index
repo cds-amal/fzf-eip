@@ -84,7 +84,7 @@
  926 Address metadata registry 
  927 Generalised authorisations 
  969 Modifications to ethash to invalidate existing dedicated hardware implementations 
- 998 ERC-998 Composable Non-Fungible Token Standard 
+ 998 Composable Non-Fungible Token 
  999 Restore Contract Code at 0x863DF6BFa4469f3ead0bE8f9F2AAE51c91A907b4 
  1010 Uniformity Between 0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B and 0x15E55EF43efA8348dDaeAa455F16C43B64917e3c 
  1011 Hybrid Casper FFG 
@@ -578,6 +578,6 @@
  6381 Emotable Extension for Non-Fungible Tokens 
  6384 Human-readable offline signatures 
  6404 SSZ transactions root 
- 6454 Minimalistic Soulbound interface for NFTs 
+ 6454 Minimalistic Non-Transferrable NFTs 
  6465 SSZ withdrawals root 
  6475 SSZ Optional 
