@@ -62,7 +62,7 @@
  712 Typed structured data hashing and signing 
  721 Non-Fungible Token Standard 
  725 General data key/value store and execution 
- 747 Add wallet_watchAsset to Provider 
+ 747 wallet_watchAsset RPC Method 
  758 Subscriptions and filters for completed transactions 
  777 Token Standard 
  778 Ethereum Node Records (ENR) 
@@ -560,6 +560,7 @@
  6065 Real Estate Token 
  6066 Signature Validation Method for NFTs 
  6093 Custom errors for commonly-used tokens 
+ 6105 Marketplace Extension for EIP-721 
  6110 Supply validator deposits on chain 
  6120 Universal Token Router 
  6122 Forkid checks based on timestamps 
@@ -573,6 +574,7 @@
  6206 EOF - JUMPF instruction 
  6220 Composable NFTs utilizing Equippable Parts 
  6224 Contracts Dependencies Registry 
+ 6268 Untransferability Indicator for EIP-1155 
  6353 Charity token 
  6372 Contract clock 
  6381 Emotable Extension for Non-Fungible Tokens 
