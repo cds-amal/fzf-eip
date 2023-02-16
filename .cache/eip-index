@@ -579,7 +579,8 @@
  6372 Contract clock 
  6381 Emotable Extension for Non-Fungible Tokens 
  6384 Human-readable offline signatures 
- 6404 SSZ transactions root 
- 6454 Minimalistic Non-Transferrable NFTs 
- 6465 SSZ withdrawals root 
+ 6404 SSZ Transactions Root 
+ 6454 Minimalistic Non-Transferable NFTs 
+ 6465 SSZ Withdrawals Root 
+ 6466 SSZ Receipts Root 
  6475 SSZ Optional 
