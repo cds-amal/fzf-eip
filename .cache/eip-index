@@ -565,7 +565,7 @@
  6120 Universal Token Router 
  6122 Forkid checks based on timestamps 
  6123 Smart Derivative Contract 
- 6147 Guard of NFT/SBT, an Extension of EIP-721 
+ 6147 Guard of NFT/SBT, an Extension of ERC-721 
  6150 Hierarchical NFTs 
  6170 Cross-Chain Messaging Interface 
  6188 Nonce Cap 
