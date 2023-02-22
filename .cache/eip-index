@@ -512,7 +512,7 @@
  5554 NFT Legal Use, Repurposing, and Remixing 
  5559 "Cross Chain Write Deferral Protocol" 
  5560 Redeemable NFTs 
- 5564 Non-Interactive Stealth Address Generation 
+ 5564 Stealth Addresses 
  5568 Revert Reason for Required Actions 
  5570 Digital Receipt Non-Fungible Tokens 
  5573 Sign-In with Ethereum Capabilities, ReCaps 
@@ -575,7 +575,9 @@
  6220 Composable NFTs utilizing Equippable Parts 
  6224 Contracts Dependencies Registry 
  6268 Untransferability Indicator for EIP-1155 
+ 6315 EIP-2771 Account Abstraction 
  6353 Charity token 
+ 6366 Permission Token 
  6372 Contract clock 
  6381 Emotable Extension for Non-Fungible Tokens 
  6384 Human-readable offline signatures 
