@@ -516,7 +516,7 @@
  5568 Revert Reason for Required Actions 
  5570 Digital Receipt Non-Fungible Tokens 
  5573 Sign-In with Ethereum Capabilities, ReCaps 
- 5585 EIP-721 NFT Authorization 
+ 5585 ERC-721 NFT Authorization 
  5593 Restrict Ethereum Provider API Injection 
  5604 NFT Lien 
  5606 Multiverse NFTs 
@@ -575,8 +575,9 @@
  6220 Composable NFTs utilizing Equippable Parts 
  6224 Contracts Dependencies Registry 
  6268 Untransferability Indicator for EIP-1155 
- 6315 EIP-2771 Account Abstraction 
+ 6315 ERC-2771 Account Abstraction 
  6353 Charity token 
+ 6357 Single-contract Multi-delegatecall 
  6366 Permission Token 
  6372 Contract clock 
  6381 Emotable Extension for Non-Fungible Tokens 
