@@ -91,7 +91,7 @@
  1013 "Hardfork Meta: Constantinople" 
  1014 Skinny CREATE2 
  1015 Configurable On Chain Issuance 
- 1046 ERC20 Metadata Extension 
+ 1046 tokenURI Interoperability 
  1051 Overflow checking for the EVM 
  1052 EXTCODEHASH opcode 
  1056 Ethereum Lightweight Identity 
@@ -549,11 +549,13 @@
  5827 Auto-renewable allowance extension 
  5850 Complex Numbers stored in `bytes32` types 
  5851 On-Chain Verifiable Credentials 
+ 5883 Token Transfer by Social Recovery 
  5902 Smart Contract Event Hooks 
  5920 PAY opcode 
  5982 Role-based Access Control 
  5988 Add Poseidon hash function precompile 
  6046 Replace SELFDESTRUCT with DEACTIVATE 
+ 6047 ERC-721 Balance indexing via Transfer event 
  6049 Deprecate SELFDESTRUCT 
  6051 Private Key Encapsulation 
  6059 Parent-Governed Nestable Non-Fungible Tokens 
@@ -587,3 +589,6 @@
  6465 SSZ Withdrawals Root 
  6466 SSZ Receipts Root 
  6475 SSZ Optional 
+ 6492 Signature Validation for Predeploy Contracts 
+ 6538 Stealth Meta-Address Registry 
+ 6551 Non-fungible Token Bound Accounts 
