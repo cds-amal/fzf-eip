@@ -37,6 +37,7 @@
  210 Blockhash refactoring 
  211 "New opcodes: RETURNDATASIZE and RETURNDATACOPY" 
  214 New opcode STATICCALL 
+ 223 223 Token with communication model 
  225 Clique proof-of-authority consensus protocol 
  233 Formal process of hard forks 1679 "Hardfork Meta: Istanbul" 
  234 Add `blockHash` to JSON-RPC filter options. 
@@ -580,6 +581,7 @@
  6315 ERC-2771 Account Abstraction 
  6353 Charity token 
  6357 Single-contract Multi-delegatecall 
+ 6358 Omniverse Token Protocol 
  6366 Permission Token 
  6372 Contract clock 
  6381 Emotable Extension for Non-Fungible Tokens 
@@ -594,3 +596,4 @@
  6493 SSZ Transaction Signature Scheme 
  6538 Stealth Meta-Address Registry 
  6551 Non-fungible Token Bound Accounts 
+ 6596 Historical Asset Metadata JSON Schema 
