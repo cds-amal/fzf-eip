@@ -594,6 +594,7 @@
  6475 SSZ Optional 
  6492 Signature Validation for Predeploy Contracts 
  6493 SSZ Transaction Signature Scheme 
+ 6506 P2P Escrowed Governance Incentives 
  6538 Stealth Meta-Address Registry 
  6551 Non-fungible Token Bound Accounts 
  6596 Historical Asset Metadata JSON Schema 
