@@ -600,3 +600,5 @@
  6551 Non-fungible Token Bound Accounts 
  6596 Historical Asset Metadata JSON Schema 
  6617 Bit Based Permission 
+ 6662 AA Account Metadata For Authentication 
+ 6780 SELFDESTRUCT only in same transaction 
