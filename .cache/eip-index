@@ -361,6 +361,7 @@
  3440 ERC-721 Editions Standard 
  3448 MetaProxy Standard 
  3450 Standardized Shamir Secret Sharing Scheme for BIP-39 Mnemonics 
+ 3455 SUDO Opcode 
  3475 Abstract Storage Bonds 
  3508 Transaction Data Opcodes 
  3520 Transaction Destination Opcode 
@@ -602,3 +603,4 @@
  6617 Bit Based Permission 
  6662 AA Account Metadata For Authentication 
  6780 SELFDESTRUCT only in same transaction 
+ 6810 Ex Post Facto Cascading Revert 
