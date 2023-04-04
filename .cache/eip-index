@@ -603,4 +603,5 @@
  6617 Bit Based Permission 
  6662 AA Account Metadata For Authentication 
  6780 SELFDESTRUCT only in same transaction 
+ 6789 Rename gas to mana 
  6810 Ex Post Facto Cascading Revert 
