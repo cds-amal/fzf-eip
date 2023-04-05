@@ -586,7 +586,7 @@
  6358 Cross-Chain Token States Synchronization 
  6366 Permission Token 
  6372 Contract clock 
- 6381 Emotable Extension for Non-Fungible Tokens 
+ 6381 Public Non-Fungible Token Emote Repository 
  6384 Human-readable offline signatures 
  6404 SSZ Transactions Root 
  6454 Minimalistic Non-Transferable NFTs 
@@ -602,6 +602,7 @@
  6596 Historical Asset Metadata JSON Schema 
  6617 Bit Based Permission 
  6662 AA Account Metadata For Authentication 
+ 6672 Multi-redeemable NFTs 
  6780 SELFDESTRUCT only in same transaction 
  6789 Rename gas to mana 
  6810 Ex Post Facto Cascading Revert 
