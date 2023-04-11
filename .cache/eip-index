@@ -581,6 +581,7 @@
  6224 Contracts Dependencies Registry 
  6268 Untransferability Indicator for EIP-1155 
  6315 ERC-2771 Account Abstraction 
+ 6327 Elastic Signature 
  6353 Charity token 
  6357 Single-contract Multi-delegatecall 
  6358 Cross-Chain Token States Synchronization 
