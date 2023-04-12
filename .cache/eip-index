@@ -424,7 +424,7 @@
  4758 Deactivate SELFDESTRUCT 
  4760 SELFDESTRUCT bomb 
  4762 Statelessness gas cost changes 
- 4788 Beacon state root in the EVM 
+ 4788 Beacon block root in the EVM 
  4799 Non-Fungible Token Ownership Designation Standard 
  4803 Limit transaction gas to a maximum of 2^63-1 
  4804 Web3 URL to EVM Call Message Translation 
