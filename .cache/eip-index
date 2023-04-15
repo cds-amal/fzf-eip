@@ -454,7 +454,7 @@
  5005 Zodiac Modular Accounts 
  5006 Rental NFT, NFT User Extension 
  5007 Time NFT, EIP-721 Time Extension 
- 5008 EIP-721 Nonce Extension 
+ 5008 ERC-721 Nonce Extension 
  5018 Filesystem-like Interface for Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
  5023 Shareable Non-Fungible Token 
