@@ -453,7 +453,7 @@
  5003 Insert Code into EOAs with AUTHUSURP 
  5005 Zodiac Modular Accounts 
  5006 Rental NFT, NFT User Extension 
- 5007 Time NFT, EIP-721 Time Extension 
+ 5007 Time NFT, ERC-721 Time Extension 
  5008 ERC-721 Nonce Extension 
  5018 Filesystem-like Interface for Contracts 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
@@ -607,3 +607,4 @@
  6780 SELFDESTRUCT only in same transaction 
  6789 Rename gas to mana 
  6810 Ex Post Facto Cascading Revert 
+ 6913 SETCODE instruction 
