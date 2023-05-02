@@ -590,7 +590,7 @@
  6381 Public Non-Fungible Token Emote Repository 
  6384 Human-readable offline signatures 
  6404 SSZ Transactions Root 
- 6454 Minimalistic Non-Transferable NFTs 
+ 6454 Minimal Transferable NFT detection interface 
  6464 Multi-operator, per-token ERC-721 approvals. 
  6465 SSZ Withdrawals Root 
  6466 SSZ Receipts Root 
