@@ -609,5 +609,7 @@
  6808 Fungible Key Bound Token 
  6809 Non-Fungible Key Bound Token 
  6810 Ex Post Facto Cascading Revert 
+ 6821 Support ENS Name for Web3 URL 
+ 6900 Modular Smart Contract Accounts and Plugins 
  6913 SETCODE instruction 
  6953 Network Upgrade Activation Triggers 
