@@ -531,7 +531,7 @@
  5639 Delegation Registry 
  5643 Subscription NFTs 
  5646 Token State Fingerprint 
- 5656 Memory copying instruction 
+ 5656 MCOPY - Memory copying instruction 
  5679 Token Minting and Burning 
  5700 Bindable Token Interface 
  5719 Signature replacement interface 
