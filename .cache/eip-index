@@ -611,6 +611,8 @@
  6810 Ex Post Facto Cascading Revert 
  6811 To The Moon—10 Minute Blocks 
  6821 Support ENS Name for Web3 URL 
+ 6888 Math checking in EVM 
  6900 Modular Smart Contract Accounts and Plugins 
  6913 SETCODE instruction 
  6953 Network Upgrade Activation Triggers 
+ 6963 Multi Injected Provider Discovery 
