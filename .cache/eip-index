@@ -606,6 +606,7 @@
  6672 Multi-redeemable NFTs 
  6780 SELFDESTRUCT only in same transaction 
  6786 Registry for royalties payment for NFTs 
+ 6787 Order Book DEX with Two Phase Withdrawal 
  6789 Rename gas to mana 
  6808 Fungible Key Bound Token 
  6809 Non-Fungible Key Bound Token 
