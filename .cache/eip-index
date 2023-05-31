@@ -579,6 +579,7 @@
  6206 EOF - JUMPF instruction 
  6220 Composable NFTs utilizing Equippable Parts 
  6224 Contracts Dependencies Registry 
+ 6239 Semantic Soulbound Tokens 
  6268 Untransferability Indicator for EIP-1155 
  6315 ERC-2771 Account Abstraction 
  6327 Elastic Signature 
@@ -613,10 +614,15 @@
  6810 Ex Post Facto Cascading Revert 
  6811 To The Moon—10 Minute Blocks 
  6821 Support ENS Name for Web3 URL 
+ 6823 Token Mapping Slot Retrieval Extension 
  6865 On-Chain EIP-712 Visualization 
  6888 Math checking in EVM 
  6900 Modular Smart Contract Accounts and Plugins 
  6913 SETCODE instruction 
+ 6944 ERC-5219 Resolve Mode 
  6953 Network Upgrade Activation Triggers 
  6956 Asset-bound Non-Fungible Tokens 
  6963 Multi Injected Provider Discovery 
+ 6981 Reserved Ownership Accounts 
+ 6988 Elected block proposer has not been slashed 
+ 7045 Increase max attestation inclusion slot 
