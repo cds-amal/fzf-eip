@@ -609,6 +609,7 @@
  6786 Registry for royalties payment for NFTs 
  6787 Order Book DEX with Two Phase Withdrawal 
  6789 Rename gas to mana 
+ 6806 ERC-721 Holding Time Tracking 
  6808 Fungible Key Bound Token 
  6809 Non-Fungible Key Bound Token 
  6810 Ex Post Facto Cascading Revert 
@@ -618,6 +619,7 @@
  6865 On-Chain EIP-712 Visualization 
  6888 Math checking in EVM 
  6900 Modular Smart Contract Accounts and Plugins 
+ 6909 Minimal Multi-Token Interface 
  6913 SETCODE instruction 
  6944 ERC-5219 Resolve Mode 
  6953 Network Upgrade Activation Triggers 
@@ -625,4 +627,6 @@
  6963 Multi Injected Provider Discovery 
  6981 Reserved Ownership Accounts 
  6988 Elected block proposer has not been slashed 
+ 6997 ERC-721 with transaction validation step. 
+ 7015 NFT Creator Attribution 
  7045 Increase max attestation inclusion slot 
