@@ -630,3 +630,4 @@
  6997 ERC-721 with transaction validation step. 
  7015 NFT Creator Attribution 
  7045 Increase max attestation inclusion slot 
+ 7069 Revamped CALL instructions 
