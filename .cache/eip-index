@@ -606,6 +606,7 @@
  6662 AA Account Metadata For Authentication 
  6672 Multi-redeemable NFTs 
  6780 SELFDESTRUCT only in same transaction 
+ 6785 ERC-721 Utilities Information Extension 
  6786 Registry for royalties payment for NFTs 
  6787 Order Book DEX with Two Phase Withdrawal 
  6789 Rename gas to mana 
@@ -624,8 +625,10 @@
  6944 ERC-5219 Resolve Mode 
  6953 Network Upgrade Activation Triggers 
  6956 Asset-bound Non-Fungible Tokens 
+ 6960 Dual Layer Token 
  6963 Multi Injected Provider Discovery 
  6981 Reserved Ownership Accounts 
+ 6982 Efficient Default Lockable Tokens 
  6988 Elected block proposer has not been slashed 
  6997 ERC-721 with transaction validation step. 
  7015 NFT Creator Attribution 
