@@ -632,6 +632,7 @@
  6982 Efficient Default Lockable Tokens 
  6988 Elected block proposer has not been slashed 
  6997 ERC-721 with transaction validation step. 
+ 7002 Execution layer triggerable exits 
  7007 Zero-Knowledge AI-Generated Content Token 
  7015 NFT Creator Attribution 
  7044 Perpetually Valid Signed Voluntary Exits 
@@ -642,3 +643,4 @@
  7144 ERC-20 with transaction validation step. 
  7199 Linter Scope 
  7201 Namespaced Storage Layout 
+ 7212 Precompiled for secp256r1 Curve Support 
