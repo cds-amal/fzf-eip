@@ -635,6 +635,7 @@
  7002 Execution layer triggerable exits 
  7007 Zero-Knowledge AI-Generated Content Token 
  7015 NFT Creator Attribution 
+ 7039 Scheme-Handler Discovery Option for Wallets 
  7044 Perpetually Valid Signed Voluntary Exits 
  7045 Increase max attestation inclusion slot 
  7053 Interoperable Digital Media Indexing 
@@ -649,3 +650,5 @@
  7212 Precompiled for secp256r1 Curve Support 
  7266 Remove BLAKE2 compression precompile 
  7329 ERC/EIP Repository split 
+ 7377 Migration Transaction 
+ 7401 Parent-Governed Non-Fungible Tokens Nesting 
