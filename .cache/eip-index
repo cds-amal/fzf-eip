@@ -605,6 +605,7 @@
  6617 Bit Based Permission 
  6662 AA Account Metadata For Authentication 
  6672 Multi-redeemable NFTs 
+ 6682 NFT Flashloans 
  6780 SELFDESTRUCT only in same transaction 
  6785 ERC-721 Utilities Information Extension 
  6786 Registry for royalties payment for NFTs 
