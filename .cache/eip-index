@@ -606,6 +606,7 @@
  6662 AA Account Metadata For Authentication 
  6672 Multi-redeemable NFTs 
  6682 NFT Flashloans 
+ 6735 L2 Aliasing of EVM-based Addresses 
  6780 SELFDESTRUCT only in same transaction 
  6785 ERC-721 Utilities Information Extension 
  6786 Registry for royalties payment for NFTs 
@@ -649,7 +650,9 @@
  7199 Linter Scope 
  7201 Namespaced Storage Layout 
  7212 Precompiled for secp256r1 Curve Support 
+ 7231 Identity aggregated NFT 
  7266 Remove BLAKE2 compression precompile 
+ 7303 Token-Controlled Token Circulation 
  7329 ERC/EIP Repository split 
  7377 Migration Transaction 
  7401 Parent-Governed Non-Fungible Tokens Nesting 
