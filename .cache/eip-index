@@ -37,7 +37,7 @@
  210 Blockhash refactoring 
  211 "New opcodes: RETURNDATASIZE and RETURNDATACOPY" 
  214 New opcode STATICCALL 
- 223 Token with communication model 
+ 223 Token with transaction handling model 
  225 Clique proof-of-authority consensus protocol 
  233 Formal process of hard forks 1679 "Hardfork Meta: Istanbul" 
  234 Add `blockHash` to JSON-RPC filter options. 
