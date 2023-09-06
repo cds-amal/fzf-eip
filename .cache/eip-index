@@ -657,8 +657,13 @@
  7377 Migration Transaction 
  7401 Parent-Governed Non-Fungible Tokens Nesting 
  7405 Portable Smart Contract Accounts 
+ 7406 Multi-Namespace Onchain Registry 
  7409 Public Non-Fungible Tokens Emote Repository 
  7412 On-Demand Off-Chain Data Retrieval 
+ 7425 Tokenized Reserve 
  7432 Non-Fungible Token Roles 
+ 7441 Upgrade block proposer election to Whisk 
  7444 Time Locks Maturity 
  7495 SSZ StableContainer 
+ 7503 Zero-Knowledge Wormholes 
+ 7508 Dynamic On-Chain Token Attributes Repository 
