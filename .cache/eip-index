@@ -486,7 +486,7 @@
  5247 Smart Contract Executable Proposal Interface 
  5252 Account-bound Finance 
  5267 Retrieval of EIP-712 domain 
- 5269 EIP/ERC Detection and Discovery 
+ 5269 ERC Detection and Discovery 
  5283 Semaphore for Reentrancy Protection 
  5289 Ethereum Notary Interface 
  5298 ENS Trust to hold NFTs under ENS name 
@@ -669,3 +669,4 @@
  7508 Dynamic On-Chain Token Attributes Repository 
  7511 Minimal Proxy Contract with PUSH0 
  7512 Onchain Representation for Audits 
+ 7516 BLOBBASEFEE opcode 
