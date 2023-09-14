@@ -602,10 +602,13 @@
  6538 Stealth Meta-Address Registry 
  6551 Non-fungible Token Bound Accounts 
  6596 Historical Asset Metadata JSON Schema 
+ 6604 Abstract Token 
  6617 Bit Based Permission 
  6662 AA Account Metadata For Authentication 
  6672 Multi-redeemable NFTs 
  6682 NFT Flashloans 
+ 6690 EVM Modular Arithmetic Extensions (EVMMAX) 
+ 6734 L2 Token List 
  6735 L2 Aliasing of EVM-based Addresses 
  6780 SELFDESTRUCT only in same transaction 
  6785 ERC-721 Utilities Information Extension 
@@ -669,4 +672,5 @@
  7508 Dynamic On-Chain Token Attributes Repository 
  7511 Minimal Proxy Contract with PUSH0 
  7512 Onchain Representation for Audits 
+ 7514 Add Max Epoch Churn Limit 
  7516 BLOBBASEFEE opcode 
