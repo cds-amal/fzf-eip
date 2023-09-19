@@ -329,7 +329,7 @@
  3068 Precompile for BN256 HashToCurve Algorithms 
  3074 AUTH and AUTHCALL opcodes 
  3076 Slashing Protection Interchange Format 
- 3085 Wallet Add Ethereum Chain RPC Method (`wallet_addEthereumChain`) 
+ 3085 wallet_addEthereumChain RPC Method 
  3091 Block Explorer API Routes 
  3102 Binary trie structure 
  3135 Exclusive Claimable Token 
@@ -622,11 +622,14 @@
  6811 To The Moon—10 Minute Blocks 
  6821 Support ENS Name for Web3 URL 
  6823 Token Mapping Slot Retrieval Extension 
+ 6864 Upgradable Fungible Token 
  6865 On-Chain EIP-712 Visualization 
+ 6873 Preimage retention 
  6888 Math checking in EVM 
  6900 Modular Smart Contract Accounts and Plugins 
  6909 Minimal Multi-Token Interface 
  6913 SETCODE instruction 
+ 6916 Automatically Reset Tesnet 
  6944 ERC-5219 Resolve Mode 
  6953 Network Upgrade Activation Triggers 
  6956 Asset-bound Non-Fungible Tokens 
