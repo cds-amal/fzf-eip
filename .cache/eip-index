@@ -661,6 +661,7 @@
  7303 Token-Controlled Token Circulation 
  7329 ERC/EIP Repository split 
  7377 Migration Transaction 
+ 7378 Add time-weighted averaging to the base fee 
  7401 Parent-Governed Non-Fungible Tokens Nesting 
  7405 Portable Smart Contract Accounts 
  7406 Multi-Namespace Onchain Registry 
@@ -677,3 +678,4 @@
  7512 Onchain Representation for Audits 
  7514 Add Max Epoch Churn Limit 
  7516 BLOBBASEFEE opcode 
+ 7519 Atomic Storage Operations SCREDIT and SDEBIT 
