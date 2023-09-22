@@ -649,6 +649,7 @@
  7053 Interoperable Digital Media Indexing 
  7066 Lockable Extension for ERC-721 
  7069 Revamped CALL instructions 
+ 7085 NFT Relationship Enhancement 
  7092 Financial Bonds 
  7093 Social Recovery Interface 
  7144 ERC-20 with transaction validation step. 
@@ -673,9 +674,11 @@
  7444 Time Locks Maturity 
  7495 SSZ StableContainer 
  7503 Zero-Knowledge Wormholes 
+ 7507 Multi-User NFT Extension 
  7508 Dynamic On-Chain Token Attributes Repository 
  7511 Minimal Proxy Contract with PUSH0 
  7512 Onchain Representation for Audits 
  7514 Add Max Epoch Churn Limit 
  7516 BLOBBASEFEE opcode 
  7519 Atomic Storage Operations SCREDIT and SDEBIT 
+ 7523 Empty accounts deprecation 
