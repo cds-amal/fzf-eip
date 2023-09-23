@@ -576,7 +576,7 @@
  6188 Nonce Cap 
  6189 Alias Contracts 
  6190 Verkle-compatible SELFDESTRUCT 
- 6206 EOF - JUMPF instruction 
+ 6206 EOF - JUMPF and non-returning functions 
  6220 Composable NFTs utilizing Equippable Parts 
  6224 Contracts Dependencies Registry 
  6239 Semantic Soulbound Tokens 
@@ -672,6 +672,7 @@
  7432 Non-Fungible Token Roles 
  7441 Upgrade block proposer election to Whisk 
  7444 Time Locks Maturity 
+ 7480 EOF - Data section access instructions 
  7495 SSZ StableContainer 
  7503 Zero-Knowledge Wormholes 
  7507 Multi-User NFT Extension 
