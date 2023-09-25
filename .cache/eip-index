@@ -682,4 +682,5 @@
  7514 Add Max Epoch Churn Limit 
  7516 BLOBBASEFEE opcode 
  7519 Atomic Storage Operations SCREDIT and SDEBIT 
+ 7522 OIDC ZK Verifier for AA Account 
  7523 Empty accounts deprecation 
