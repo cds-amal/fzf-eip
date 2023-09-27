@@ -615,6 +615,7 @@
  6786 Registry for royalties payment for NFTs 
  6787 Order Book DEX with Two Phase Withdrawal 
  6789 Rename gas to mana 
+ 6800 Ethereum state using a unified verkle tree 
  6806 ERC-721 Holding Time Tracking 
  6808 Fungible Key Bound Token 
  6809 Non-Fungible Key Bound Token 
