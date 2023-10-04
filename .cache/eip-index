@@ -659,6 +659,7 @@
  7201 Namespaced Storage Layout 
  7212 Precompiled for secp256r1 Curve Support 
  7231 Identity aggregated NFT 
+ 7251 Increase the MAX_EFFECTIVE_BALANCE 
  7266 Remove BLAKE2 compression precompile 
  7303 Token-Controlled Token Circulation 
  7329 ERC/EIP Repository split 
