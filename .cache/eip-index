@@ -623,6 +623,7 @@
  6811 To The Moon—10 Minute Blocks 
  6821 Support ENS Name for Web3 URL 
  6823 Token Mapping Slot Retrieval Extension 
+ 6860 Web3 URL to EVM Call Message Translation 
  6864 Upgradable Fungible Token 
  6865 On-Chain EIP-712 Visualization 
  6873 Preimage retention 
@@ -676,6 +677,7 @@
  7441 Upgrade block proposer election to Whisk 
  7444 Time Locks Maturity 
  7480 EOF - Data section access instructions 
+ 7484 Registries and Adapters for Smart Accounts 
  7495 SSZ StableContainer 
  7503 Zero-Knowledge Wormholes 
  7507 Multi-User NFT Extension 
@@ -688,3 +690,4 @@
  7521 General Intents for Smart Contract Wallets 
  7522 OIDC ZK Verifier for AA Account 
  7523 Empty accounts deprecation 
+ 7528 ETH (Native Asset) Address Convention 
