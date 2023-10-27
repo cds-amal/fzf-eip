@@ -6,10 +6,14 @@
  6 Renaming SUICIDE opcode 
  7 DELEGATECALL 
  8 devp2p Forward Compatibility Requirements for Homestead 
+ 20 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-20.md 
+ 55 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-55.md 
+ 67 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-67.md 
  86 Abstraction of transaction origin and signature 
  100 Change difficulty adjustment to target mean block time including uncles 
  101 Serenity Currency and Crypto Abstraction 
  107 safe "eth_sendTransaction" authorization via html popup 
+ 137 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-137.md 
  140 REVERT instruction 
  141 Designated invalid EVM instruction 
  145 Bitwise shifting instructions in EVM 
@@ -19,16 +23,26 @@
  158 State clearing 
  160 EXP cost increase 
  161 State trie clearing (invariant-preserving alternative) 
+ 162 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-162.md 
+ 165 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-165.md 
  170 Contract code size limit 
+ 173 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-173.md 
+ 181 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-181.md 
+ 190 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-190.md 
+ 191 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-191.md 
  196 Precompiled contracts for addition and scalar multiplication on the elliptic curve alt_bn128 
  197 Precompiled contracts for optimal ate pairing check on the elliptic curve alt_bn128 
  198 Big integer modular exponentiation 
+ 205 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-205.md 
  210 Blockhash refactoring 
  211 "New opcodes: RETURNDATASIZE and RETURNDATACOPY" 
  214 New opcode STATICCALL 
+ 223 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-223.md 
  225 Clique proof-of-authority consensus protocol 
  233 Formal process of hard forks 1679 "Hardfork Meta: Istanbul" 
  234 Add `blockHash` to JSON-RPC filter options. 
+ 600 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-600.md 
+ 601 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-601.md 
  606 "Hardfork Meta: Homestead" 
  607 "Hardfork Meta: Spurious Dragon" 
  608 "Hardfork Meta: Tangerine Whistle" 
@@ -36,84 +50,170 @@
  615 Subroutines and Static Jumps for the EVM 
  616 SIMD Operations for the EVM 
  627 Whisper Specification 
+ 634 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-634.md 
  649 Metropolis Difficulty Bomb Delay and Block Reward Reduction 
  658 Embedding transaction status code in receipts 
  663 Unlimited SWAP and DUP instructions 
  665 Add precompiled contract for Ed25519 signature verification 
+ 681 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-681.md 
  684 Revert creation in case of collision 
  689 Address Collision of Contract Address Causes Exceptional Halt 
  695 Create `eth_chainId` method for JSON-RPC 
  698 OPCODE 0x46 BLOCKREWARD 
  706 DEVp2p snappy compression 
  712 Typed structured data hashing and signing 
+ 721 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-721.md 
+ 725 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-725.md 
  747 wallet_watchAsset RPC Method 
  758 Subscriptions and filters for completed transactions 
+ 777 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-777.md 
  778 Ethereum Node Records (ENR) 
  779 "Hardfork Meta: DAO Fork" 
+ 801 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-801.md 
+ 820 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-820.md 
+ 823 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-823.md 
+ 831 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-831.md 
  858 Reduce block reward and delay difficulty bomb 
  867 Standardized Ethereum Recovery Proposals 
  868 Node Discovery v4 ENR Extension 
+ 875 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-875.md 
+ 884 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-884.md 
+ 897 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-897.md 
+ 900 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-900.md 
+ 902 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-902.md 
  908 Reward clients for a sustainable network 
+ 918 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-918.md 
+ 926 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-926.md 
+ 927 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-927.md 
  969 Modifications to ethash to invalidate existing dedicated hardware implementations 
+ 998 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-998.md 
  999 Restore Contract Code at 0x863DF6BFa4469f3ead0bE8f9F2AAE51c91A907b4 
  1010 Uniformity Between 0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B and 0x15E55EF43efA8348dDaeAa455F16C43B64917e3c 
  1011 Hybrid Casper FFG 
  1013 "Hardfork Meta: Constantinople" 
  1014 Skinny CREATE2 
  1015 Configurable On Chain Issuance 
+ 1046 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1046.md 
  1051 Overflow checking for the EVM 
  1052 EXTCODEHASH opcode 
+ 1056 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1056.md 
  1057 ProgPoW, a Programmatic Proof-of-Work 
+ 1062 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1062.md 
+ 1066 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1066.md 
+ 1077 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1077.md 
+ 1078 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1078.md 
+ 1080 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1080.md 
+ 1081 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1081.md 
  1087 Net gas metering for SSTORE operations 
  1102 Opt-in account exposure 
  1108 Reduce alt_bn128 precompile gas costs 
  1109 PRECOMPILEDCALL opcode (Remove CALL costs for precompiled contracts) 
+ 1123 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1123.md 
+ 1129 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1129.md 
+ 1132 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1132.md 
  1153 Transient storage opcodes 
+ 1154 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1154.md 
+ 1155 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1155.md 
+ 1167 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1167.md 
+ 1175 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1175.md 
+ 1178 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1178.md 
+ 1185 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1185.md 
  1186 RPC-Method to get Merkle Proofs - eth_getProof 
+ 1191 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1191.md 
  1193 Ethereum Provider JavaScript API 
+ 1202 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1202.md 
+ 1203 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1203.md 
+ 1207 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1207.md 
  1227 Defuse Difficulty Bomb and Reset Block Reward 
  1234 Constantinople Difficulty Bomb Delay and Block Reward Adjustment 
  1240 Remove Difficulty Bomb 
+ 1261 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1261.md 
+ 1271 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1271.md 
  1276 Eliminate Difficulty Bomb and Adjust Block Reward on Constantinople Shift 
  1283 Net gas metering for SSTORE without dirty maps 
  1285 Increase Gcallstipend gas in the CALL opcode 
  1295 Modify Ethereum PoW Incentive Structure and Delay Difficulty Bomb 
+ 1319 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1319.md 
+ 1328 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1328.md 
+ 1337 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1337.md 
  1344 ChainID opcode 
  1352 Specify restricted address range for precompiles/system contracts 
  1355 Ethash 1a 
+ 1363 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1363.md 
  1380 Reduced gas cost for call to self 
+ 1386 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1386.md 
+ 1387 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1387.md 
+ 1388 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1388.md 
+ 1417 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1417.md 
  1418 Blockchain Storage Rent Payment 
+ 1438 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1438.md 
+ 1444 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1444.md 
+ 1450 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1450.md 
  1459 Node Discovery via DNS 
+ 1462 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1462.md 
  1470 Smart Contract Weakness Classification (SWC) 
  1474 Remote procedure call specification 
  1482 Define a maximum block timestamp drift 
+ 1484 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1484.md 
  1485 TEthashV1 
+ 1491 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1491.md 
+ 1504 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1504.md 
+ 1523 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1523.md 
+ 1538 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1538.md 
  1559 Fee market change for ETH 1.0 chain 
  1571 EthereumStratum/2.0.0 
+ 1577 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1577.md 
+ 1581 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1581.md 
  1588 "Hardfork Meta: Ethereum ProgPoW" 
+ 1592 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1592.md 
+ 1613 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1613.md 
+ 1616 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1616.md 
+ 1620 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1620.md 
+ 1633 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1633.md 
  1679 "Hardfork Meta: Istanbul" 
  1681 Temporal Replay Protection 
  1682 Storage Rent 
  1702 Generalized Account Versioning Scheme 
  1706 Disable SSTORE with gasleft lower than call stipend 
+ 1710 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1710.md 
  1716 "Hardfork Meta: Petersburg" 
+ 1753 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1753.md 
+ 1761 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1761.md 
  1767 GraphQL interface to Ethereum node data 
+ 1775 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1775.md 
  1803 Rename opcodes for clarity 
+ 1812 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1812.md 
+ 1820 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1820.md 
+ 1822 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1822.md 
  1829 Precompile for Elliptic Curve Linear Combinations 
+ 1844 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1844.md 
  1872 Ethereum Network Upgrade Windows 
  1884 Repricing for trie-size-dependent opcodes 
  1890 Commitment to Sustainable Ecosystem Funding 
  1895 Support for an Elliptic Curve Cycle 
  1898 Add `blockHash` to defaultBlock methods 
+ 1900 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1900.md 
  1901 Add OpenRPC Service Discovery To JSON-RPC Services 
+ 1921 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1921.md 
+ 1922 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1922.md 
+ 1923 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1923.md 
  1930 CALLs with strict gas semantic. Revert if not enough gas available. 
+ 1948 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1948.md 
  1959 New Opcode to check if a chainID is part of the history of chainIDs 
  1962 EC arithmetic and pairings with runtime definitions 
  1965 Method to check if a chainID is valid at a specific block Number 
+ 1967 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1967.md 
+ 1973 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1973.md 
  1985 Sane limits for certain EVM parameters 
+ 1996 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-1996.md 
  2003 EVMC modules for implementations of precompiled contracts 
+ 2009 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2009.md 
  2014 Extended State Oracle 
  2015 wallet_updateEthereumChain RPC Method 
+ 2018 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2018.md 
+ 2019 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2019.md 
+ 2020 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2020.md 
+ 2021 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2021.md 
  2025 Block Rewards Proposal for funding Eth1.x 
  2026 State Rent H - Fixed Prepayment for accounts 
  2027 State Rent C - Net contract size accounting 
@@ -125,49 +225,82 @@
  2046 Reduced gas cost for static calls made to precompiles 
  2069 Recommendation for using YAML ABI in ERCs/EIPs 
  2070 "Hardfork Meta: Berlin" 
+ 2098 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2098.md 
  2124 Fork identifier for chain compatibility checks 
+ 2135 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2135.md 
+ 2157 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2157.md 
  2159 Common Prometheus Metrics Names for Clients 
+ 2193 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2193.md 
  2200 Structured Definitions for Net Gas Metering 
  2228 Canonicalize the name of network ID 1 and chain ID 1 
  2242 Transaction Postdata 
  2255 Wallet Permissions System 
  2256 wallet_getOwnedAssets JSON-RPC Method 
+ 2266 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2266.md 
  2294 Explicit bound to Chain ID size 
+ 2304 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2304.md 
+ 2309 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2309.md 
  2315 Simple Subroutines for the EVM 
  2327 BEGINDATA opcode 
  2330 EXTSLOAD opcode 
+ 2333 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2333.md 
+ 2334 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2334.md 
+ 2335 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2335.md 
  2364 "eth/64: forkid-extended protocol handshake" 
  2378 EIPs Eligible for Inclusion 
  2384 Muir Glacier Difficulty Bomb Delay 
+ 2386 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2386.md 
  2387 "Hardfork Meta: Muir Glacier" 
+ 2390 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2390.md 
+ 2400 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2400.md 
  2458 Updates and Updated-by Header 
  2464 "eth/65: transaction announcements and retrievals" 
+ 2470 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2470.md 
  2474 Coinbase calls 
+ 2477 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2477.md 
  2481 eth/66 request identifier 
  2488 Deprecate the CALLCODE opcode 
+ 2494 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2494.md 
  2515 Implement Difficulty Freeze 
+ 2520 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2520.md 
+ 2525 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2525.md 
+ 2535 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2535.md 
  2537 Precompile for BLS12-381 curve operations 
  2539 BLS12-377 curve operations 
  2542 New opcodes TXGASLIMIT and CALLGASLIMIT 
+ 2544 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2544.md 
  2565 ModExp Gas Cost 
  2566 Human Readable Parameters for Contract Function Execution 
+ 2569 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2569.md 
  2583 Penalty for account trie misses 
  2584 Trie format transition with overlay trees 
  2593 Escalator fee market change for ETH 1.0 chain 
+ 2612 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2612.md 
+ 2615 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2615.md 
+ 2645 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2645.md 
  2657 Ephemeral Testnet Yolo 
  2666 Repricing of precompiles and Keccak256 function 
  2677 Limit size of `initcode` 
+ 2678 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2678.md 
+ 2680 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2680.md 
  2681 Limit account nonce to 2^64-1 
  2696 JavaScript `request` method RPC transport 
  2700 JavaScript Provider Event Emitter 
  2711 Sponsored, expiring and batch transactions. 
  2718 Typed Transaction Envelope 
  2733 Transaction Package 
+ 2746 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2746.md 
+ 2767 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2767.md 
+ 2770 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2770.md 
+ 2771 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2771.md 
  2780 Reduce intrinsic transaction gas 
  2786 Ethereum Provider Connect/Disconnect Events 
  2803 Rich Transactions 
  2831 Transaction Replacement Message Type 
  2844 Add DID related methods to the JSON-RPC 
+ 2848 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2848.md 
+ 2876 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2876.md 
+ 2917 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2917.md 
  2926 Chunk-Based Code Merkleization 
  2929 Gas cost increases for state access opcodes 
  2930 Optional access lists 
@@ -175,11 +308,17 @@
  2936 EXTCLEAR Opcode For SELFDESTRUCTed contracts 
  2937 SET_INDESTRUCTIBLE opcode 
  2938 Account Abstraction 
+ 2942 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2942.md 
  2970 IS_STATIC opcode 
  2972 Wrapped Legacy Transactions 
  2976 Typed Transactions over Gossip 
+ 2980 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2980.md 
+ 2981 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2981.md 
  2982 Serenity Phase 0 
  2997 IMPERSONATECALL Opcode 
+ 3000 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3000.md 
+ 3005 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3005.md 
+ 3009 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3009.md 
  3014 eth_symbol JSON-RPC method 
  3026 BW6-761 curve operations 
  3030 BLS Remote Signer HTTP API 
@@ -193,10 +332,14 @@
  3085 wallet_addEthereumChain RPC Method 
  3091 Block Explorer API Routes 
  3102 Binary trie structure 
+ 3135 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3135.md 
  3143 Increase block rewards to 5 ETH 
  3155 EVM trace specification 
+ 3156 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3156.md 
  3198 BASEFEE opcode 
  3220 Crosschain Identifier Specification 
+ 3224 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3224.md 
+ 3234 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3234.md 
  3238 Difficulty Bomb Delay to Q2/2022 
  3267 Giving Ethereum fees to Future Salaries 
  3298 Removal of refunds 
@@ -211,39 +354,70 @@
  3372 5 FNV primes for ethash 
  3374 Predictable Proof-of-Work (POW) Sunsetting 
  3382 Hardcoded Block Gas Limit 
+ 3386 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3386.md 
  3403 Partial removal of refunds 
  3416 Median Gas Premium 
  3436 Expanded Clique Block Choice Rule 
+ 3440 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3440.md 
+ 3448 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3448.md 
+ 3450 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3450.md 
  3455 SUDO Opcode 
+ 3475 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3475.md 
  3508 Transaction Data Opcodes 
  3520 Transaction Destination Opcode 
  3521 Reduce access list cost 
+ 3525 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3525.md 
  3529 Reduction in refunds 
  3534 Restricted Chain Context Type Transactions 
  3540 EOF - EVM Object Format v1 
  3541 Reject new contract code starting with the 0xEF byte 
  3554 Difficulty Bomb Delay to December 2021 
+ 3561 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3561.md 
+ 3569 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3569.md 
  3584 Block Access List 
+ 3589 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3589.md 
  3607 Reject transactions from senders with deployed code 
+ 3643 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3643.md 
  3651 Warm COINBASE 
+ 3668 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3668.md 
  3670 EOF - Code Validation 
  3675 Upgrade consensus to Proof-of-Stake 
  3690 EOF - JUMPDEST Table 
  3709 Remove Support for Type 1 Transactions 
+ 3722 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3722.md 
+ 3754 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3754.md 
  3756 Gas Limit Cap 
+ 3770 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3770.md 
+ 3772 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3772.md 
  3779 Safer Control Flow for the EVM 
  3788 Strict enforcement of chainId 
  3855 PUSH0 instruction 
  3860 Limit and meter initcode 
  3978 Gas refunds on reverts 
  4200 EOF - Static relative jumps 
+ 4337 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4337.md 
+ 4341 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4341.md 
  4345 Difficulty Bomb Delay to June 2022 
+ 4353 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4353.md 
+ 4361 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4361.md 
+ 4393 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4393.md 
  4396 Time-Aware Base Fee Calculation 
  4399 Supplant DIFFICULTY opcode with PREVRANDAO 
+ 4400 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4400.md 
+ 4430 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4430.md 
  4444 Bound Historical Data in Execution Clients 
  4488 Transaction calldata gas cost reduction with total calldata limit 
+ 4494 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4494.md 
+ 4519 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4519.md 
  4520 Multi-byte opcodes prefixed by EB and EC. 
+ 4521 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4521.md 
+ 4524 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4524.md 
+ 4527 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4527.md 
+ 4546 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4546.md 
  4573 Procedures for the EVM 
+ 4626 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4626.md 
+ 4671 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4671.md 
+ 4675 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4675.md 
  4736 Consensus Layer Withdrawal Protection 
  4747 Simplify EIP-161 
  4750 EOF - Functions 
@@ -251,80 +425,271 @@
  4760 SELFDESTRUCT bomb 
  4762 Statelessness gas cost changes 
  4788 Beacon block root in the EVM 
+ 4799 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4799.md 
  4803 Limit transaction gas to a maximum of 2^63-1 
+ 4804 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4804.md 
+ 4824 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4824.md 
+ 4834 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4834.md 
  4844 Shard Blob Transactions 
  4863 Beacon chain push withdrawals 
  4881 Deposit Contract Snapshot Interface 
+ 4883 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4883.md 
+ 4885 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4885.md 
+ 4886 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4886.md 
  4895 Beacon chain push withdrawals as operations 
+ 4906 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4906.md 
+ 4907 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4907.md 
+ 4910 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4910.md 
+ 4931 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4931.md 
  4938 "eth/67 - Removal of GetNodeData" 
+ 4944 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4944.md 
+ 4950 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4950.md 
+ 4955 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4955.md 
+ 4972 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4972.md 
+ 4973 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4973.md 
+ 4974 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4974.md 
+ 4987 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-4987.md 
  5000 MULDIV instruction 
  5003 Insert Code into EOAs with AUTHUSURP 
+ 5005 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5005.md 
+ 5006 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5006.md 
+ 5007 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5007.md 
+ 5008 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5008.md 
+ 5018 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5018.md 
  5022 Increase price of SSTORE from zero to non-zero to 40k gas 
+ 5023 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5023.md 
  5027 Remove the limit on contract code size 
+ 5050 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5050.md 
+ 5058 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5058.md 
  5065 Instruction for transferring ether 
  5069 EIP Editor Handbook 
  5081 Expirable Trainsaction 
+ 5094 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5094.md 
+ 5095 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5095.md 
+ 5114 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5114.md 
+ 5115 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5115.md 
+ 5131 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5131.md 
  5133 Delaying Difficulty Bomb to mid-September 2022 
+ 5139 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5139.md 
+ 5143 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5143.md 
+ 5164 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5164.md 
+ 5169 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5169.md 
+ 5173 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5173.md 
+ 5185 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5185.md 
+ 5187 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5187.md 
+ 5189 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5189.md 
+ 5192 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5192.md 
+ 5202 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5202.md 
+ 5216 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5216.md 
+ 5218 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5218.md 
+ 5219 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5219.md 
+ 5247 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5247.md 
+ 5252 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5252.md 
+ 5267 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5267.md 
+ 5269 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5269.md 
  5283 Semaphore for Reentrancy Protection 
+ 5289 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5289.md 
+ 5298 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5298.md 
+ 5313 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5313.md 
+ 5334 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5334.md 
  5345 Silent Signing Extension for JSON-RPC 
+ 5375 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5375.md 
+ 5380 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5380.md 
+ 5409 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5409.md 
+ 5437 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5437.md 
  5450 EOF - Stack Validation 
+ 5453 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5453.md 
  5478 CREATE2COPY Opcode 
+ 5484 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5484.md 
+ 5485 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5485.md 
+ 5489 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5489.md 
+ 5496 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5496.md 
+ 5501 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5501.md 
+ 5505 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5505.md 
+ 5507 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5507.md 
+ 5516 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5516.md 
+ 5521 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5521.md 
+ 5528 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5528.md 
+ 5539 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5539.md 
+ 5553 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5553.md 
+ 5554 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5554.md 
+ 5559 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5559.md 
+ 5560 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5560.md 
+ 5564 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5564.md 
+ 5568 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5568.md 
+ 5570 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5570.md 
+ 5573 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5573.md 
+ 5585 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5585.md 
  5593 Restrict Ethereum Provider API Injection 
+ 5604 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5604.md 
+ 5606 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5606.md 
+ 5615 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5615.md 
+ 5625 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5625.md 
+ 5630 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5630.md 
+ 5633 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5633.md 
+ 5635 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5635.md 
+ 5639 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5639.md 
+ 5643 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5643.md 
+ 5646 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5646.md 
  5656 MCOPY - Memory copying instruction 
+ 5679 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5679.md 
+ 5700 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5700.md 
+ 5719 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5719.md 
+ 5725 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5725.md 
+ 5727 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5727.md 
+ 5732 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5732.md 
+ 5744 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5744.md 
  5749 The 'window.evmproviders' object 
+ 5750 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5750.md 
+ 5753 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5753.md 
  5757 Process for Approving External Resources 
+ 5773 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5773.md 
+ 5791 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5791.md 
  5792 Wallet Function Call API 
  5793 eth/68 - Add tx type to tx announcement 
+ 5805 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5805.md 
  5806 Delegate transaction 
+ 5827 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5827.md 
+ 5850 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5850.md 
+ 5851 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5851.md 
+ 5883 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5883.md 
+ 5902 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5902.md 
  5920 PAY opcode 
+ 5982 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5982.md 
  5988 Add Poseidon hash function precompile 
  6046 Replace SELFDESTRUCT with DEACTIVATE 
+ 6047 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6047.md 
  6049 Deprecate SELFDESTRUCT 
  6051 Private Key Encapsulation 
+ 6059 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6059.md 
+ 6065 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6065.md 
+ 6066 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6066.md 
+ 6093 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6093.md 
+ 6105 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6105.md 
  6110 Supply validator deposits on chain 
+ 6120 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6120.md 
  6122 Forkid checks based on timestamps 
+ 6123 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6123.md 
+ 6147 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6147.md 
+ 6150 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6150.md 
+ 6170 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6170.md 
  6188 Nonce Cap 
  6189 Alias Contracts 
  6190 Verkle-compatible SELFDESTRUCT 
  6206 EOF - JUMPF and non-returning functions 
+ 6220 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6220.md 
+ 6224 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6224.md 
+ 6239 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6239.md 
+ 6268 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6268.md 
+ 6315 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6315.md 
+ 6327 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6327.md 
+ 6353 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6353.md 
+ 6357 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6357.md 
+ 6358 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6358.md 
+ 6366 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6366.md 
+ 6372 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6372.md 
+ 6381 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6381.md 
+ 6384 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6384.md 
  6404 SSZ Transactions Root 
+ 6454 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6454.md 
+ 6464 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6464.md 
  6465 SSZ Withdrawals Root 
  6466 SSZ Receipts Root 
  6475 SSZ Optional 
+ 6492 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6492.md 
  6493 SSZ Transaction Signature Scheme 
+ 6506 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6506.md 
+ 6538 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6538.md 
+ 6551 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6551.md 
+ 6596 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6596.md 
+ 6604 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6604.md 
+ 6617 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6617.md 
+ 6662 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6662.md 
+ 6672 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6672.md 
+ 6682 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6682.md 
  6690 EVM Modular Arithmetic Extensions (EVMMAX) 
+ 6734 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6734.md 
+ 6735 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6735.md 
  6780 SELFDESTRUCT only in same transaction 
+ 6785 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6785.md 
+ 6786 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6786.md 
+ 6787 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6787.md 
  6789 Rename gas to mana 
  6800 Ethereum state using a unified verkle tree 
+ 6806 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6806.md 
+ 6808 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6808.md 
+ 6809 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6809.md 
  6810 Ex Post Facto Cascading Revert 
  6811 To The Moon—10 Minute Blocks 
+ 6821 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6821.md 
+ 6823 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6823.md 
+ 6860 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6860.md 
+ 6864 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6864.md 
+ 6865 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6865.md 
  6873 Preimage retention 
  6888 Math checking in EVM 
+ 6900 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6900.md 
+ 6909 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6909.md 
  6913 SETCODE instruction 
  6914 Reuse Withdrawn Validator Indices 
  6916 Automatically Reset Tesnet 
+ 6944 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6944.md 
  6953 Network Upgrade Activation Triggers 
+ 6956 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6956.md 
+ 6960 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6960.md 
  6963 Multi Injected Provider Discovery 
  6968 Contract Secured Revenue on an EVM based L2 
+ 6981 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6981.md 
+ 6982 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6982.md 
  6988 Elected block proposer has not been slashed 
+ 6997 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6997.md 
  7002 Execution layer triggerable exits 
+ 7007 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7007.md 
+ 7015 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7015.md 
  7039 Scheme-Handler Discovery Option for Wallets 
  7044 Perpetually Valid Signed Voluntary Exits 
  7045 Increase max attestation inclusion slot 
+ 7053 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7053.md 
+ 7066 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7066.md 
  7069 Revamped CALL instructions 
+ 7085 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7085.md 
+ 7092 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7092.md 
+ 7093 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7093.md 
+ 7144 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7144.md 
+ 7160 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7160.md 
  7199 Linter Scope 
+ 7201 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7201.md 
  7212 Precompiled for secp256r1 Curve Support 
+ 7231 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7231.md 
  7251 Increase the MAX_EFFECTIVE_BALANCE 
  7266 Remove BLAKE2 compression precompile 
+ 7303 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7303.md 
  7329 ERC/EIP Repository split 
  7377 Migration Transaction 
  7378 Add time-weighted averaging to the base fee 
+ 7401 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7401.md 
+ 7405 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7405.md 
+ 7406 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7406.md 
+ 7409 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7409.md 
+ 7412 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7412.md 
+ 7417 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7417.md 
+ 7425 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7425.md 
+ 7432 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7432.md 
  7441 Upgrade block proposer election to Whisk 
+ 7444 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7444.md 
  7480 EOF - Data section access instructions 
+ 7484 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7484.md 
  7495 SSZ StableContainer 
  7503 Zero-Knowledge Wormholes 
+ 7507 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7507.md 
+ 7508 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7508.md 
+ 7511 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7511.md 
+ 7512 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7512.md 
  7514 Add Max Epoch Churn Limit 
  7516 BLOBBASEFEE opcode 
  7519 Atomic Storage Operations SCREDIT and SDEBIT 
+ 7521 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7521.md 
+ 7522 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7522.md 
  7523 Empty accounts deprecation 
+ 7528 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7528.md 
  7542 eth/69 - available-blocks-extended protocol 
