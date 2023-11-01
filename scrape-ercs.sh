@@ -15,10 +15,10 @@ for no in $the_ercs; do
   # delete header of tuples, "header: data"
   # convert linefeeds to spaces
   # squash spaces
-  sed -n '/^erc:/,/^title/p;' "$file" | sed -E 's/^[^:]+://' | tr '\n' ' ' | tr -s ' '
+  sed -n '/^eip:/,/^title/p;' "$file" | sed -E 's/^[^:]+://' | tr '\n' ' ' | tr -s ' '
 
   # separate entries
   printf "\n"
-done | sed -E 's/(erc|title):/ /g' | sed -E '/^$/d' >.cache/erc-index
+done | sed -E 's/(eip|title):/ /g' | sed -E '/^$/d' >.cache/erc-index
 
 [[ -d ERCs ]] && rm -rf ERCs

@@ -2,8 +2,13 @@
 /out
 cache/
 .DS_Store
+
 ## Binary ##
 *.zip
 *.tar
 *.tar.gz
 *.tgz
+
+# the clone repos should be deleted by the script
+ERCs/**
+EIPs/**
