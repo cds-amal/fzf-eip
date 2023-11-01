@@ -3,8 +3,8 @@
 if [ ! -d ERCs ]; then
   printf "Clone ERC repository"
   git clone --depth 1 https://github.com/ethereum/ERCs.git
-  # There is no `ERC-1` its `EIP-1` for both repos
-  touch ERCs/ERCS/erc-1.md
+  # There is no `ERC-1` its `EIP-1` for both repos, so we just copy it
+  cp ERCs/ERCS/eip-1.md ERCs/ERCS/erc-1.md
 fi
 
 the_ercs=$(find ERCs/ERCS -type f -name \*.md | sed -E 's:.+-::' | sed 's:.md::' | sort -n)
