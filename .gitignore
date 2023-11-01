@@ -1,0 +1,9 @@
+# -*- mode: gitignore; -*-
+/out
+cache/
+.DS_Store
+## Binary ##
+*.zip
+*.tar
+*.tar.gz
+*.tgz
