@@ -693,3 +693,4 @@
  7523 Empty accounts deprecation 
  7528 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7528.md 
  7542 eth/69 - available-blocks-extended protocol 
+ 7549 Move committee index outside Attestation 
