@@ -632,7 +632,7 @@
  6909 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6909.md 
  6913 SETCODE instruction 
  6914 Reuse Withdrawn Validator Indices 
- 6916 Automatically Reset Tesnet 
+ 6916 Automatically Reset Testnet 
  6944 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6944.md 
  6953 Network Upgrade Activation Triggers 
  6956 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6956.md 
@@ -693,4 +693,5 @@
  7523 Empty accounts deprecation 
  7528 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7528.md 
  7542 eth/69 - available-blocks-extended protocol 
+ 7545 Verkle proof verification precompile 
  7549 Move committee index outside Attestation 
