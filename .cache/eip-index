@@ -659,7 +659,7 @@
  7160 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7160.md 
  7199 Linter Scope 
  7201 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7201.md 
- 7212 Precompiled for secp256r1 Curve Support 
+ 7212 Precompile for secp256r1 Curve Support 
  7231 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7231.md 
  7251 Increase the MAX_EFFECTIVE_BALANCE 
  7266 Remove BLAKE2 compression precompile 
