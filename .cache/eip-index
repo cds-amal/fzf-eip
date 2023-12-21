@@ -694,6 +694,7 @@
  7528 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7528.md 
  7542 eth/69 - available-blocks-extended protocol 
  7545 Verkle proof verification precompile 
+ 7547 Inclusion lists 
  7549 Move committee index outside Attestation 
  7568 Hardfork Meta Backfill - Berlin to Shapella 
  7569 Hardfork Meta - Dencun 
