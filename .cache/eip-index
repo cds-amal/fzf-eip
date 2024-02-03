@@ -686,7 +686,7 @@
  7511 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7511.md 
  7512 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7512.md 
  7514 Add Max Epoch Churn Limit 
- 7516 BLOBBASEFEE opcode 
+ 7516 BLOBBASEFEE instruction 
  7519 Atomic Storage Operations SCREDIT and SDEBIT 
  7521 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7521.md 
  7522 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7522.md 
