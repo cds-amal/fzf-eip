@@ -700,3 +700,4 @@
  7569 Hardfork Meta - Dencun 
  7587 Reserve Precompile Address Range for RIPs 
  7600 Hardfork Meta - Pectra 
+ 7623 Increase calldata cost 
