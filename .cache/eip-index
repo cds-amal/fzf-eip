@@ -702,4 +702,5 @@
  7600 Hardfork Meta - Pectra 
  7607 Hardfork Meta - Osaka 
  7609 Decrease base cost of TLOAD/TSTORE 
+ 7620 EOF Contract Creation 
  7623 Increase calldata cost 
