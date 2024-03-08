@@ -53,7 +53,7 @@
  634 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-634.md 
  649 Metropolis Difficulty Bomb Delay and Block Reward Reduction 
  658 Embedding transaction status code in receipts 
- 663 Unlimited SWAP and DUP instructions 
+ 663 SWAPN, DUPN and EXCHANGE instructions 
  665 Add precompiled contract for Ed25519 signature verification 
  681 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-681.md 
  684 Revert creation in case of collision 
