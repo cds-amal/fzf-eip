@@ -704,3 +704,4 @@
  7609 Decrease base cost of TLOAD/TSTORE 
  7620 EOF Contract Creation 
  7623 Increase calldata cost 
+ 7636 Extension of EIP-778 for "client" ENR Entry 
