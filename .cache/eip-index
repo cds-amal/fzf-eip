@@ -708,3 +708,6 @@
  7642 eth/69 - Drop pre-merge fields 
  7645 Alias ORIGIN to SENDER 
  7650 Programmable access lists 
+ 7666 EVM-ify the identity precompile 
+ 7667 Raise gas costs of hash functions 
+ 7668 Remove bloom filters 
