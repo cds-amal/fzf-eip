@@ -545,7 +545,7 @@
  5757 Process for Approving External Resources 
  5773 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5773.md 
  5791 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5791.md 
- 5792 Wallet Function Call API 
+ 5792 Wallet Call API 
  5793 eth/68 - Add tx type to tx announcement 
  5805 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-5805.md 
  5806 Delegate transaction 
