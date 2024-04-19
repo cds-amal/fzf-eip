@@ -719,3 +719,4 @@
  7668 Remove bloom filters 
  7684 Return deposits for distinct credentials 
  7685 General purpose execution layer requests 
+ 7686 Linear EVM memory limits 
