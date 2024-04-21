@@ -304,7 +304,7 @@
  2926 Chunk-Based Code Merkleization 
  2929 Gas cost increases for state access opcodes 
  2930 Optional access lists 
- 2935 Save historical block hashes in state 
+ 2935 Serve historical block hashes from state 
  2936 EXTCLEAR Opcode For SELFDESTRUCTed contracts 
  2937 SET_INDESTRUCTIBLE opcode 
  2938 Account Abstraction 
