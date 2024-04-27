@@ -717,6 +717,7 @@
  7666 EVM-ify the identity precompile 
  7667 Raise gas costs of hash functions 
  7668 Remove bloom filters 
+ 7676 EOF - Prepare for Address Space Extension 
  7684 Return deposits for distinct credentials 
  7685 General purpose execution layer requests 
  7686 Linear EVM memory limits 
