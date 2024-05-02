@@ -721,3 +721,4 @@
  7684 Return deposits for distinct credentials 
  7685 General purpose execution layer requests 
  7686 Linear EVM memory limits 
+ 7698 EOF - Creation transaction 
