@@ -721,4 +721,6 @@
  7684 Return deposits for distinct credentials 
  7685 General purpose execution layer requests 
  7686 Linear EVM memory limits 
+ 7688 Forward compatible consensus data structures 
  7698 EOF - Creation transaction 
+ 7701 Native Account Abstraction with EOF 
