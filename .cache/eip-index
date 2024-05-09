@@ -722,5 +722,7 @@
  7685 General purpose execution layer requests 
  7686 Linear EVM memory limits 
  7688 Forward compatible consensus data structures 
+ 7692 EVM Object Format (EOFv1) Meta 
  7698 EOF - Creation transaction 
  7701 Native Account Abstraction with EOF 
+ 7702 Set EOA account code for one transaction 
