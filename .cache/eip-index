@@ -704,6 +704,7 @@
  7607 Hardfork Meta - Osaka 
  7609 Decrease base cost of TLOAD/TSTORE 
  7610 Revert creation in case of non-empty storage 
+ 7612 Verkle state transition via an overlay tree 
  7620 EOF Contract Creation 
  7623 Increase calldata cost 
  7636 Extension of EIP-778 for "client" ENR Entry 
