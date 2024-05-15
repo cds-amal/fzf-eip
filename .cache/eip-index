@@ -693,7 +693,7 @@
  7523 Empty accounts deprecation 
  7528 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7528.md 
  7542 eth/70 - available-blocks-extended protocol 
- 7543 EVM decimal math 
+ 7543 EVM arbitrary precision decimal math 
  7545 Verkle proof verification precompile 
  7547 Inclusion lists 
  7549 Move committee index outside Attestation 
@@ -719,6 +719,7 @@
  7666 EVM-ify the identity precompile 
  7667 Raise gas costs of hash functions 
  7668 Remove bloom filters 
+ 7675 Retroactively Included EIPs 
  7676 EOF - Prepare for Address Space Extension 
  7684 Return deposits for distinct credentials 
  7685 General purpose execution layer requests 
