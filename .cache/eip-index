@@ -711,6 +711,7 @@
  7636 Extension of EIP-778 for "client" ENR Entry 
  7639 Cease serving history before PoS 
  7642 eth/69 - Drop pre-merge fields 
+ 7643 History accumulator for pre-PoS data 
  7645 Alias ORIGIN to SENDER 
  7650 Programmable access lists 
  7657 Sync committee slashings 
@@ -729,3 +730,5 @@
  7698 EOF - Creation transaction 
  7701 Native Account Abstraction with EOF 
  7702 Set EOA account code for one transaction 
+ 7705 NONREENTRANT and REENTRANT opcodes 
+ 7706 Separate gas type for calldata 
