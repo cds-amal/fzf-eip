@@ -732,3 +732,4 @@
  7702 Set EOA account code for one transaction 
  7705 NONREENTRANT and REENTRANT opcodes 
  7706 Separate gas type for calldata 
+ 7709 Read BLOCKHASH from storage and update cost 
