@@ -699,6 +699,7 @@
  7549 Move committee index outside Attestation 
  7568 Hardfork Meta Backfill - Berlin to Shapella 
  7569 Hardfork Meta - Dencun 
+ 7577 Versioning Scheme for EIPs 
  7587 Reserve Precompile Address Range for RIPs 
  7594 PeerDAS - Peer Data Availability Sampling 
  7600 Hardfork Meta - Pectra 
