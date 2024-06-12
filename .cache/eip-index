@@ -701,6 +701,7 @@
  7569 Hardfork Meta - Dencun 
  7577 Versioning Scheme for EIPs 
  7587 Reserve Precompile Address Range for RIPs 
+ 7591 BLS signed transactions 
  7594 PeerDAS - Peer Data Availability Sampling 
  7600 Hardfork Meta - Pectra 
  7607 Hardfork Meta - Osaka 
@@ -731,6 +732,9 @@
  7698 EOF - Creation transaction 
  7701 Native Account Abstraction with EOF 
  7702 Set EOA account code for one transaction 
+ 7703 Increase calldata cost 
  7705 NONREENTRANT and REENTRANT opcodes 
  7706 Separate gas type for calldata 
+ 7708 ETH transfers emit a log 
  7709 Read BLOCKHASH from storage and update cost 
+ 7716 Anti-correlation attestation penalties 
