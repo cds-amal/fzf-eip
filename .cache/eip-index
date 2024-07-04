@@ -739,3 +739,4 @@
  7709 Read BLOCKHASH from storage and update cost 
  7713 Box type for EIP-712 messages 
  7716 Anti-correlation attestation penalties 
+ 7732 Enshrined Proposer-Builder Separation 
