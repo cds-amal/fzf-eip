@@ -735,8 +735,10 @@
  7703 Increase calldata cost 
  7705 NONREENTRANT and REENTRANT opcodes 
  7706 Separate gas type for calldata 
+ 7707 Incentivize Access List Provisioning 
  7708 ETH transfers emit a log 
  7709 Read BLOCKHASH from storage and update cost 
  7713 Box type for EIP-712 messages 
  7716 Anti-correlation attestation penalties 
+ 7723 Network Upgrade Inclusion Stages 
  7732 Enshrined Proposer-Builder Separation 
