@@ -741,4 +741,5 @@
  7713 Box type for EIP-712 messages 
  7716 Anti-correlation attestation penalties 
  7723 Network Upgrade Inclusion Stages 
+ 7727 EVM Transaction Bundles 
  7732 Enshrined Proposer-Builder Separation 
