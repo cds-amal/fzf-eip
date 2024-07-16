@@ -743,3 +743,4 @@
  7723 Network Upgrade Inclusion Stages 
  7727 EVM Transaction Bundles 
  7732 Enshrined Proposer-Builder Separation 
+ 7742 Uncouple blob count between CL and EL 
