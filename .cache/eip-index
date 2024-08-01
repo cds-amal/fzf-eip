@@ -745,3 +745,4 @@
  7732 Enshrined Proposer-Builder Separation 
  7736 Leaf-level state expiry in verkle trees 
  7742 Uncouple blob count between CL and EL 
+ 7748 State conversion to Verkle Tree 
