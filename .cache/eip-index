@@ -748,3 +748,4 @@
  7745 Two dimensional log filter data structure 
  7748 State conversion to Verkle Tree 
  7749 Add wallet_signIntendedValidatorData method 
+ 7756 EOF/EVM Trace Specification 
