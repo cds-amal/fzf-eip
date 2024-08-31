@@ -703,7 +703,7 @@
  7591 BLS signed transactions 
  7594 PeerDAS - Peer Data Availability Sampling 
  7600 Hardfork Meta - Pectra 
- 7607 Hardfork Meta - Osaka 
+ 7607 Hardfork Meta - Fusaka 
  7609 Decrease base cost of TLOAD/TSTORE 
  7610 Revert creation in case of non-empty storage 
  7612 Verkle state transition via an overlay tree 
