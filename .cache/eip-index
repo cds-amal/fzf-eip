@@ -590,11 +590,11 @@
  6372 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6372.md 
  6381 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6381.md 
  6384 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6384.md 
- 6404 SSZ Transactions Root 
+ 6404 SSZ Transactions 
  6454 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6454.md 
  6464 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6464.md 
  6465 SSZ Withdrawals Root 
- 6466 SSZ Receipts Root 
+ 6466 SSZ Receipts 
  6475 SSZ Optional 
  6492 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6492.md 
  6493 SSZ Transaction Signature Scheme 
