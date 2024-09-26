@@ -751,3 +751,4 @@
  7749 Add wallet_signIntendedValidatorData method 
  7756 EOF/EVM Trace Specification 
  7761 HASCODE instruction 
+ 7762 Increase MIN_BASE_FEE_PER_BLOB_GAS 
