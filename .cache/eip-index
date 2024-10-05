@@ -753,3 +753,4 @@
  7761 HASCODE instruction 
  7762 Increase MIN_BASE_FEE_PER_BLOB_GAS 
  7773 Hardfork Meta - Amsterdam 
+ 7778 Prevent Block Gas Smuggling 
