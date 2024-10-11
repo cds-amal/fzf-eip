@@ -754,3 +754,4 @@
  7762 Increase MIN_BASE_FEE_PER_BLOB_GAS 
  7773 Hardfork Meta - Amsterdam 
  7778 Prevent Block Gas Smuggling 
+ 7782 Reduce Slot Time for Lower Peak Bandwidth 
