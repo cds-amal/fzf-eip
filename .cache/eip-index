@@ -758,4 +758,5 @@
  7782 Reduce Slot Time for Lower Peak Bandwidth 
  7783 Add Controlled Gas Limit Increase Strategy 
  7784 GETCONTRACT opcode 
+ 7788 Dynamic target blob count 
  7792 Verifiable logs 
