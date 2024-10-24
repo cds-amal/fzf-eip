@@ -759,4 +759,5 @@
  7783 Add Controlled Gas Limit Increase Strategy 
  7784 GETCONTRACT opcode 
  7788 Dynamic target blob count 
+ 7790 Controlled Gas Limit Increase Guidelines 
  7792 Verifiable logs 
