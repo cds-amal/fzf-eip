@@ -763,3 +763,4 @@
  7792 Verifiable logs 
  7797 Double speed for hash_tree_root 
  7799 System logs 
+ 7805 Fork-choice enforced Inclusion Lists (FOCIL) 
