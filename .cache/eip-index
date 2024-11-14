@@ -590,14 +590,14 @@
  6372 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6372.md 
  6381 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6381.md 
  6384 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6384.md 
- 6404 SSZ Transactions 
+ 6404 SSZ transactions 
  6454 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6454.md 
  6464 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6464.md 
- 6465 SSZ Withdrawals Root 
- 6466 SSZ Receipts 
+ 6465 SSZ withdrawals root 
+ 6466 SSZ receipts 
  6475 SSZ Optional 
  6492 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6492.md 
- 6493 SSZ Transaction Signature Scheme 
+ 6493 SSZ transaction signature scheme 
  6506 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6506.md 
  6538 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6538.md 
  6551 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6551.md 
@@ -763,4 +763,7 @@
  7792 Verifiable logs 
  7797 Double speed for hash_tree_root 
  7799 System logs 
+ 7801 eth/70 - Sharded Blocks Protocol 
  7805 Fork-choice enforced Inclusion Lists (FOCIL) 
+ 7807 SSZ execution blocks 
+ 7808 Reserve Tx-Type Range for RIPs 
