@@ -607,7 +607,7 @@
  6662 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6662.md 
  6672 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6672.md 
  6682 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6682.md 
- 6690 EVM Modular Arithmetic Extensions (EVMMAX) 
+ 6690 EVM Modular Arithmetic Extensions 
  6734 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6734.md 
  6735 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-6735.md 
  6780 SELFDESTRUCT only in same transaction 
@@ -764,8 +764,11 @@
  7797 Double speed for hash_tree_root 
  7799 System logs 
  7801 eth/70 - Sharded Blocks Protocol 
+ 7804 Withdrawal Credential Update Request 
  7805 Fork-choice enforced Inclusion Lists (FOCIL) 
  7807 SSZ execution blocks 
  7808 Reserve Tx-Type Range for RIPs 
  7819 Create delegate 
  7823 Set upper bounds for MODEXP 
+ 7825 Transaction Gas Limit Cap 
+ 7830 Contract size limit increase for EOF 
