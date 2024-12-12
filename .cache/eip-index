@@ -763,7 +763,7 @@
  7792 Verifiable logs 
  7797 Double speed for hash_tree_root 
  7799 System logs 
- 7801 eth/70 - Sharded Blocks Protocol 
+ 7801 etha - Sharded Blocks Subprotocol 
  7804 Withdrawal Credential Update Request 
  7805 Fork-choice enforced Inclusion Lists (FOCIL) 
  7807 SSZ execution blocks 
