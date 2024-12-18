@@ -772,3 +772,5 @@
  7823 Set upper bounds for MODEXP 
  7825 Transaction Gas Limit Cap 
  7830 Contract size limit increase for EOF 
+ 7833 Scheduled function calls 
+ 7834 Separate Metadata Section for EOF 
