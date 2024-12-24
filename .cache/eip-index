@@ -761,6 +761,7 @@
  7788 Dynamic target blob count 
  7790 Controlled Gas Limit Increase Guidelines 
  7792 Verifiable logs 
+ 7793 TXINDEX precompile 
  7797 Double speed for hash_tree_root 
  7799 System logs 
  7801 etha - Sharded Blocks Subprotocol 
@@ -774,3 +775,4 @@
  7830 Contract size limit increase for EOF 
  7833 Scheduled function calls 
  7834 Separate Metadata Section for EOF 
+ 7843 SLOT precompile 
