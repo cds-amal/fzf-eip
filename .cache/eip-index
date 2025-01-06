@@ -777,3 +777,4 @@
  7833 Scheduled function calls 
  7834 Separate Metadata Section for EOF 
  7843 SLOT precompile 
+ 7851 Deactivate/Reactivate a Delegated EOA's Key 
