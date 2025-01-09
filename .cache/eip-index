@@ -776,5 +776,6 @@
  7830 Contract size limit increase for EOF 
  7833 Scheduled function calls 
  7834 Separate Metadata Section for EOF 
+ 7840 Add blob schedule to EL config files 
  7843 SLOT precompile 
  7851 Deactivate/Reactivate a Delegated EOA's Key 
