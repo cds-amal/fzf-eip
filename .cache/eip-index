@@ -780,3 +780,4 @@
  7843 SLOT precompile 
  7851 Deactivate/Reactivate a Delegated EOA's Key 
  7863 Block-level Warming 
+ 7864 Ethereum state using a unified binary tree 
