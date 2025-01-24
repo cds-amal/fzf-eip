@@ -750,7 +750,7 @@
  7748 State conversion to Verkle Tree 
  7749 Add wallet_signIntendedValidatorData method 
  7756 EOF/EVM Trace Specification 
- 7761 HASCODE instruction 
+ 7761 EXTCODETYPE instruction 
  7762 Increase MIN_BASE_FEE_PER_BLOB_GAS 
  7768 No-Ether transactions with free-for-all tips 
  7773 Hardfork Meta - Amsterdam 
