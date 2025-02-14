@@ -782,4 +782,5 @@
  7862 Delayed Execution Layer State Root 
  7863 Block-level Warming 
  7864 Ethereum state using a unified binary tree 
+ 7873 EOF - TXCREATE and InitcodeTransaction type 
  7877 Enhanced RETURN opcodes 
