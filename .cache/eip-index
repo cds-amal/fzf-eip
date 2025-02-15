@@ -784,3 +784,4 @@
  7864 Ethereum state using a unified binary tree 
  7873 EOF - TXCREATE and InitcodeTransaction type 
  7877 Enhanced RETURN opcodes 
+ 7883 ModExp Gas Cost Increase 
