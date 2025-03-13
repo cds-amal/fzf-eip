@@ -761,6 +761,7 @@
  7784 GETCONTRACT opcode 
  7788 Dynamic target blob count 
  7790 Controlled Gas Limit Increase Guidelines 
+ 7791 GAS2ETH opcode 
  7792 Verifiable logs 
  7793 TXINDEX precompile 
  7797 Double speed for hash_tree_root 
@@ -782,9 +783,11 @@
  7862 Delayed Execution Layer State Root 
  7863 Block-level Warming 
  7864 Ethereum state using a unified binary tree 
+ 7867 Flow Control Wallet Call Capability 
  7872 Max blob flag for local builders 
  7873 EOF - TXCREATE and InitcodeTransaction type 
  7877 Enhanced RETURN opcodes 
  7880 EOF - EXTCODEADDRESS instruction 
  7883 ModExp Gas Cost Increase 
  7886 Delayed execution 
+ 7896 ABI attachment in `wallet_sendCalls` 
