@@ -791,5 +791,6 @@
  7880 EOF - EXTCODEADDRESS instruction 
  7883 ModExp Gas Cost Increase 
  7886 Delayed execution 
+ 7892 Blob Parameter Only Hardforks 
  7896 ABI attachment in `wallet_sendCalls` 
  7907 Meter Contract Code Size And Increase Limit 
