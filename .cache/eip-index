@@ -794,9 +794,12 @@
  7889 Emit log on revert 
  7892 Blob Parameter Only Hardforks 
  7896 ABI attachment in `wallet_sendCalls` 
+ 7898 Uncouple execution payload from beacon block 
  7903 Remove Initcode Size Limit 
  7907 Meter Contract Code Size And Increase Limit 
  7910 eth_config JSON-RPC Method 
  7915 Adaptive mean reversion blob pricing 
  7916 SSZ ProgressiveByteList 
  7917 Deterministic proposer lookahead 
+ 7918 Blob base fee bounded by execution cost 
+ 7919 Pureth Meta 
