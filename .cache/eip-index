@@ -696,6 +696,7 @@
  7545 Verkle proof verification precompile 
  7547 Inclusion lists 
  7549 Move committee index outside Attestation 
+ 7557 Block-level Warming with fair cost savings 
  7568 Hardfork Meta Backfill - Berlin to Shapella 
  7569 Hardfork Meta - Dencun 
  7577 Versioning Scheme for EIPs 
@@ -803,3 +804,4 @@
  7917 Deterministic proposer lookahead 
  7918 Blob base fee bounded by execution cost 
  7919 Pureth Meta 
+ 7921 Skip `JUMPDEST` immediate argument check 
