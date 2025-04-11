@@ -780,6 +780,7 @@
  7834 Separate Metadata Section for EOF 
  7840 Add blob schedule to EL config files 
  7843 SLOT precompile 
+ 7848 On-chain upgrade signaling 
  7851 Deactivate/Reactivate a Delegated EOA's Key 
  7862 Delayed Execution Layer State Root 
  7863 Block-level Warming 
@@ -805,3 +806,5 @@
  7918 Blob base fee bounded by execution cost 
  7919 Pureth Meta 
  7921 Skip `JUMPDEST` immediate argument check 
+ 7922 Dynamic exit queue rate limit 
+ 7923 Linear, Page-Based Memory Costing 
