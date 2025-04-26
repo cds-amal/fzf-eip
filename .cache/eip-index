@@ -733,7 +733,7 @@
  7692 EVM Object Format (EOFv1) Meta 
  7698 EOF - Creation transaction 
  7701 Native Account Abstraction with EOF 
- 7702 Set EOA account code 
+ 7702 Set Code for EOAs 
  7703 Increase calldata cost 
  7705 NONREENTRANT and REENTRANT opcodes 
  7706 Separate gas type for calldata 
