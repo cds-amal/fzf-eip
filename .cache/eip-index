@@ -800,6 +800,7 @@
  7903 Remove Initcode Size Limit 
  7907 Meter Contract Code Size And Increase Limit 
  7910 eth_config JSON-RPC Method 
+ 7912 Pragmatic stack manipulation tools 
  7915 Adaptive mean reversion blob pricing 
  7916 SSZ ProgressiveList 
  7917 Deterministic proposer lookahead 
@@ -809,3 +810,5 @@
  7922 Dynamic exit queue rate limit 
  7923 Linear, Page-Based Memory Costing 
  7927 History Expiry Meta 
+ 7937 64-bit mode EVM opcodes (EVM64) 
+ 7938 Exponential Gas Limit Increase 
