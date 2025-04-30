@@ -812,3 +812,4 @@
  7927 History Expiry Meta 
  7937 64-bit mode EVM opcodes (EVM64) 
  7938 Exponential Gas Limit Increase 
+ 7939 Count leading zeros (CLZ) opcode 
