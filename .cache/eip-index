@@ -772,7 +772,7 @@
  7805 Fork-choice enforced Inclusion Lists (FOCIL) 
  7807 SSZ execution blocks 
  7808 Reserve Tx-Type Range for RIPs 
- 7819 Create delegate 
+ 7819 SETDELEGATE instruction 
  7823 Set upper bounds for MODEXP 
  7825 Transaction Gas Limit Cap 
  7830 Contract size limit increase for EOF 
