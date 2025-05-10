@@ -732,7 +732,7 @@
  7691 Blob throughput increase 
  7692 EVM Object Format (EOFv1) Meta 
  7698 EOF - Creation transaction 
- 7701 Native Account Abstraction with EOF 
+ 7701 Native Account Abstraction 
  7702 Set Code for EOAs 
  7703 Increase calldata cost 
  7705 NONREENTRANT and REENTRANT opcodes 
