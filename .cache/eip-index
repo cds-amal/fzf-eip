@@ -764,7 +764,7 @@
  7790 Controlled Gas Limit Increase Guidelines 
  7791 GAS2ETH opcode 
  7792 Verifiable logs 
- 7793 TXINDEX precompile 
+ 7793 ASSERTTXINDEX opcode 
  7797 Double speed for hash_tree_root 
  7799 System logs 
  7801 etha - Sharded Blocks Subprotocol 
