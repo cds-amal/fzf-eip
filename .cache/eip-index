@@ -798,6 +798,7 @@
  7896 ABI attachment in `wallet_sendCalls` 
  7898 Uncouple execution payload from beacon block 
  7903 Remove Initcode Size Limit 
+ 7904 General Repricing 
  7907 Meter Contract Code Size And Increase Limit 
  7910 eth_config JSON-RPC Method 
  7912 Pragmatic stack manipulation tools 
