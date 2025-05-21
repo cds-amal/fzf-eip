@@ -779,7 +779,7 @@
  7833 Scheduled function calls 
  7834 Separate Metadata Section for EOF 
  7840 Add blob schedule to EL config files 
- 7843 SLOT precompile 
+ 7843 SLOTNUM opcode 
  7848 On-chain upgrade signaling 
  7851 Deactivate/Reactivate a Delegated EOA's Key 
  7862 Delayed Execution Layer State Root 
