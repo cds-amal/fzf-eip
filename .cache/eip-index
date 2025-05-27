@@ -815,7 +815,7 @@
  7932 Algorithmic Transaction Wrapper 
  7934 RLP Execution Block Size Limit 
  7935 Set default gas limit to XX0M 
- 7937 64-bit mode EVM opcodes (EVM64) 
+ 7937 EVM64 - 64-bit mode EVM opcodes 
  7938 Exponential Gas Limit Increase 
  7939 Count leading zeros (CLZ) opcode 
  7940 Ethereum Shah 
