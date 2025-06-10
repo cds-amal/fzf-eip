@@ -754,9 +754,9 @@
  7761 EXTCODETYPE instruction 
  7762 Increase MIN_BASE_FEE_PER_BLOB_GAS 
  7768 No-Ether transactions with free-for-all tips 
- 7773 Hardfork Meta - Amsterdam 
+ 7773 Hardfork Meta - Glamsterdam 
  7775 BURN opcode 
- 7778 Prevent Block Gas Smuggling 
+ 7778 Block Gas Limit Accounting without Refunds 
  7782 Reduce Block Latency 
  7783 Add Controlled Gas Limit Increase Strategy 
  7784 GETCONTRACT opcode 
@@ -819,3 +819,5 @@
  7938 Exponential Gas Limit Increase 
  7939 Count leading zeros (CLZ) opcode 
  7940 Ethereum Shah 
+ 7949 Genesis File Format 
+ 7950 Encode chain id with transaction hash 
