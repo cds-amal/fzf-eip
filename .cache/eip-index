@@ -821,3 +821,7 @@
  7940 Ethereum Shah 
  7949 Genesis File Format 
  7950 Encode chain id with transaction hash 
+ 7954 Increase Maximum Contract Size 
+ 7956 Tx Ordering via Block-level Randomness 
+ 7958 EVM64 - Little endian opcodes 
+ 7960 EOF - Extended types section 
