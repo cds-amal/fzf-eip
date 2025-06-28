@@ -825,4 +825,5 @@
  7956 Tx Ordering via Block-level Randomness 
  7958 EVM64 - Little endian opcodes 
  7960 EOF - Extended types section 
+ 7975 eth/70 - partial block receipt lists 
  7976 Further increase calldata cost 
