@@ -678,7 +678,7 @@
  7444 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7444.md 
  7480 EOF - Data section access instructions 
  7484 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7484.md 
- 7495 SSZ StableContainer 
+ 7495 SSZ ProgressiveContainer 
  7503 Zero-Knowledge Wormholes 
  7507 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7507.md 
  7508 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-7508.md 
