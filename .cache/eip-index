@@ -825,8 +825,10 @@
  7951 Precompile for secp256r1 Curve Support 
  7954 Increase Maximum Contract Size 
  7956 Tx Ordering via Block-level Randomness 
+ 7957 EVM64 - EOF support 
  7958 EVM64 - Little endian opcodes 
  7960 EOF - Extended types section 
+ 7961 EVM64 - EOF code section 
  7966 eth_sendRawTransactionSync Method 
  7975 eth/70 - partial block receipt lists 
  7976 Further increase calldata cost 
