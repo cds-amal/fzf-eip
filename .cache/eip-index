@@ -812,7 +812,7 @@
  7923 Linear, Page-Based Memory Costing 
  7927 History Expiry Meta 
  7928 Block-Level Access Lists 
- 7932 Algorithmic Transaction Wrapper 
+ 7932 Secondary Signature Algorithms 
  7934 RLP Execution Block Size Limit 
  7935 Set default gas limit to XX0M 
  7937 EVM64 - 64-bit mode EVM opcodes 
