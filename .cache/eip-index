@@ -782,7 +782,7 @@
  7843 SLOTNUM opcode 
  7848 On-chain upgrade signaling 
  7851 Deactivate/Reactivate a Delegated EOA's Key 
- 7862 Delayed Execution Layer State Root 
+ 7862 Delayed State Root 
  7863 Block-level Warming 
  7864 Ethereum state using a unified binary tree 
  7867 Flow Control Wallet Call Capability 
