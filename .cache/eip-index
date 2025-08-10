@@ -832,4 +832,5 @@
  7966 eth_sendRawTransactionSync Method 
  7975 eth/70 - partial block receipt lists 
  7976 Further increase calldata cost 
+ 7980 Ed25519 transaction support 
  7981 Increase access list cost 
