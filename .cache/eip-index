@@ -832,6 +832,7 @@
  7966 eth_sendRawTransactionSync Method 
  7975 eth/70 - partial block receipt lists 
  7976 Further increase calldata cost 
+ 7979 Call and Return Opcodes for the EVM 
  7980 Ed25519 transaction support 
  7981 Increase access list cost 
  7998 Turn `randao_reveal` into a VRF 
