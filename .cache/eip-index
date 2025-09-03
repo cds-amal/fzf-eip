@@ -838,3 +838,5 @@
  7997 Deterministic Factory Predeploy 
  7998 Turn `randao_reveal` into a VRF 
  7999 Unified multidimensional fee market 
+ 8012 Generalized consolidation requests 
+ 8016 SSZ CompatibleUnion 
