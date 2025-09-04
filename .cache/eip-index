@@ -756,7 +756,7 @@
  7768 No-Ether transactions with free-for-all tips 
  7773 Hardfork Meta - Glamsterdam 
  7775 BURN opcode 
- 7778 Block Gas Limit Accounting without Refunds 
+ 7778 Block Gas Accounting without Refunds 
  7782 Reduce Block Latency 
  7783 Add Controlled Gas Limit Increase Strategy 
  7784 GETCONTRACT opcode 
@@ -831,7 +831,7 @@
  7961 EVM64 - EOF code section 
  7966 eth_sendRawTransactionSync Method 
  7975 eth/70 - partial block receipt lists 
- 7976 Further increase calldata cost 
+ 7976 Increase calldata floor cost 
  7979 Call and Return Opcodes for the EVM 
  7980 Ed25519 transaction support 
  7981 Increase access list cost 
