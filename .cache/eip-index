@@ -831,7 +831,7 @@
  7961 EVM64 - EOF code section 
  7966 eth_sendRawTransactionSync Method 
  7975 eth/70 - partial block receipt lists 
- 7976 Increase calldata floor cost 
+ 7976 Increase Calldata Floor Cost 
  7979 Call and Return Opcodes for the EVM 
  7980 Ed25519 transaction support 
  7981 Increase access list cost 
