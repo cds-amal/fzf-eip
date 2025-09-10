@@ -840,4 +840,5 @@
  7999 Unified multidimensional fee market 
  8012 Generalized consolidation requests 
  8013 Static relative jumps and calls for the EVM 
+ 8015 Remove `deposit` and `eth1data` fields 
  8016 SSZ CompatibleUnion 
