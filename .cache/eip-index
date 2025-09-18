@@ -842,3 +842,5 @@
  8013 Static relative jumps and calls for the EVM 
  8015 Remove `deposit` and `eth1data` fields 
  8016 SSZ CompatibleUnion 
+ 8024 Backward compatible SWAPN, DUPN, EXCHANGE 
+ 8025 Optional Execution Proofs 
