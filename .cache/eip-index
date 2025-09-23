@@ -838,6 +838,8 @@
  7997 Deterministic Factory Predeploy 
  7998 Turn `randao_reveal` into a VRF 
  7999 Unified multidimensional fee market 
+ 8007 Glamsterdam Gas Repricings 
+ 8011 Multidimensional Gas Metering 
  8012 Generalized consolidation requests 
  8013 Static relative jumps and calls for the EVM 
  8015 Remove `deposit` and `eth1data` fields 
