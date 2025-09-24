@@ -814,7 +814,7 @@
  7928 Block-Level Access Lists 
  7932 Secondary Signature Algorithms 
  7934 RLP Execution Block Size Limit 
- 7935 Set default gas limit to XX0M 
+ 7935 Set default gas limit to 60M 
  7937 EVM64 - 64-bit mode EVM opcodes 
  7938 Exponential Gas Limit Increase 
  7939 Count leading zeros (CLZ) opcode 
