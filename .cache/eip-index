@@ -847,5 +847,7 @@
  8016 SSZ CompatibleUnion 
  8024 Backward compatible SWAPN, DUPN, EXCHANGE 
  8025 Optional Execution Proofs 
+ 8030 P256 transaction support 
  8032 Tree-Depth-Based Storage Gas Pricing 
  8037 State Creation Gas Cost Increase 
+ 8038 State-access gas cost increase 
