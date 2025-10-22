@@ -850,3 +850,4 @@
  8032 Tree-Depth-Based Storage Gas Pricing 
  8037 State Creation Gas Cost Increase 
  8038 State-access gas cost increase 
+ 8045 Exclude slashed validators from proposing 
