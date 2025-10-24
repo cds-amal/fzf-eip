@@ -802,6 +802,7 @@
  7904 General Repricing 
  7907 Meter Contract Code Size And Increase Limit 
  7910 eth_config JSON-RPC Method 
+ 7911 Scaling Ethereum with a Perceptron Tree ZKP 
  7912 Pragmatic stack manipulation tools 
  7915 Adaptive mean reversion blob pricing 
  7916 SSZ ProgressiveList 
@@ -830,6 +831,7 @@
  7960 EOF - Extended types section 
  7961 EVM64 - EOF code section 
  7966 eth_sendRawTransactionSync Method 
+ 7971 Hard Limits for Transient Storage 
  7975 eth/70 - partial block receipt lists 
  7976 Increase Calldata Floor Cost 
  7979 Call and Return Opcodes for the EVM 
