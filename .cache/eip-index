@@ -849,7 +849,8 @@
  8024 Backward compatible SWAPN, DUPN, EXCHANGE 
  8025 Optional Execution Proofs 
  8030 P256 transaction support 
- 8032 Tree-Depth-Based Storage Gas Pricing 
+ 8032 Size-Based Storage Gas Pricing 
  8037 State Creation Gas Cost Increase 
- 8038 State-access gas cost increase 
+ 8038 State-access gas cost update 
  8045 Exclude slashed validators from proposing 
+ 8057 Inter-Block Temporal Locality Gas Discounts 
