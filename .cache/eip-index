@@ -832,6 +832,7 @@
  7961 EVM64 - EOF code section 
  7966 eth_sendRawTransactionSync Method 
  7971 Hard Limits for Transient Storage 
+ 7973 Warm Account Write Metering 
  7975 eth/70 - partial block receipt lists 
  7976 Increase Calldata Floor Cost 
  7979 Call and Return Opcodes for the EVM 
@@ -854,3 +855,4 @@
  8038 State-access gas cost update 
  8045 Exclude slashed validators from proposing 
  8057 Inter-Block Temporal Locality Gas Discounts 
+ 8058 Contract Bytecode Deduplication Discount 
