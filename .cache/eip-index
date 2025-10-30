@@ -856,3 +856,5 @@
  8045 Exclude slashed validators from proposing 
  8057 Inter-Block Temporal Locality Gas Discounts 
  8058 Contract Bytecode Deduplication Discount 
+ 8061 Increase churn limits 
+ 8062 Add sweep withdrawal fee for 0x01 validators 
