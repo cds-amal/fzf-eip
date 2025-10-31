@@ -854,7 +854,10 @@
  8037 State Creation Gas Cost Increase 
  8038 State-access gas cost update 
  8045 Exclude slashed validators from proposing 
+ 8046 FOCIL with ranked transactions (FOCILR) 
+ 8053 Milli-gas for High-precision Gas Metering 
  8057 Inter-Block Temporal Locality Gas Discounts 
  8058 Contract Bytecode Deduplication Discount 
+ 8059 Gas Units Rebase for High-precision Metering 
  8061 Increase churn limits 
  8062 Add sweep withdrawal fee for 0x01 validators 
