@@ -859,10 +859,11 @@
  8057 Inter-Block Temporal Locality Gas Discounts 
  8058 Contract Bytecode Deduplication Discount 
  8059 Gas Units Rebase for High-precision Metering 
- 8061 Increase churn limits 
+ 8061 Increase exit and consolidation churn 
  8062 Add sweep withdrawal fee for 0x01 validators 
  8066 Upgrade Mascots 
  8068 Neutral effective balance design 
  8070 Sparse Blobpool 
  8071 Prevent using consolidations as withdrawals 
  8072 Transaction Inclusion Subscription 
+ 8077 eth/XX - announce transactions with nonce 
