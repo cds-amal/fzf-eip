@@ -866,4 +866,5 @@
  8070 Sparse Blobpool 
  8071 Prevent using consolidations as withdrawals 
  8072 Transaction Inclusion Subscription 
+ 8075 Adaptive state cost to cap growth & scale L1 
  8077 eth/XX - announce transactions with nonce 
