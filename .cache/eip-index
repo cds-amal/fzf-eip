@@ -855,6 +855,7 @@
  8038 State-access gas cost update 
  8045 Exclude slashed validators from proposing 
  8046 FOCIL with ranked transactions (FOCILR) 
+ 8052 Precompile for Falcon support 
  8053 Milli-gas for High-precision Gas Metering 
  8057 Inter-Block Temporal Locality Gas Discounts 
  8058 Contract Bytecode Deduplication Discount 
@@ -868,3 +869,4 @@
  8072 Transaction Inclusion Subscription 
  8075 Adaptive state cost to cap growth & scale L1 
  8077 eth/XX - announce transactions with nonce 
+ 8079 Native rollups 
