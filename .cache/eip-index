@@ -870,3 +870,4 @@
  8075 Adaptive state cost to cap growth & scale L1 
  8077 eth/XX - announce transactions with nonce 
  8079 Native rollups 
+ 8080 Let exits use the consolidation queue 
