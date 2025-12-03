@@ -748,7 +748,7 @@
  7732 Enshrined Proposer-Builder Separation 
  7736 Leaf-level state expiry in verkle trees 
  7742 Uncouple blob count between CL and EL 
- 7745 Trustless log index 
+ 7745 Trustless log and transaction index 
  7748 State conversion to Verkle Tree 
  7749 Add wallet_signIntendedValidatorData method 
  7756 EOF/EVM Trace Specification 
