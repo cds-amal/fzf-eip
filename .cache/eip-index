@@ -855,7 +855,7 @@
  8037 State Creation Gas Cost Increase 
  8038 State-access gas cost update 
  8045 Exclude slashed validators from proposing 
- 8046 FOCIL with ranked transactions (FOCILR) 
+ 8046 Uniform price auction over inclusion lists 
  8052 Precompile for Falcon support 
  8053 Milli-gas for High-precision Gas Metering 
  8057 Inter-Block Temporal Locality Gas Discounts 
