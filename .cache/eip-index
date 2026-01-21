@@ -838,7 +838,7 @@
  7976 Increase Calldata Floor Cost 
  7979 Call and Return Opcodes for the EVM 
  7980 Ed25519 transaction support 
- 7981 Increase access list cost 
+ 7981 Increase Access List Cost 
  7997 Deterministic Factory Predeploy 
  7998 Turn `randao_reveal` into a VRF 
  7999 Unified multidimensional fee market 
@@ -876,6 +876,8 @@
  8081 Hardfork Meta - Hegotá 
  8094 eth/vhash - Blob-Aware Mempool 
  8096 Increase Gas Cost of Point Evaluation 
+ 8099 MEVless Protocol 
  8115 Batch priority fees at end of block 
  8116 Replace cumulative receipt fields 
  8123 RPC Method for Transaction Gas Limit Cap 
+ 8125 Temporary Contract Storage 
