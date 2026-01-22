@@ -879,5 +879,6 @@
  8099 MEVless Protocol 
  8115 Batch priority fees at end of block 
  8116 Replace cumulative receipt fields 
+ 8120 MLOAD8 and CALLDATALOAD8 Opcodes 
  8123 RPC Method for Transaction Gas Limit Cap 
  8125 Temporary Contract Storage 
