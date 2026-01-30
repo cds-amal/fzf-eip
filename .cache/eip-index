@@ -882,3 +882,4 @@
  8120 MLOAD8 and CALLDATALOAD8 Opcodes 
  8123 RPC Method for Transaction Gas Limit Cap 
  8125 Temporary Contract Storage 
+ 8141 Frame Transaction 
