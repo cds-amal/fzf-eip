@@ -882,4 +882,7 @@
  8120 MLOAD8 and CALLDATALOAD8 Opcodes 
  8123 RPC Method for Transaction Gas Limit Cap 
  8125 Temporary Contract Storage 
+ 8131 Add Auth Data to EIP-7623 Floor 
+ 8134 Hardfork Meta - BPO1 
  8141 Frame Transaction 
+ 8142 Block-in-Blobs (BiB) 
