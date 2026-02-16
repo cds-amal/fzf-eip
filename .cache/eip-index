@@ -888,3 +888,4 @@
  8142 Block-in-Blobs (BiB) 
  8148 Custom sweep threshold for validators 
  8149 Multi KZG Point Evaluation Precompile 
+ 8159 eth/71 - Block Access List Exchange 
