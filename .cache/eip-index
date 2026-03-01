@@ -782,7 +782,7 @@
  7840 Add blob schedule to EL config files 
  7843 SLOTNUM opcode 
  7848 On-chain upgrade signaling 
- 7851 Deactivate/Reactivate a Delegated EOA's Key 
+ 7851 Deactivate a Delegated EOA's Key 
  7862 Delayed State Root 
  7863 Block-level Warming 
  7864 Ethereum state using a unified binary tree 
@@ -883,13 +883,16 @@
  8120 MLOAD8 and CALLDATALOAD8 Opcodes 
  8123 RPC Method for Transaction Gas Limit Cap 
  8125 Temporary Contract Storage 
+ 8130 Account Abstraction by Account Configuration 
  8131 Add Auth Data to EIP-7623 Floor 
  8134 Hardfork Meta - BPO1 
  8135 Hardfork Meta - BPO2 
+ 8136 Cell-Level Deltas for Data Column Broadcast 
  8138 Hardfork Meta - BPO3 
  8141 Frame Transaction 
  8142 Block-in-Blobs (BiB) 
  8146 Block Access List Sidecars 
  8148 Custom sweep threshold for validators 
  8149 Multi KZG Point Evaluation Precompile 
+ 8151 Private Key Deactivation Aware ecRecover 
  8159 eth/71 - Block Access List Exchange 
