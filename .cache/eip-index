@@ -896,3 +896,4 @@
  8149 Multi KZG Point Evaluation Precompile 
  8151 Private Key Deactivation Aware ecRecover 
  8159 eth/71 - Block Access List Exchange 
+ 8163 Reserve `EXTENSION (0xae)` opcode 
