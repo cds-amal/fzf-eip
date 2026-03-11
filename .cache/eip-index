@@ -897,3 +897,5 @@
  8151 Private Key Deactivation Aware ecRecover 
  8159 eth/71 - Block Access List Exchange 
  8163 Reserve `EXTENSION (0xae)` opcode 
+ 8175 Composable Transaction 
+ 8178 Binary SSZ Transport for the Engine API 
