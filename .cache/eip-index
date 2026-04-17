@@ -867,7 +867,7 @@
  8062 Add sweep withdrawal fee for 0x01 validators 
  8066 Upgrade Mascots 
  8068 Neutral effective balance design 
- 8070 Sparse Blobpool 
+ 8070 eth/72 - Sparse Blobpool 
  8071 Prevent using consolidations as withdrawals 
  8072 Transaction Inclusion Subscription 
  8075 Adaptive state cost to cap growth & scale L1 
@@ -907,5 +907,6 @@
  8184 LUCID encrypted mempool 
  8189 snap/2 - BAL-Based State Healing 
  8198 Quick Slots 
+ 8200 EVMification 
  8205 Withdrawal credentials preregistration 
  8209 Commit-Reveal Transaction Frames 
