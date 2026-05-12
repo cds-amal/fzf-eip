@@ -916,3 +916,4 @@
  8209 Commit-Reveal Transaction Frames 
  8237 Independent CL/EL Sync 
  8246 Remove SELFDESTRUCT Burn 
+ 8250 Keyed Nonces for Frame Transactions 
