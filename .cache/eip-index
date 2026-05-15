@@ -782,7 +782,7 @@
  7840 Add blob schedule to EL config files 
  7843 SLOTNUM opcode 
  7848 On-chain upgrade signaling 
- 7851 Disable ECDSA Authority for Delegated EOAs 
+ 7851 Code-Controlled EOA Delegation 
  7862 Delayed State Root 
  7863 Block-level Warming 
  7864 Ethereum state using a unified binary tree 
@@ -917,3 +917,4 @@
  8237 Independent CL/EL Sync 
  8246 Remove SELFDESTRUCT Burn 
  8250 Keyed Nonces for Frame Transactions 
+ 8252 Execution-Layer Reorg State Retention Window 
