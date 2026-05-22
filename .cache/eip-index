@@ -918,3 +918,4 @@
  8246 Remove SELFDESTRUCT Burn 
  8250 Keyed Nonces for Frame Transactions 
  8252 Execution-Layer Reorg State Retention Window 
+ 8253 Bump nonce of zero-nonce storage accounts 
