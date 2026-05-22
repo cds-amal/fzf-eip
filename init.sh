@@ -10,3 +10,4 @@ else
   # export FZF_BROWSER='google-chrome-stable'
 fi
 source ${FZF_EIP_HOME}/eip.sh
+source ${FZF_EIP_HOME}/erc.sh

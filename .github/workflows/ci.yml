@@ -1,0 +1,83 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # https://crontab.guru/every-day
+    - cron: "0 0 * * *"
+  pull_request_target:
+    branches:
+      - master
+  workflow_dispatch: {}
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  sync-eips:
+    runs-on: ubuntu-22.04
+    # don't trigger on bot updates
+    if: "!contains(github.event.head_commit.message, '[ethfzf-bot]')"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Scrape EIPs
+        run: |
+          chmod +x "${GITHUB_WORKSPACE}/scrape-eips.sh"
+          "${GITHUB_WORKSPACE}/scrape-eips.sh"
+      - name: Check for changes
+        run: |
+          if git diff --exit-code -- .cache/eip-index; then
+            echo "changes_exist=false" >> $GITHUB_ENV
+          else
+            echo "changes_exist=true" >> $GITHUB_ENV
+          fi
+      - name: Commit files
+        if: ${{ env.changes_exist == 'true' }}
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -am "[ethfzf-bot] Generate .cache/eip-index"
+      - name: Push changes
+        if: ${{ env.changes_exist == 'true' }}
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+  sync-ercs:
+    runs-on: ubuntu-22.04
+    # don't trigger on bot updates
+    if: "!contains(github.event.head_commit.message, '[ethfzf-bot]')"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # otherwise, there would be errors pushing refs to the destination repository.
+      - name: Scrape ERCs
+        run: |
+          chmod +x "${GITHUB_WORKSPACE}/scrape-ercs.sh"
+          "${GITHUB_WORKSPACE}/scrape-ercs.sh"
+      - name: Check for changes
+        run: |
+          if git diff --exit-code -- .cache/erc-index; then
+            echo "changes_exist=false" >> $GITHUB_ENV
+          else
+            echo "changes_exist=true" >> $GITHUB_ENV
+          fi
+      - name: Commit files
+        if: ${{ env.changes_exist == 'true' }}
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -am "[ethfzf-bot] Generate .cache/erc-index"
+      - name: Push changes
+        if: ${{ env.changes_exist == 'true' }}
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
