@@ -840,7 +840,7 @@
  7979 Call and Return Opcodes for the EVM 
  7980 Ed25519 transaction support 
  7981 Increase Access List Cost 
- 7997 Deterministic Factory Predeploy 
+ 7997 Deterministic Factory Contract 
  7998 Turn `randao_reveal` into a VRF 
  7999 Unified multidimensional fee market 
  8007 Glamsterdam Gas Repricings 
