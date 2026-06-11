@@ -906,7 +906,7 @@
  8178 Binary SSZ Transport for the Engine API 
  8182 Private ETH and ERC-20 Transfers 
  8184 LUCID encrypted mempool 
- 8188 State Tiering by Write Age 
+ 8188 Last-Written Block for Accounts and Slots 
  8189 snap/2 - BAL-Based State Healing 
  8197 Cryptographically Agile Transactions 
  8198 Quick Slots 
