@@ -920,6 +920,7 @@
  8252 Execution-Layer Reorg State Retention Window 
  8253 Bump nonce of zero-nonce storage accounts 
  8254 Cap Deposit Requests Per Block 
+ 8256 Blob Streaming 
  8261 Gas Limit Schedule 
  8266 Expiring Nonces for Frame Transactions 
  8268 Storage Roots in Block Access Lists 
