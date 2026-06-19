@@ -293,7 +293,7 @@
  2767 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2767.md 
  2770 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2770.md 
  2771 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2771.md 
- 2780 Reduce intrinsic transaction gas 
+ 2780 Resource-based intrinsic transaction gas 
  2786 Ethereum Provider Connect/Disconnect Events 
  2803 Rich Transactions 
  2831 Transaction Replacement Message Type 
@@ -925,3 +925,4 @@
  8266 Expiring Nonces for Frame Transactions 
  8268 Storage Roots in Block Access Lists 
  8272 Recent Roots for Frame Transactions 
+ 8279 Block Access List Byte Floor 
