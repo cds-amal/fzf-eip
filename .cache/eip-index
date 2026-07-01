@@ -914,6 +914,7 @@
  8202 Scheme-Agile Transactions 
  8205 Withdrawal credentials preregistration 
  8209 Commit-Reveal Transaction Frames 
+ 8219 Checked Arithmetic Opcodes 
  8222 Lean Staking 
  8237 Independent CL/EL Sync 
  8246 Remove SELFDESTRUCT Burn 
