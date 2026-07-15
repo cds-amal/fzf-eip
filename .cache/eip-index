@@ -936,5 +936,6 @@
  8296 Fixed-Cutoff State Tiering 
  8297 Partitioned Binary Tree 
  8298 SETCODEFROM Code Reuse Instruction 
+ 8304 Trustless log and transaction index 
  8310 Post-Quantum Keystore for Stateful Keys 
  8311 Increase Calldata Floor Cost to 96 
