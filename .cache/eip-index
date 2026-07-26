@@ -939,3 +939,4 @@
  8304 Trustless log and transaction index 
  8310 Post-Quantum Keystore for Stateful Keys 
  8311 Increase Calldata Floor Cost to 96 
+ 8333 Align Checkpoint with Epoch Boundary Block 
