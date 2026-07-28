@@ -897,7 +897,7 @@
  8146 Block Access List Sidecars 
  8148 Custom sweep threshold for validators 
  8149 Multi KZG Point Evaluation Precompile 
- 8151 ECDSA Authority Deactivation Aware ecRecover 
+ 8151 Account Code Restricted ecRecover 
  8159 eth/71 - Block Access List Exchange 
  8163 Reserve `EXTENSION (0xae)` opcode 
  8164 Native Key Delegation for EOAs 
