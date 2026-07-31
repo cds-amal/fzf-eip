@@ -941,3 +941,4 @@
  8311 Increase Calldata Floor Cost to 96 
  8333 Align Checkpoint with Epoch Boundary Block 
  8337 Validated EVM Code 
+ 8347 Offline State Migration to the PBT 
