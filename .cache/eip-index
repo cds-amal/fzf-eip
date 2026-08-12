@@ -740,7 +740,7 @@
  7706 Separate gas type for calldata 
  7707 Incentivize Access List Provisioning 
  7708 ETH transfers emit a log 
- 7709 Read BLOCKHASH from storage and update cost 
+ 7709 Read BLOCKHASH from Storage and Update Cost 
  7713 Box type for EIP-712 messages 
  7716 Anti-correlation attestation penalties 
  7723 Network Upgrade Inclusion Stages 
@@ -943,5 +943,7 @@
  8333 Align Checkpoint with Epoch Boundary Block 
  8337 Validated EVM Code 
  8347 Offline State Migration to the PBT 
+ 8363 Tapered Issuance Burn 
  8368 CPSB Recalibration for New Gas Limit 
+ 8371 RowDAS - Distributed Blob Reconstruction 
  8372 Normalized state gas limit 
