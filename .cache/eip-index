@@ -342,7 +342,7 @@
  3234 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-3234.md 
  3238 Difficulty Bomb Delay to Q2/2022 
  3267 Giving Ethereum fees to Future Salaries 
- 3298 Removal of refunds 
+ 3298 Remove storage-clear refund and refund cap 
  3300 Phase out refunds 
  3322 Account gas storage opcodes 
  3326 Wallet Switch Ethereum Chain RPC Method (`wallet_switchEthereumChain`) 
