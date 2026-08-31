@@ -1,0 +1,370 @@
+ 1 EIP Purpose and Guidelines 
+ 1 EIP Purpose and Guidelines 
+ 20 Token Standard 
+ 55 Mixed-case checksum address encoding 
+ 67 URI Scheme with Metadata, Value and Bytecode 
+ 137 Ethereum Domain Name Service - Specification 
+ 162 Initial ENS Hash Registrar 
+ 165 Standard Interface Detection 
+ 173 Contract Ownership Standard 
+ 181 ENS support for reverse resolution of Ethereum addresses 
+ 190 Ethereum Smart Contract Packaging Standard 
+ 191 Signed Data Standard 
+ 205 ENS support for contract ABIs 
+ 223 Token with transaction handling model 
+ 600 Ethereum purpose allocation for Deterministic Wallets 
+ 601 Ethereum hierarchy for deterministic wallets 
+ 634 Storage of text records in ENS 
+ 681 URL Format for Transaction Requests 
+ 721 Non-Fungible Token Standard 
+ 725 General data key/value store and execution 
+ 777 Token Standard 
+ 801 Canary Standard 
+ 820 Pseudo-introspection Registry Contract 
+ 823 Token Exchange Standard 
+ 831 URI Format for Ethereum 
+ 875 Simpler NFT standard with batching and native atomic swaps 
+ 884 DGCL Token 
+ 897 DelegateProxy 
+ 900 Simple Staking Interface 
+ 902 Token Validation 
+ 918 Mineable Token Standard 
+ 926 Address metadata registry 
+ 927 Generalised authorisations 
+ 998 Composable Non-Fungible Token 
+ 1046 tokenURI Interoperability 
+ 1056 Ethereum Lightweight Identity 
+ 1062 Formalize IPFS hash into ENS(Ethereum Name Service) resolver 
+ 1066 Status Codes 
+ 1077 Gas relay for contract calls 
+ 1078 Universal login / signup using ENS subdomains 
+ 1080 Recoverable Token 
+ 1081 Standard Bounties 
+ 1123 Revised Ethereum Smart Contract Packaging Standard 
+ 1129 Standardised DAPP announcements 
+ 1132 Extending ERC20 with token locking capability 
+ 1154 Oracle Interface 
+ 1155 Multi Token Standard 
+ 1167 Minimal Proxy Contract 
+ 1175 Wallet & shop standard for all tokens (erc20) 
+ 1178 Multi-class Token Standard 
+ 1185 Storage of DNS Records in ENS 
+ 1191 Add chain id to mixed-case checksum address encoding 
+ 1202 Voting Interface 
+ 1203 ERC-1203 Multi-Class Token Standard (ERC-20 Extension) 
+ 1207 DAuth Access Delegation Standard 
+ 1261 Membership Verification Token (MVT) 
+ 1271 Standard Signature Validation Method for Contracts 
+ 1319 Smart Contract Package Registry Interface 
+ 1328 WalletConnect URI Format 
+ 1337 Subscriptions on the blockchain 
+ 1363 Payable Token 
+ 1386 Attestation management contract 
+ 1387 Merkle Tree Attestations with Privacy enabled 
+ 1388 Attestation Issuers Management List 
+ 1417 Poll Standard 
+ 1438 dApp Components (avatar) & Universal Wallet 
+ 1444 Localized Messaging with Signal-to-Text 
+ 1450 ERC-1450 A compatible security token for issuing and trading SEC-compliant securities 
+ 1462 Base Security Token 
+ 1484 Digital Identity Aggregator 
+ 1491 Human Cost Accounting Standard (Like Gas but for humans) 
+ 1504 Upgradable Smart Contract 
+ 1523 Standard for Insurance Policies as ERC-721 Non Fungible Tokens 
+ 1538 Transparent Contract Standard 
+ 1577 contenthash field for ENS 
+ 1581 Non-wallet usage of keys derived from BIP-32 trees 
+ 1592 Address and ERC20-compliant transfer rules 
+ 1613 Gas stations network 
+ 1616 Attribute Registry Standard 
+ 1620 Money Streaming 
+ 1633 Re-Fungible Token Standard (RFT) 
+ 1710 URL Format for Web3 Browsers 
+ 1753 Smart Contract Interface for Licences 
+ 1761 Scoped Approval Interface 
+ 1775 App Keys, application specific wallet accounts 
+ 1812 Ethereum Verifiable Claims 
+ 1820 Pseudo-introspection Registry Contract 
+ 1822 Universal Upgradeable Proxy Standard (UUPS) 
+ 1844 ENS Interface Discovery 
+ 1900 dType - Decentralized Type System for EVM 
+ 1921 dType Functions Extension 
+ 1922 zk-SNARK Verifier Standard 
+ 1923 zk-SNARK Verifier Registry Standard 
+ 1948 Non-fungible Data Token 
+ 1967 Proxy Storage Slots 
+ 1973 Scalable Rewards 
+ 1996 Holdable Token 
+ 2009 Compliance Service 
+ 2018 Clearable Token 
+ 2019 Fundable Token 
+ 2020 E-Money Standard Token 
+ 2021 Payoutable Token 
+ 2098 Compact Signature Representation 
+ 2135 Consumable Interface (Tickets, etc) 
+ 2157 dType Storage Extension - Decentralized Type System for EVM 
+ 2193 dType Alias Extension - Decentralized Type System 
+ 2266 Atomic Swap-based American Call Option Contract Standard 
+ 2304 Multichain address resolution for ENS 
+ 2309 ERC-721 Consecutive Transfer Extension 
+ 2333 BLS12-381 Key Generation 
+ 2334 BLS12-381 Deterministic Account Hierarchy 
+ 2335 BLS12-381 Keystore 
+ 2386 Ethereum 2 Hierarchical Deterministic Walletstore 
+ 2390 Geo-ENS 
+ 2400 Transaction Receipt URI 
+ 2470 Singleton Factory 
+ 2477 Token Metadata Integrity 
+ 2494 Baby Jubjub Elliptic Curve 
+ 2520 Multiple contenthash records for ENS 
+ 2525 ENSLogin 
+ 2535 Diamonds, Multi-Facet Proxy 
+ 2544 ENS Wildcard Resolution 
+ 2569 Saving and Displaying Image Onchain for Universal Tokens 
+ 2612 Permit Extension for EIP-20 Signed Approvals 
+ 2615 Non-Fungible Token with mortgage and rental functions 
+ 2645 Hierarchical Deterministic Wallet for Layer-2 
+ 2678 Revised Ethereum Smart Contract Packaging Standard (EthPM v3) 
+ 2680 Ethereum 2 wallet layout 
+ 2746 Rules Engine Standard 
+ 2767 Contract Ownership Governance 
+ 2770 Meta-Transactions Forwarder Contract 
+ 2771 Secure Protocol for Native Meta Transactions 
+ 2848 My Own Messages (MOM) 
+ 2876 Deposit contract and address standard 
+ 2917 Staking Reward Calculation 
+ 2942 EthPM URI Specification 
+ 2980 Swiss Compliant Asset Token 
+ 2981 NFT Royalty Standard 
+ 3000 Optimistic enactment governance standard 
+ 3005 Batched meta transactions 
+ 3009 Transfer With Authorization 
+ 3135 Exclusive Claimable Token 
+ 3156 Flash Loans 
+ 3224 Described Data 
+ 3234 Batch Flash Loans 
+ 3386 ERC-721 and ERC-1155 to ERC-20 Wrapper 
+ 3440 ERC-721 Editions Standard 
+ 3448 MetaProxy Standard 
+ 3450 Standardized Shamir Secret Sharing Scheme for BIP-39 Mnemonics 
+ 3475 Abstract Storage Bonds 
+ 3525 Semi-Fungible Token 
+ 3561 Trust Minimized Upgradeability Proxy 
+ 3569 Sealed NFT Metadata Standard 
+ 3589 Assemble assets into NFTs 
+ 3643 T-REX - Token for Regulated EXchanges 
+ 3668 "CCIP Read: Secure offchain data retrieval" 
+ 3722 Poster 
+ 3754 A Vanilla Non-Fungible Token Standard 
+ 3770 Chain-specific addresses 
+ 3772 Compressed Integers 
+ 4337 Account Abstraction Using Alt Mempool 
+ 4341 Ordered NFT Batch Standard 
+ 4353 Interface for Staked Tokens in NFTs 
+ 4361 Sign-In with Ethereum 
+ 4393 Micropayments for NFTs and Multi Tokens 
+ 4400 EIP-721 Consumable Extension 
+ 4430 Described Transactions 
+ 4494 Permit for ERC-721 NFTs 
+ 4519 Non-Fungible Tokens Tied to Physical Assets 
+ 4521 721/20-compatible transfer 
+ 4524 Safer ERC-20 
+ 4527 QR Code transmission protocol for wallets 
+ 4546 Wrapped Deposits 
+ 4626 Tokenized Vaults 
+ 4671 Non-Tradable Tokens Standard 
+ 4675 Multi-Fractional Non-Fungible Tokens 
+ 4799 Non-Fungible Token Ownership Designation Standard 
+ 4804 Web3 URL to EVM Call Message Translation 
+ 4824 Common Interfaces for DAOs 
+ 4834 Hierarchical Domains 
+ 4883 Composable SVG NFT 
+ 4885 Subscription NFTs and Multi Tokens 
+ 4886 Proxy Ownership Register 
+ 4906 EIP-721 Metadata Update Extension 
+ 4907 Rental NFT, an Extension of EIP-721 
+ 4910 Royalty Bearing NFTs 
+ 4931 Generic Token Upgrade Standard 
+ 4944 Contract with Exactly One Non-fungible Token 
+ 4950 Entangled Tokens 
+ 4955 Vendor Metadata Extension for NFTs 
+ 4972 Name-Owned Account 
+ 4973 Account-bound Tokens 
+ 4974 Ratings 
+ 4987 Held token interface 
+ 5005 Zodiac Modular Accounts 
+ 5006 Rental NFT, NFT User Extension 
+ 5007 Time NFT, ERC-721 Time Extension 
+ 5008 ERC-721 Nonce Extension 
+ 5018 Filesystem-like Interface for Contracts 
+ 5023 Shareable Non-Fungible Token 
+ 5050 Interactive NFTs with Modular Environments 
+ 5058 Lockable Non-Fungible Tokens 
+ 5094 URL Format for Ethereum Network Switching 
+ 5095 Principal Token 
+ 5114 Soulbound Badge 
+ 5115 SY Token 
+ 5131 SAFE Authentication For ENS 
+ 5139 Remote Procedure Call Provider Lists 
+ 5143 Slippage Protection for Tokenized Vault 
+ 5164 Cross-Chain Execution 
+ 5169 Client Script URI for Token Contracts 
+ 5173 NFT Future Rewards (nFR) 
+ 5185 NFT Updatable Metadata Extension 
+ 5187 Extend EIP-1155 with rentable usage rights 
+ 5189 Account Abstraction via Endorsed Operations 
+ 5192 Minimal Soulbound NFTs 
+ 5202 Blueprint contract format 
+ 5216 EIP-1155 Approval By Amount Extension 
+ 5218 NFT Rights Management 
+ 5219 Contract Resource Requests 
+ 5247 Smart Contract Executable Proposal Interface 
+ 5252 Account-bound Finance 
+ 5267 Retrieval of EIP-712 domain 
+ 5269 ERC Detection and Discovery 
+ 5289 Ethereum Notary Interface 
+ 5298 ENS Trust to hold NFTs under ENS name 
+ 5313 Light Contract Ownership 
+ 5334 EIP-721 User And Expires And Level Extension 
+ 5375 NFT Author Information and Consent 
+ 5380 ERC-721 Entitlement Extension 
+ 5409 EIP-1155 Non-Fungible Token extension 
+ 5437 Security Contact Interface 
+ 5453 Endorsement - Permit for Any Functions 
+ 5484 Consensual Soulbound Tokens 
+ 5485 Legitimacy, Jurisdiction and Sovereignty 
+ 5489 NFT Hyperlink Extension 
+ 5496 Multi-privilege Management NFT Extension 
+ 5501 Rental & Delegation NFT - EIP-721 Extension 
+ 5505 EIP-1155 asset backed NFT extension 
+ 5507 Refundable Tokens 
+ 5516 Soulbound Multi-owner Tokens 
+ 5521 Referable NFT 
+ 5528 Refundable Fungible Token 
+ 5539 Revocation List Registry 
+ 5553 Representing IP and its Royalty Structure 
+ 5554 NFT Legal Use, Repurposing, and Remixing 
+ 5559 "Cross Chain Write Deferral Protocol" 
+ 5560 Redeemable NFTs 
+ 5564 Stealth Addresses 
+ 5568 Well-Known Format for Required Actions 
+ 5570 Digital Receipt Non-Fungible Tokens 
+ 5573 Sign-In with Ethereum Capabilities, ReCaps 
+ 5585 ERC-721 NFT Authorization 
+ 5604 NFT Lien 
+ 5606 Multiverse NFTs 
+ 5615 ERC-1155 Supply Extension 
+ 5625 NFT Metadata JSON Schema dStorage Extension 
+ 5630 New approach for encryption / decryption 
+ 5633 Composable Soulbound NFT, EIP-1155 Extension 
+ 5635 NFT Licensing Agreements 
+ 5639 Delegation Registry 
+ 5643 Subscription NFTs 
+ 5646 Token State Fingerprint 
+ 5679 Token Minting and Burning 
+ 5700 Bindable Token Interface 
+ 5719 Signature replacement interface 
+ 5725 Transferable Vesting NFT 
+ 5727 Semi-Fungible Soulbound Token 
+ 5732 Commit Interface 
+ 5744 Latent Fungible Token 
+ 5750 General Extensibility for Method Behaviors 
+ 5753 Lockable Extension for EIP-721 
+ 5773 Context-Dependent Multi-Asset Tokens 
+ 5791 Physical Backed Tokens 
+ 5805 Voting with delegation 
+ 5827 Auto-renewable allowance extension 
+ 5850 Complex Numbers stored in `bytes32` types 
+ 5851 On-Chain Verifiable Credentials 
+ 5883 Token Transfer by Social Recovery 
+ 5902 Smart Contract Event Hooks 
+ 5982 Role-based Access Control 
+ 6047 ERC-721 Balance indexing via Transfer event 
+ 6059 Parent-Governed Nestable Non-Fungible Tokens 
+ 6065 Real Estate Token 
+ 6066 Signature Validation Method for NFTs 
+ 6093 Custom errors for commonly-used tokens 
+ 6105 No Intermediary NFT Trading Protocol 
+ 6120 Universal Token Router 
+ 6123 Smart Derivative Contract 
+ 6147 Guard of NFT/SBT, an Extension of ERC-721 
+ 6150 Hierarchical NFTs 
+ 6170 Cross-Chain Messaging Interface 
+ 6220 Composable NFTs utilizing Equippable Parts 
+ 6224 Contracts Dependencies Registry 
+ 6239 Semantic Soulbound Tokens 
+ 6268 Untransferability Indicator for EIP-1155 
+ 6315 ERC-2771 Namespaced Account Abstraction 
+ 6327 Elastic Signature 
+ 6353 Charity token 
+ 6357 Single-contract Multi-delegatecall 
+ 6358 Cross-Chain Token States Synchronization 
+ 6366 Permission Token 
+ 6372 Contract clock 
+ 6381 Public Non-Fungible Token Emote Repository 
+ 6384 Human-readable offline signatures 
+ 6454 Minimal Transferable NFT detection interface 
+ 6464 Multi-operator, per-token ERC-721 approvals. 
+ 6492 Signature Validation for Predeploy Contracts 
+ 6506 P2P Escrowed Governance Incentives 
+ 6538 Stealth Meta-Address Registry 
+ 6551 Non-fungible Token Bound Accounts 
+ 6596 Historical Asset Metadata JSON Schema 
+ 6604 Abstract Token 
+ 6617 Bit Based Permission 
+ 6662 AA Account Metadata For Authentication 
+ 6672 Multi-redeemable NFTs 
+ 6682 NFT Flashloans 
+ 6734 L2 Token List 
+ 6735 L2 Aliasing of EVM-based Addresses 
+ 6785 ERC-721 Utilities Information Extension 
+ 6786 Registry for royalties payment for NFTs 
+ 6787 Order Book DEX with Two Phase Withdrawal 
+ 6806 ERC-721 Holding Time Tracking 
+ 6808 Fungible Key Bound Token 
+ 6809 Non-Fungible Key Bound Token 
+ 6821 Support ENS Name for Web3 URL 
+ 6823 Token Mapping Slot Retrieval Extension 
+ 6860 Web3 URL to EVM Call Message Translation 
+ 6864 Upgradable Fungible Token 
+ 6865 On-Chain EIP-712 Visualization 
+ 6900 Modular Smart Contract Accounts and Plugins 
+ 6909 Minimal Multi-Token Interface 
+ 6944 ERC-5219 Resolve Mode 
+ 6956 Asset-bound Non-Fungible Tokens 
+ 6960 Dual Layer Token 
+ 6981 Reserved Ownership Accounts 
+ 6982 Efficient Default Lockable Tokens 
+ 6997 ERC-721 with transaction validation step. 
+ 7007 Zero-Knowledge AI-Generated Content Token 
+ 7015 NFT Creator Attribution 
+ 7053 Interoperable Digital Media Indexing 
+ 7066 Lockable Extension for ERC-721 
+ 7085 NFT Relationship Enhancement 
+ 7092 Financial Bonds 
+ 7093 Social Recovery Interface 
+ 7144 ERC-20 with transaction validation step. 
+ 7160 ERC-721 Multi-Metadata Extension 
+ 7201 Namespaced Storage Layout 
+ 7231 Identity aggregated NFT 
+ 7254 Token Revenue Sharing 
+ 7303 Token-Controlled Token Circulation 
+ 7401 Parent-Governed Non-Fungible Tokens Nesting 
+ 7405 Portable Smart Contract Accounts 
+ 7406 Multi-Namespace Onchain Registry 
+ 7409 Public Non-Fungible Tokens Emote Repository 
+ 7412 On-Demand Off-Chain Data Retrieval 
+ 7417 Token Converter 
+ 7425 Tokenized Reserve 
+ 7432 Non-Fungible Token Roles 
+ 7444 Time Locks Maturity 
+ 7484 Registries and Adapters for Smart Accounts 
+ 7507 Multi-User NFT Extension 
+ 7508 Dynamic On-Chain Token Attributes Repository 
+ 7511 Minimal Proxy Contract with PUSH0 
+ 7512 Onchain Representation for Audits 
+ 7521 General Intents for Smart Contract Wallets 
+ 7522 OIDC ZK Verifier for AA Account 
+ 7528 ETH (Native Asset) Address Convention 
+ 7535 Native Asset ERC-4626 Tokenized Vault 
+ 7540 Asynchronous ERC-4626 Tokenized Vaults 
