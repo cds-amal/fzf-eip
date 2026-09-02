@@ -943,8 +943,10 @@
  8333 Align Checkpoint with Epoch Boundary Block 
  8337 Validated EVM Code 
  8347 Offline State Migration to the PBT 
+ 8355 Precompiles for ML-DSA Verification 
  8363 Tapered Issuance Burn 
  8368 CPSB Recalibration for New Gas Limit 
+ 8369 VOPS Profiles for FOCIL Eligibility 
  8371 RowDAS - Distributed Blob Reconstruction 
  8372 Normalized state gas limit 
  8390 Remove the Sync Committee 
