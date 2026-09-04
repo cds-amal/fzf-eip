@@ -885,7 +885,7 @@
  8120 MLOAD8 and CALLDATALOAD8 Opcodes 
  8123 RPC Method for Transaction Gas Limit Cap 
  8125 Temporary Contract Storage 
- 8130 Account Abstraction by Account Configuration 
+ 8130 Keystore Accounts 
  8131 Unified Transaction Content Floor 
  8133 Network Upgrade Naming 
  8134 Hardfork Meta - BPO1 
@@ -949,4 +949,5 @@
  8369 VOPS Profiles for FOCIL Eligibility 
  8371 RowDAS - Distributed Blob Reconstruction 
  8372 Normalized state gas limit 
+ 8379 Top-up Sync 
  8390 Remove the Sync Committee 
