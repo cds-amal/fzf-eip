@@ -944,6 +944,7 @@
  8337 Validated EVM Code 
  8347 Offline State Migration to the PBT 
  8355 Precompiles for ML-DSA Verification 
+ 8360 TCREATE Opcode 
  8363 Tapered Issuance Burn 
  8368 CPSB Recalibration for New Gas Limit 
  8369 VOPS Profiles for FOCIL Eligibility 
