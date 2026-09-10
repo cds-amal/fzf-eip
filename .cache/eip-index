@@ -930,6 +930,7 @@
  8272 Recent Roots for Frame Transactions 
  8279 Block Access List Byte Floor 
  8282 Builder Execution Requests 
+ 8288 Frame Type for PQ Sig and STARK Aggregation 
  8289 Multi-block Access List Warming 
  8292 Post-Quantum Attestation Aggregators 
  8295 State Tiering by Periods 
