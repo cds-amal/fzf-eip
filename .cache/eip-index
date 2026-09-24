@@ -953,4 +953,5 @@
  8371 RowDAS - Distributed Blob Reconstruction 
  8372 Normalized state gas limit 
  8379 Top-up Sync 
+ 8383 Reduce CL Block Retention Window 
  8390 Remove the Sync Committee 
