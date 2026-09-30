@@ -742,7 +742,7 @@
  7708 ETH transfers emit a log 
  7709 Read BLOCKHASH from Storage and Update Cost 
  7713 Box type for EIP-712 messages 
- 7716 Anti-correlation attestation penalties 
+ 7716 Anti-Correlation Attestation Penalties 
  7723 Network Upgrade Inclusion Stages 
  7727 EVM Transaction Bundles 
  7732 Enshrined Proposer-Builder Separation 
@@ -802,7 +802,7 @@
  7903 Remove Initcode Size Limit 
  7904 Compute Gas Cost Analysis 
  7906 Transaction Assertions via State Diff Opcode 
- 7907 Meter Contract Code Size And Increase Limit 
+ 7907 Meter Contract Code Size 
  7910 eth_config JSON-RPC Method 
  7911 Scaling Ethereum with a Perceptron Tree ZKP 
  7912 Pragmatic stack manipulation tools 
