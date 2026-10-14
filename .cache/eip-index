@@ -946,8 +946,10 @@
  8337 Validated EVM Code 
  8347 Offline State Migration to the PBT 
  8355 Precompiles for ML-DSA Verification 
+ 8357 EVM Verification Key Registry 
  8360 TCREATE Opcode 
  8363 Tapered Issuance Burn 
+ 8364 SSZ Compact Multiproofs 
  8365 Disallow new 0x00 validators 
  8368 CPSB Recalibration for New Gas Limit 
  8369 VOPS Profiles for FOCIL Eligibility 
@@ -956,4 +958,5 @@
  8379 Top-up Sync 
  8383 Reduce CL Block Retention Window 
  8390 Remove the Sync Committee 
+ 8397 Frame Authenticator Signatures 
  8411 Fast Execution Payload Broadcast 
