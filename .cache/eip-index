@@ -962,5 +962,7 @@
  8383 Reduce CL Block Retention Window 
  8390 Remove the Sync Committee 
  8397 Frame Authenticator Signatures 
+ 8408 eth/73 - Indexed Cell Requests 
  8411 Fast Execution Payload Broadcast 
  8433 Retire 0x00 Validators 
+ 8450 Post-Quantum Validator Key Registry 
