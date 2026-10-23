@@ -293,7 +293,7 @@
  2767 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2767.md 
  2770 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2770.md 
  2771 ERC Moved --- //github.com/ethereum/ercs/blob/master/ERCS/erc-2771.md 
- 2780 Resource-based intrinsic transaction gas 
+ 2780 Resource-Based Intrinsic Transaction Gas 
  2786 Ethereum Provider Connect/Disconnect Events 
  2803 Rich Transactions 
  2831 Transaction Replacement Message Type 
@@ -729,7 +729,7 @@
  7684 Return deposits for distinct credentials 
  7685 General purpose execution layer requests 
  7686 Linear EVM memory limits 
- 7688 Forward compatible consensus data structures 
+ 7688 Forward Compatible Consensus Data Structures 
  7691 Blob throughput increase 
  7692 EVM Object Format (EOFv1) Meta 
  7698 EOF - Creation transaction 
@@ -739,7 +739,7 @@
  7705 NONREENTRANT and REENTRANT opcodes 
  7706 Separate gas type for calldata 
  7707 Incentivize Access List Provisioning 
- 7708 ETH transfers emit a log 
+ 7708 ETH Transfers Emit a Log 
  7709 Read BLOCKHASH from Storage and Update Cost 
  7713 Box type for EIP-712 messages 
  7716 Anti-Correlation Attestation Penalties 
@@ -780,7 +780,7 @@
  7833 Scheduled function calls 
  7834 Separate Metadata Section for EOF 
  7840 Add blob schedule to EL config files 
- 7843 SLOTNUM opcode 
+ 7843 SLOTNUM Opcode 
  7848 On-chain upgrade signaling 
  7851 Code-Controlled EOA Delegation 
  7862 Delayed State Root 
@@ -835,7 +835,7 @@
  7966 eth_sendRawTransactionSync Method 
  7971 Hard Limits for Transient Storage 
  7973 Warm Account Write Metering 
- 7975 eth/70 - partial block receipt lists 
+ 7975 eth/70 - Partial Block Receipt Lists 
  7976 Increase Calldata Floor Cost 
  7979 Call and Return Opcodes for the EVM 
  7980 Ed25519 transaction support 
@@ -849,13 +849,13 @@
  8013 Static relative jumps and calls for the EVM 
  8015 Remove `deposit` and `eth1data` fields 
  8016 SSZ CompatibleUnion 
- 8024 Backward compatible SWAPN, DUPN, EXCHANGE 
+ 8024 Backward Compatible SWAPN, DUPN, EXCHANGE 
  8025 Optional Execution Proofs 
  8030 P256 algorithm support 
  8032 Size-Based Storage Gas Pricing 
  8037 State Creation Gas Cost Increase 
- 8038 State-access gas cost update 
- 8045 Exclude slashed validators from proposing 
+ 8038 State-Access Gas Cost Update 
+ 8045 Exclude Slashed Validators from Proposing 
  8046 Uniform price auction over inclusion lists 
  8051 Precompile for ML-DSA signature verification 
  8052 Precompile for Falcon support 
@@ -863,7 +863,7 @@
  8057 Inter-Block Temporal Locality Gas Discounts 
  8058 Contract Bytecode Deduplication Discount 
  8059 Gas Units Rebase for High-precision Metering 
- 8061 Increase exit and consolidation churn 
+ 8061 Increase Exit and Consolidation Churn 
  8062 Add sweep withdrawal fee for 0x01 validators 
  8066 Upgrade Mascots 
  8068 Neutral effective balance design 
