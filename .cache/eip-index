@@ -964,5 +964,7 @@
  8397 Frame Authenticator Signatures 
  8408 eth/73 - Indexed Cell Requests 
  8411 Fast Execution Payload Broadcast 
+ 8425 Quantum Freeze and Account Recovery 
  8433 Retire 0x00 Validators 
+ 8435 Last-Written Block in PBT Leaves 
  8450 Post-Quantum Validator Key Registry 
