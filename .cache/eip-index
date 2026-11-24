@@ -965,8 +965,18 @@
  8408 eth/73 - Indexed Cell Requests 
  8411 Fast Execution Payload Broadcast 
  8425 Quantum Freeze and Account Recovery 
+ 8430 AA Transaction Type 
  8433 Retire 0x00 Validators 
  8435 Last-Written Block in PBT Leaves 
+ 8437 eth/75 - Proof Wrapper Propagation 
  8449 Engine API Proposal Lookahead 
  8450 Post-Quantum Consensus Key Registry 
+ 8452 Jump and Call Tables for the EVM 
+ 8455 RESERVOIR Opcode 
+ 8456 CALLSTATUS Instruction 
  8457 Batched KZG Point Evaluation via EIP-2537 
+ 8477 Recent Block Bound Delegation Authorizations 
+ 8491 LUCID Key Publisher Priority Lists 
+ 8496 Code Reads in Block-Level Access Lists 
+ 8502 Dynamic individual consolidation incentive 
+ 8512 eth/74 - Dependency Proof Exchange 
