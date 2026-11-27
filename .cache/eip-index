@@ -953,6 +953,7 @@
  8363 Tapered Issuance Burn 
  8364 SSZ Compact Multiproofs 
  8365 Disallow new 0x00 validators 
+ 8367 Balance sunset for retired BLS validators 
  8368 CPSB Recalibration for New Gas Limit 
  8369 VOPS Profiles for FOCIL Eligibility 
  8371 RowDAS - Distributed Blob Reconstruction 
@@ -969,13 +970,16 @@
  8433 Retire 0x00 Validators 
  8435 Last-Written Block in PBT Leaves 
  8437 eth/75 - Proof Wrapper Propagation 
+ 8442 64-bit Opcodes for the EVM 
  8449 Engine API Proposal Lookahead 
  8450 Post-Quantum Consensus Key Registry 
  8452 Jump and Call Tables for the EVM 
  8455 RESERVOIR Opcode 
  8456 CALLSTATUS Instruction 
  8457 Batched KZG Point Evaluation via EIP-2537 
+ 8476 Permanent EOA Delegation Opt-Out 
  8477 Recent Block Bound Delegation Authorizations 
+ 8488 Versioned Opcodes for Gas Repricing 
  8491 LUCID Key Publisher Priority Lists 
  8496 Code Reads in Block-Level Access Lists 
  8502 Dynamic individual consolidation incentive 
